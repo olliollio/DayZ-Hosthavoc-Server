@@ -1,0 +1,45 @@
+15:36:40.934 [Party] Player "ollIo" (id=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) joinded the party "Chimera Swift" (id=0 ownerUID=ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c= ownerName=Monk)
+15:36:40.937 [Expansion Quests] Initialize quest system on the connected client with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.970 [Expansion Quests] Loaded existing player quest data for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.974 [Expansion Quests] Loaded existing group quest data for group with ID=0
+15:36:40.978 [Expansion Quests] Check quest initialization for quest with ID=5 | State=CAN_TURNIN | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.982 [Expansion Quests] Create new quest instance for quest with ID=5 | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.985 [Expansion Quests] Check quest initialization for quest with ID=8 | State=STARTED | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.989 [Expansion Quests] Create new quest instance for quest with ID=8 | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.994 [Expansion Quests] Check quest initialization for quest with ID=9 | State=STARTED | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:40.997 [Expansion Quests] Create new quest instance for quest with ID=9 | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.002 [Expansion Quests] Check quest initialization for quest with ID=11 | State=STARTED | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.006 [Expansion Quests] Create new quest instance for quest with ID=11 | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.010 [Expansion Quests] Check quest initialization for quest with ID=14 | State=COMPLETED | Player UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.018 [Expansion Quests] Quest with ID=1 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.022 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.025 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.028 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.033 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.037 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.040 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.044 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.048 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.052 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.056 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.060 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.063 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.069 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.073 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.077 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.081 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.086 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.089 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.099 [Expansion Quests] Sending 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8= quest configs to client for player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.104 [Expansion Quests] Sending player quest data for 5 quests to player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.117 [AI Patrol 00008] Spawning 3 West bots at <4155.661133, 328.834412, 6334.974121>
+15:36:41.165 [AI Patrol 00008] Global patrol count: 1
+15:36:41.169 [AI Patrol 00009] Spawning 3 West bots at <4556.131836, 309.101868, 5790.977539>
+15:36:41.209 [AI Patrol 00009] Global patrol count: 2
+15:36:41.904 [Expansion Quests] - LoadGroupQuestData - Got cached group quest data for group with ID=0
+15:41:07.290 [MissionAirdrop] An airdrop is heading towards "Skalisty Island" (pos=<13452.000000, 0.000000, 3112.000000> type=Random_Skalisty Island) with a ExpansionAirdropContainer_Medical
+15:41:54.888 [Party] Player "ollIo" (id=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) left the party "Chimera Swift" (id=0 ownerUID=ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c= ownerName=Monk)
+15:41:54.892 [Expansion Quests] Deleted quest with ID=8 is a of player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=.
+15:41:54.897 [Expansion Quests] Deleted quest with ID=9 is a of player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=.
+15:41:54.901 [Expansion Quests] Deleted quest with ID=11 is a of player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=.
+15:41:54.906 [Expansion Quests] Deleted quest with ID=5 is a of player with UID=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=.

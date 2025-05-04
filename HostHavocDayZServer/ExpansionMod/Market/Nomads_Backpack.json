@@ -1,0 +1,50 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Nomads_Backpack",
+  "Icon": "Backpack",
+  "Color": "0026FFFF",
+  "InitStockPercent": 75.0,
+  "IsExchange": 0,
+  "Items": [
+    {
+      "ClassName": "Nomadbackpack_v3_BaseColor",
+      "MaxPriceThreshold": 5000,
+      "MinPriceThreshold": 5000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Nomadbackpack_v3_Blue",
+        "Nomadbackpack_v3_Teal",
+        "Nomadbackpack_v3_Green",
+        "Nomadbackpack_v3_Grey",
+        "Nomadbackpack_v3_Red",
+        "Nomadbackpack_v3_Yellow",
+        "Nomadbackpack_v3_Black",
+        "Nomadbackpack_v3_AoR2",
+        "Nomadbackpack_v3_Woodland",
+        "Nomadbackpack_v3_Winter",
+        "Kits_Bottle_v3_ArmyGreen"
+      ]
+    },
+    {
+      "ClassName": "Kits_Bottle_v3_Black",
+      "MaxPriceThreshold": 500,
+      "MinPriceThreshold": 500,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "Kits_Bottle_v3_Brown",
+        "Kits_Bottle_v3_Teal",
+        "Kits_Bottle_v3_Weed",
+        "Kits_Bottle_v3_White",
+        "Kits_Bottle_v3_Yellow"
+      ]
+    }
+  ]
+}

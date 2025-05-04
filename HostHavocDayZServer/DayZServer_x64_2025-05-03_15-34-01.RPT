@@ -1,0 +1,1882 @@
+=====================================================================
+== C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe
+== "C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe" "-port=2302" "-config=serverDZ_By_HostHavoc.cfg" "-profiles=C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer" "-servermod=" "-mod=@CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron;@R22R_Base_Fortifications_RELOADED;@Honey-Badger;@SovietWeapons;@DayZ Editor Loader;@Paragon Optics;@InediaInfectedAI;@InediaTerjeCompatibility;@Combinable Items;@GoreZ"
+=====================================================================
+Exe timestamp: 2025/04/16 01:02:17
+Current time:  2025/05/03 15:34:09
+Version 1.27.159674
+=====================================================================
+
+15:34:09.968 [Inputs] Loading inputs default "bin/constants.xml"
+15:34:09.972 [Inputs] Loading inputs default "bin/specific.xml"
+15:34:09.973 [Inputs] Loading inputs default "EditorLoader/Scripts/Inputs.xml"
+15:34:09.973 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+15:34:09.974 [Inputs] Loading inputs default "R22R_Base_Fortifications_Reloaded\inputs\inputs.xml"
+15:34:09.974 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+15:34:09.975 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+15:34:09.975 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:34:09.975 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+15:34:09.975 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:34:09.975 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+15:34:09.975 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:34:09.976 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+15:34:09.977 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+15:34:09.977 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+15:34:09.977 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:34:09.978 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+15:34:09.978 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:34:09.978 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+15:34:09.978 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+15:34:09.978 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+15:34:09.979 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+15:34:09.985 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+15:34:43.402 Hostname of server: "Olli and Monk Hardcore Test"
+15:35:07.483 [CE][Hive] :: Initializing OFFLINE
+15:35:07.484 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\
+15:35:07.484 [CE][Hive] :: Loading core data ... 
+15:35:07.485 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+15:35:15.463 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+15:35:15.466 [CE][TypeSetup] :: 561 classes setuped...
+15:35:15.470 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+15:35:15.471 [CE][TypeSetup] :: 96 classes setuped...
+15:35:18.192 [CE][RegisterBind] :: 0 classes binded...
+15:35:18.193 [CE][RegisterConfig] :: 13383 config classes registered, 0 sub-counters...
+15:35:18.193 [CE][Hive] :: Loading map data ... 
+15:35:18.194 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+15:35:18.242 [CE][LoadPrototype] :: loaded 426 prototypes
+15:35:18.242   822 containers, 10876 points
+15:35:18.242   71 dispatches, 250 proxies
+15:35:18.242 !!! [CE][LoadPrototype] 5 groups have no points...
+15:35:18.243 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+15:35:18.250 [CE][LoadPrototype] :: loaded 0 prototypes
+15:35:18.250   55 containers, 232 points
+15:35:18.250   0 dispatches, 0 proxies
+15:35:18.250 [CE][LoadPrototype] :: last group name: Rail9...
+15:35:19.300 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+15:35:19.305 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+15:35:19.856 [CE][Links] found 1950 total links between groups, of 11680
+15:35:19.856 [CE][LoadClusters] "Cluster" :: Loading files...
+15:35:20.43 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+15:35:20.246 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+15:35:20.450 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+15:35:20.648 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+15:35:20.729 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+15:35:20.735 [CE][Storage] ver:21 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+15:35:20.736 [CE][Storage] ver:21 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+15:35:20.737 [CE][Storage] ver:21 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+15:35:20.737 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin".
+15:35:20.990 !!! [CE][offlineDB] :: No Shutdown message present.
+15:35:20.992 [CE][offlineDB] :: Loaded 50 dynamic events 235 total types.
+15:35:20.993 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+15:35:20.993 [CE][offlineDB] :: Loaded 61 dynamic events 299 total types.
+15:35:21.19 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+15:35:21.20 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+15:35:21.21 !!! [CE] :: Unknown usage: 'Tenement'.
+15:35:21.21 !!! [CE][offlineDB] :: Type 'class Spur_Kopter_Blade' will be ignored. (Type does not exist. (Typo?))
+15:35:21.31 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+15:35:21.31 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+15:35:21.31 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+15:35:21.224 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+15:35:21.224 [CE][DE][SPAWNS] :: Total positions: 1096
+15:35:21.224 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+15:35:21.225 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+15:35:21.225 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+15:35:21.226 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+15:35:21.226 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin".
+15:35:21.226 [CE][DynamicEvent] Load  Events:[61] Primary spawners: 61 Secondary spawners: 4
+15:35:21.227 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+15:35:21.227 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+15:35:21.228 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+15:35:21.228 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin" 859 items.
+15:35:23.122   859 items loaded. (0 failed)
+15:35:23.123 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+15:35:23.123 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+15:35:23.125 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+15:35:23.125 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1704 items.
+15:35:26.112   1704 items loaded. (0 failed)
+15:35:26.113 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+15:35:26.113 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+15:35:26.114 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+15:35:26.114 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2337 items.
+15:35:30.75   2337 items loaded. (0 failed)
+15:35:30.77 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+15:35:30.78 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+15:35:30.79 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+15:35:30.79 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 1989 items.
+15:35:33.518   1989 items loaded. (0 failed)
+15:35:33.519 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+15:35:33.519 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+15:35:33.520 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+15:35:33.520 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1751 items.
+15:35:36.575   1751 items loaded. (0 failed)
+15:35:36.576 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+15:35:36.577 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+15:35:36.577 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+15:35:36.577 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin" 2001 items.
+15:35:40.35   2001 items loaded. (0 failed)
+15:35:40.36 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+15:35:40.39 !!! [CE][Storage] Failed to read [Storage] data file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001".
+15:35:40.39   File not closed...
+15:35:40.39 [CE][Storage] ver:25 stamp:2638, valid:NO, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+15:35:40.40 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+15:35:40.40 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin" 1477 items.
+15:35:42.695   1477 items loaded. (0 failed)
+15:35:42.695 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+15:35:42.696 [CE][Storage] ver:25 stamp:2638, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+15:35:42.697 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+15:35:42.697 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001" 1444 items.
+15:35:45.318   1444 items loaded. (0 failed)
+15:35:45.320 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+15:35:45.320 [CE][Storage] ver:25 stamp:2638, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+15:35:45.321 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+15:35:45.321 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001" 2100 items.
+15:35:49.243   2100 items loaded. (0 failed)
+15:35:49.245 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+15:35:49.245 [CE][Storage] ver:25 stamp:2638, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+15:35:49.246 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+15:35:49.246 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001" 2623 items.
+15:35:54.289   2623 items loaded. (0 failed)
+15:35:54.290 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+15:35:54.291 [CE][Storage] ver:25 stamp:2638, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+15:35:54.292 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+15:35:54.293 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001" 1686 items.
+15:35:57.558   1686 items loaded. (0 failed)
+15:35:57.559 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+15:35:57.560 [CE][Storage] ver:25 stamp:2638, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+15:35:57.560 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+15:35:57.560 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001" 165 items.
+15:35:57.879   165 items loaded. (0 failed)
+15:35:57.880 [CE][Storage] ver:26 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin"
+15:35:57.880 [CE][Storage] ver:26 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.001"
+15:35:57.881 [CE][Storage] ver:26 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.002"
+15:35:57.881 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin" 0 items.
+15:35:57.881   0 items loaded. (0 failed)
+15:35:57.882 [CE][Storage] ver:25 stamp:2637, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+15:35:57.883 [CE][Storage] ver:25 stamp:2635, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+15:35:57.883 [CE][Storage] ver:25 stamp:2636, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+15:35:57.884 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin" 274 items.
+15:35:59.665   274 items loaded. (0 failed)
+15:35:59.741 [CE][Hive] :: Storage load took:38.52 seconds, recovery stamp:2638
+15:35:59.741   entity: 22042, building: 0
+15:35:59.741   no lifetime: 95
+15:35:59.741   pathgraph's: 579
+15:35:59.742 [CE][Hive] :: Initializing ... 
+15:36:00.246 [CE][InitializeMap] :: initialized: 0
+15:36:00.246 [CE][Hive] :: Initializing spawners ... 
+15:36:00.480 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:24966, Total in Map: 20366 at 0 (sec)
+15:36:00.480   tests:0, repeats:0 fails:0, overtime:0
+15:36:00.489 [CE][DynEvent] :: 61 types
+15:36:00.489 [00] AmbientFox
+15:36:00.489   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:36:00.489 [01] AmbientHare
+15:36:00.489   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:36:00.489 [02] AmbientHen
+15:36:00.489   Primary Spawner: "Ambient", active: yes, repeat: 1
+15:36:00.489 [03] AnimalBear
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [04] AnimalCow
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [05] AnimalDeer
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [06] AnimalGoat
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [07] AnimalPig
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [08] AnimalRoeDeer
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [09] AnimalSheep
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [10] AnimalWildBoar
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [11] AnimalWolf
+15:36:00.489   Primary Spawner: "Animal", active: yes, repeat: 1
+15:36:00.489 [12] InfectedArmy
+15:36:00.489   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [13] InfectedArmyHard
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [14] InfectedCity
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [15] InfectedCityTier1
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [16] InfectedFirefighter
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [17] InfectedIndustrial
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [18] InfectedMedic
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [19] InfectedNBC
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [20] InfectedPolice
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [21] InfectedPoliceHard
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [22] InfectedPrisoner
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [23] InfectedReligious
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [24] InfectedSanta
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [25] InfectedSolitude
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [26] InfectedVillage
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [27] InfectedVillageTier1
+15:36:00.490   Primary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [28] ItemPlanks
+15:36:00.490   Primary Spawner: "Item", active: yes, repeat: 1
+15:36:00.490 [29] Loot
+15:36:00.490   Primary Spawner: "Loot", active: yes, repeat: 2
+15:36:00.490 [30] StaticAirplaneCrate
+15:36:00.490   Primary Spawner: "Static", active: yes, repeat: 1
+15:36:00.490 [31] StaticContaminatedArea
+15:36:00.490   Primary Spawner: "Static", active: yes, repeat: 1
+15:36:00.490 [32] StaticHeliCrash
+15:36:00.490   Primary Spawner: "Static", active: yes, repeat: 1
+15:36:00.490   Secondary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [33] StaticMilitaryConvoy
+15:36:00.490   Primary Spawner: "Static", active: yes, repeat: 1
+15:36:00.490   Secondary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [34] StaticPoliceSituation
+15:36:00.490   Primary Spawner: "Static", active: yes, repeat: 1
+15:36:00.490   Secondary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [35] StaticTrain
+15:36:00.490   Primary Spawner: "Static", active: yes, repeat: 1
+15:36:00.490   Secondary Spawner: "Infected", active: yes, repeat: 1
+15:36:00.490 [36] TrajectoryApple
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [37] TrajectoryConiferous
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [38] TrajectoryDeciduous
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [39] TrajectoryHumus
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [40] TrajectoryPear
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [41] TrajectoryPlum
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [42] TrajectoryStones
+15:36:00.490   Primary Spawner: "Trajectory", active: yes, repeat: 1
+15:36:00.490 [43] VehicleBoat
+15:36:00.490   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.490 [44] VehicleCivilianSedan
+15:36:00.490   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.490 [45] VehicleHatchback02
+15:36:00.490   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.490 [46] VehicleOffroad02
+15:36:00.490   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.490 [47] VehicleOffroadHatchback
+15:36:00.490   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.490 [48] VehicleSedan02
+15:36:00.490   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.490 [49] VehicleTruck01
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [50] VehicleUAZ
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [51] VehicleVodnik
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [52] VehicleBus
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [53] VehicleTractor
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [54] VehicleLandRover
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [55] VehicleMH6Helicopter
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [56] VehicleMerlinHelicopter
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [57] VehicleUh1hHelicopter
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [58] VehicleUtilityBoat
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [59] VehicleZodiacBoat
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [60] VehicleGyroHelicopter
+15:36:00.491   Primary Spawner: "Vehicle", active: yes, repeat: 1
+15:36:00.491 [CE][Hive] :: Initializing of spawners done.
+15:36:00.510 [CE][Hive] :: Init sequence finished.
+15:36:00.510 Player connect enabled
+15:36:00.716 Average server FPS: 0.05 (measured interval: 1 s)
+15:36:00.716 Used memory: 2540937 KB
+15:36:00.716 Players: 0 in total
+15:36:04.35 [IdleMode] Entering IN - save processed
+15:36:04.41 Average server FPS: 0.30 (measured interval: 1 s)
+15:36:04.41 Used memory: 2564399 KB
+15:36:04.41 Players: 0 in total
+15:36:07.809 Average server FPS: 0.27 (measured interval: 1 s)
+15:36:07.809 Used memory: 2592482 KB
+15:36:07.809 Players: 0 in total
+15:36:09.18 Average server FPS: 2.48 (measured interval: 1 s)
+15:36:09.18 Used memory: 2607470 KB
+15:36:09.18 Players: 0 in total
+15:36:10.52 Average server FPS: 3.87 (measured interval: 1 s)
+15:36:10.52 Used memory: 2609513 KB
+15:36:10.52 Players: 0 in total
+15:36:11.114 Average server FPS: 7.53 (measured interval: 1 s)
+15:36:11.114 Used memory: 2631313 KB
+15:36:11.114 Players: 0 in total
+15:36:12.170 Average server FPS: 5.68 (measured interval: 1 s)
+15:36:12.170 Used memory: 2641417 KB
+15:36:12.170 Players: 0 in total
+15:36:13.180 Average server FPS: 5.94 (measured interval: 1 s)
+15:36:13.180 Used memory: 2657755 KB
+15:36:13.180 Players: 0 in total
+15:36:14.192 Average server FPS: 60.34 (measured interval: 1 s)
+15:36:14.192 Used memory: 2657552 KB
+15:36:14.192 Players: 0 in total
+15:36:15.192 Average server FPS: 102.90 (measured interval: 1 s)
+15:36:15.192 Used memory: 2657587 KB
+15:36:15.192 Players: 0 in total
+15:36:16.193 Average server FPS: 249.00 (measured interval: 1 s)
+15:36:16.193 Used memory: 2657836 KB
+15:36:16.193 Players: 0 in total
+15:36:17.192 Average server FPS: 453.00 (measured interval: 1 s)
+15:36:17.192 Used memory: 2659411 KB
+15:36:17.192 Players: 0 in total
+15:36:18.193 Average server FPS: 154.85 (measured interval: 1 s)
+15:36:18.193 Used memory: 2664748 KB
+15:36:18.193 Players: 0 in total
+15:36:19.193 Average server FPS: 348.00 (measured interval: 1 s)
+15:36:19.193 Used memory: 2664732 KB
+15:36:19.193 Players: 0 in total
+15:36:20.193 Average server FPS: 409.00 (measured interval: 1 s)
+15:36:20.193 Used memory: 2668601 KB
+15:36:20.193 Players: 0 in total
+15:36:21.194 Average server FPS: 350.00 (measured interval: 1 s)
+15:36:21.194 Used memory: 2668635 KB
+15:36:21.194 Players: 0 in total
+15:36:21.407 [Login]: Adding player ollIo (26010607) to login queue at position 0
+15:36:21.407 [LoginMachine]: Add player ollIo (26010607 89.244.90.56:13378)
+15:36:21.407 [StateMachine]: Player ollIo (dpnid 26010607 uid ) Entering AuthPlayerLoginState
+15:36:21.887 [IdleMode] Leaving OUT
+15:36:22.193 Average server FPS: 672.00 (measured interval: 1 s)
+15:36:22.193 Used memory: 2668865 KB
+15:36:22.193 Players: 1 in total
+15:36:22.209 [StateMachine]: Player ollIo (dpnid 26010607 uid ) Entering WaitAuthPlayerLoginState
+15:36:23.193 Average server FPS: 354.00 (measured interval: 1 s)
+15:36:23.193 Used memory: 2669469 KB
+15:36:23.193 Players: 1 in total
+15:36:24.207 Average server FPS: 392.50 (measured interval: 1 s)
+15:36:24.207 Used memory: 2669467 KB
+15:36:24.207 Players: 1 in total
+15:36:24.516 Player ollIo (id=067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) has connected.
+15:36:24.516 Player "ollIo"(steamID=76561197973674274) is connected
+15:36:24.526 [StateMachine]: Player ollIo (dpnid 26010607 uid ) Entering WaitPlayerAssignedLoginState
+15:36:25.193 [StateMachine]: Player ollIo (dpnid 26010607 uid ) Entering PlayerAssignedLoginState
+15:36:25.194 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering DBGetLoginTimeLoginState
+15:36:25.202 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering DBWaitLoginTimeLoginState
+15:36:25.207 Average server FPS: 620.00 (measured interval: 1 s)
+15:36:25.207 Used memory: 2669729 KB
+15:36:25.207 Players: 1 in total
+15:36:26.210 Average server FPS: 586.24 (measured interval: 1 s)
+15:36:26.210 Used memory: 2669982 KB
+15:36:26.210 Players: 1 in total
+15:36:27.210 Average server FPS: 709.00 (measured interval: 1 s)
+15:36:27.210 Used memory: 2670095 KB
+15:36:27.210 Players: 1 in total
+15:36:28.210 Average server FPS: 843.00 (measured interval: 1 s)
+15:36:28.210 Used memory: 2670111 KB
+15:36:28.210 Players: 1 in total
+15:36:29.211 Average server FPS: 889.00 (measured interval: 1 s)
+15:36:29.211 Used memory: 2670155 KB
+15:36:29.211 Players: 1 in total
+15:36:30.219 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering DBGetCharacterLoginState
+15:36:30.219 Average server FPS: 626.36 (measured interval: 1 s)
+15:36:30.219 Used memory: 2670227 KB
+15:36:30.219 Players: 1 in total
+15:36:30.240 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering CreateNetObjectsLoginState
+15:36:30.249 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering PreloadCamLoginState
+15:36:30.250 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering WaitPreloadCamLoginState
+15:36:31.219 Average server FPS: 506.00 (measured interval: 1 s)
+15:36:31.219 Used memory: 2674809 KB
+15:36:31.219 Players: 1 in total
+15:36:32.219 Average server FPS: 735.00 (measured interval: 1 s)
+15:36:32.219 Used memory: 2674846 KB
+15:36:32.219 Players: 1 in total
+15:36:33.233 Average server FPS: 527.61 (measured interval: 1 s)
+15:36:33.233 Used memory: 2676466 KB
+15:36:33.233 Players: 1 in total
+15:36:34.234 Average server FPS: 542.00 (measured interval: 1 s)
+15:36:34.234 Used memory: 2676553 KB
+15:36:34.234 Players: 1 in total
+15:36:35.234 Average server FPS: 470.53 (measured interval: 1 s)
+15:36:35.234 Used memory: 2676787 KB
+15:36:35.234 Players: 1 in total
+15:36:36.235 Average server FPS: 615.00 (measured interval: 1 s)
+15:36:36.235 Used memory: 2676884 KB
+15:36:36.235 Players: 1 in total
+15:36:37.236 Average server FPS: 501.00 (measured interval: 1 s)
+15:36:37.236 Used memory: 2677458 KB
+15:36:37.236 Players: 1 in total
+15:36:38.236 Average server FPS: 497.00 (measured interval: 1 s)
+15:36:38.236 Used memory: 2677624 KB
+15:36:38.236 Players: 1 in total
+15:36:39.236 Average server FPS: 545.00 (measured interval: 1 s)
+15:36:39.236 Used memory: 2677905 KB
+15:36:39.236 Players: 1 in total
+15:36:40.244 Average server FPS: 561.51 (measured interval: 1 s)
+15:36:40.244 Used memory: 2679445 KB
+15:36:40.244 Players: 1 in total
+15:36:40.854 [StateMachine]: Player ollIo (dpnid 26010607 uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=) Entering GetLoadedCharLoginState
+15:36:40.963 <LOAD EXISTING CHAR>:
+    charID 1
+    playerID 1
+    dpnid 26010607
+    uid 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=
+15:36:41.451 Average server FPS: 216.24 (measured interval: 1 s)
+15:36:41.452 Used memory: 2688867 KB
+15:36:41.452 Players: 1 in total
+15:36:42.458 Average server FPS: 48.66 (measured interval: 1 s)
+15:36:42.458 Used memory: 2689712 KB
+15:36:42.458 Players: 1 in total
+15:36:43.460 Average server FPS: 190.62 (measured interval: 1 s)
+15:36:43.460 Used memory: 2689766 KB
+15:36:43.460 Players: 1 in total
+15:36:44.464 Average server FPS: 112.55 (measured interval: 1 s)
+15:36:44.464 Used memory: 2690310 KB
+15:36:44.464 Players: 1 in total
+15:36:44.975 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "ColdWarTop_KLMK"
+15:36:44.980 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "ColdWarTop_KLMK"
+15:36:45.68 [CE][LootRespawner] (PRIDummy) :: Item [1] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [2] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [3] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [4] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [5] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [6] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [7] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [8] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [9] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [10] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [11] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [12] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [13] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [14] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:36:45.69 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "ColdWarPants_Splinter"
+15:36:45.171 [CE][LootRespawner] (PRIDummy) :: Item [15] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.171 [CE][LootRespawner] (PRIDummy) :: Item [16] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.171 [CE][LootRespawner] (PRIDummy) :: Item [17] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.171 [CE][LootRespawner] (PRIDummy) :: Item [18] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.172 [CE][LootRespawner] (PRIDummy) :: Item [19] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.172 [CE][LootRespawner] (PRIDummy) :: Item [20] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [21] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [22] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [23] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [24] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [25] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [26] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [27] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [28] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:36:45.173 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "ColdWarPants_Oblaky"
+15:36:45.277 [CE][LootRespawner] (PRIDummy) :: Item [29] is hard to place, performance drops: "ColdWarTop_KLMKSO"
+15:36:45.277 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "ColdWarTop_KLMKSO"
+15:36:45.407 [CE][LootRespawner] (PRIDummy) :: Item [30] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.407 [CE][LootRespawner] (PRIDummy) :: Item [31] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.407 [CE][LootRespawner] (PRIDummy) :: Item [32] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.407 [CE][LootRespawner] (PRIDummy) :: Item [33] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [34] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [35] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [36] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [37] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [38] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [39] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [40] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [41] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [42] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [43] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:36:45.408 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "ColdWarBottom_KLMK"
+15:36:45.480 Average server FPS: 89.57 (measured interval: 1 s)
+15:36:45.480 Used memory: 2694399 KB
+15:36:45.480 Players: 1 in total
+15:36:45.512 [CE][LootRespawner] (PRIDummy) :: Item [44] is hard to place, performance drops: "ColdWarTop_Frogskin"
+15:36:45.513 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "ColdWarTop_Frogskin"
+15:36:45.609 [CE][LootRespawner] (PRIDummy) :: Item [45] is hard to place, performance drops: "ColdWarJacket_Splinter"
+15:36:45.610 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "ColdWarJacket_Splinter"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [46] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [47] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [48] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [49] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [50] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [51] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [52] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [53] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [54] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.709 [CE][LootRespawner] (PRIDummy) :: Item [55] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.710 [CE][LootRespawner] (PRIDummy) :: Item [56] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.710 [CE][LootRespawner] (PRIDummy) :: Item [57] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.710 [CE][LootRespawner] (PRIDummy) :: Item [58] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.710 [CE][LootRespawner] (PRIDummy) :: Item [59] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:36:45.710 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "ColdWarPants_Strichtarn"
+15:36:45.808 [CE][LootRespawner] (PRIDummy) :: Item [60] is hard to place, performance drops: "ColdWarJacket_Oblaky"
+15:36:45.809 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "ColdWarJacket_Oblaky"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [61] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [62] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [63] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [64] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [65] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [66] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [67] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [68] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [69] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [70] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [71] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [72] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.903 [CE][LootRespawner] (PRIDummy) :: Item [73] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.904 [CE][LootRespawner] (PRIDummy) :: Item [74] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:36:45.904 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "ColdWarBottom_TTsMKK"
+15:36:46.06 [CE][LootRespawner] (PRIDummy) :: Item [75] is hard to place, performance drops: "ColdWarJacket_Strichtarn"
+15:36:46.07 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "ColdWarJacket_Strichtarn"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [76] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [77] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [78] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [79] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [80] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [81] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [82] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [83] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [84] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [85] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [86] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [87] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [88] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.116 [CE][LootRespawner] (PRIDummy) :: Item [89] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:36:46.117 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "ColdWarBottom_Frogskin"
+15:36:46.211 [CE][LootRespawner] (PRIDummy) :: Item [90] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [91] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [92] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [93] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [94] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [95] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [96] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [97] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [98] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [99] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [100] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [101] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [102] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.213 [CE][LootRespawner] (PRIDummy) :: Item [103] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:36:46.214 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "ColdWarPants_Jigsaw"
+15:36:46.313 [CE][LootRespawner] (PRIDummy) :: Item [104] is hard to place, performance drops: "ColdWarTop_DPM"
+15:36:46.313 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "ColdWarTop_DPM"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [105] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [106] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [107] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [108] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [109] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [110] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [111] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [112] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [113] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [114] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [115] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [116] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [117] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [118] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:36:46.420 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "ColdWarPants_Finnish"
+15:36:46.481 Average server FPS: 122.00 (measured interval: 1 s)
+15:36:46.481 Used memory: 2694793 KB
+15:36:46.481 Players: 1 in total
+15:36:46.523 [CE][LootRespawner] (PRIDummy) :: Item [119] is hard to place, performance drops: "ColdWarJacket_Finnish"
+15:36:46.524 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "ColdWarJacket_Finnish"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [120] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [121] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [122] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [123] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [124] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [125] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [126] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [127] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [128] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [129] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [130] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [131] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [132] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.633 [CE][LootRespawner] (PRIDummy) :: Item [133] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:36:46.634 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "ColdWarBottom_KLMKSO"
+15:36:46.730 [CE][LootRespawner] (PRIDummy) :: Item [134] is hard to place, performance drops: "ColdWarJacket_Jigsaw"
+15:36:46.731 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "ColdWarJacket_Jigsaw"
+15:36:47.482 Average server FPS: 75.85 (measured interval: 1 s)
+15:36:47.482 Used memory: 2701505 KB
+15:36:47.482 Players: 1 in total
+15:36:48.487 Average server FPS: 182.09 (measured interval: 1 s)
+15:36:48.487 Used memory: 2701719 KB
+15:36:48.488 Players: 1 in total
+15:36:49.491 Average server FPS: 192.42 (measured interval: 1 s)
+15:36:49.491 Used memory: 2702516 KB
+15:36:49.491 Players: 1 in total
+15:36:50.536 Average server FPS: 107.07 (measured interval: 1 s)
+15:36:50.536 Used memory: 2704148 KB
+15:36:50.536 Players: 1 in total
+15:36:51.539 Average server FPS: 124.75 (measured interval: 1 s)
+15:36:51.539 Used memory: 2704153 KB
+15:36:51.539 Players: 1 in total
+15:36:52.544 Average server FPS: 194.03 (measured interval: 1 s)
+15:36:52.544 Used memory: 2705308 KB
+15:36:52.544 Players: 1 in total
+15:36:53.563 Average server FPS: 103.92 (measured interval: 1 s)
+15:36:53.563 Used memory: 2705387 KB
+15:36:53.563 Players: 1 in total
+15:36:54.564 Average server FPS: 226.77 (measured interval: 1 s)
+15:36:54.564 Used memory: 2705643 KB
+15:36:54.564 Players: 1 in total
+15:36:55.569 Average server FPS: 291.54 (measured interval: 1 s)
+15:36:55.569 Used memory: 2705653 KB
+15:36:55.569 Players: 1 in total
+15:36:56.574 Average server FPS: 223.88 (measured interval: 1 s)
+15:36:56.574 Used memory: 2707320 KB
+15:36:56.575 Players: 1 in total
+15:36:57.577 Average server FPS: 325.02 (measured interval: 1 s)
+15:36:57.577 Used memory: 2707891 KB
+15:36:57.577 Players: 1 in total
+15:36:58.580 Average server FPS: 266.20 (measured interval: 1 s)
+15:36:58.580 Used memory: 2707990 KB
+15:36:58.580 Players: 1 in total
+15:36:59.581 Average server FPS: 228.77 (measured interval: 1 s)
+15:36:59.582 Used memory: 2708023 KB
+15:36:59.582 Players: 1 in total
+15:37:00.614 Average server FPS: 127.78 (measured interval: 1 s)
+15:37:00.614 Used memory: 2709478 KB
+15:37:00.614 Players: 1 in total
+15:37:01.614 Average server FPS: 150.00 (measured interval: 1 s)
+15:37:01.614 Used memory: 2710422 KB
+15:37:01.614 Players: 1 in total
+15:37:02.618 Average server FPS: 138.45 (measured interval: 1 s)
+15:37:02.618 Used memory: 2712010 KB
+15:37:02.618 Players: 1 in total
+15:37:03.621 Average server FPS: 176.47 (measured interval: 1 s)
+15:37:03.621 Used memory: 2713086 KB
+15:37:03.621 Players: 1 in total
+15:37:04.631 Average server FPS: 167.33 (measured interval: 1 s)
+15:37:04.631 Used memory: 2716950 KB
+15:37:04.631 Players: 1 in total
+15:37:05.639 Average server FPS: 151.79 (measured interval: 1 s)
+15:37:05.639 Used memory: 2718554 KB
+15:37:05.639 Players: 1 in total
+15:37:06.644 Average server FPS: 199.20 (measured interval: 1 s)
+15:37:06.644 Used memory: 2718755 KB
+15:37:06.644 Players: 1 in total
+15:37:07.652 Average server FPS: 149.65 (measured interval: 1 s)
+15:37:07.652 Used memory: 2724005 KB
+15:37:07.652 Players: 1 in total
+15:37:08.654 Average server FPS: 129.74 (measured interval: 1 s)
+15:37:08.654 Used memory: 2725535 KB
+15:37:08.654 Players: 1 in total
+15:37:09.678 Average server FPS: 98.54 (measured interval: 1 s)
+15:37:09.678 Used memory: 2728837 KB
+15:37:09.678 Players: 1 in total
+15:37:10.681 Average server FPS: 132.60 (measured interval: 1 s)
+15:37:10.681 Used memory: 2731722 KB
+15:37:10.681 Players: 1 in total
+15:37:11.684 Average server FPS: 195.61 (measured interval: 1 s)
+15:37:11.684 Used memory: 2735641 KB
+15:37:11.684 Players: 1 in total
+15:37:12.686 Average server FPS: 230.54 (measured interval: 1 s)
+15:37:12.686 Used memory: 2735866 KB
+15:37:12.686 Players: 1 in total
+15:37:12.782 [CE][LootRespawner] (PRIDummy) :: Item [135] is hard to place, performance drops: "ColdWarJacket_Jigsaw"
+15:37:12.783 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "ColdWarJacket_Jigsaw"
+15:37:12.986 [CE][LootRespawner] (PRIDummy) :: Item [136] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.986 [CE][LootRespawner] (PRIDummy) :: Item [137] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.986 [CE][LootRespawner] (PRIDummy) :: Item [138] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [139] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [140] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [141] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [142] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [143] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [144] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [145] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [146] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [147] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [148] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:37:12.987 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "ColdWarBottom_DPM"
+15:37:13.88 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "TerjeAmpouleAlcohol"
+15:37:13.187 [CE][LootRespawner] (PRIDummy) :: Item [149] is hard to place, performance drops: "ColdWarTop_TTsMKK"
+15:37:13.187 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "ColdWarTop_TTsMKK"
+15:37:13.295 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "TerjeSurgicalKit"
+15:37:13.396 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "TerjeSalveFinalgon"
+15:37:13.497 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "ExpansionHescoKit"
+15:37:13.687 Average server FPS: 320.68 (measured interval: 1 s)
+15:37:13.687 Used memory: 2735984 KB
+15:37:13.687 Players: 1 in total
+15:37:13.696 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "TerjePillsMagnesiumSulfate"
+15:37:13.800 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "TerjeSalveCapsicum"
+15:37:14.02 [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "ExpansionCamoTentKit"
+15:37:14.103 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "ExpansionCamoBoxKit"
+15:37:14.204 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "TerjePillsB190"
+15:37:14.303 [CE][LootRespawner] (PRIDummy) :: Item [30] causing search overtime: "Mag_CZ61_20Rnd"
+15:37:14.504 [CE][LootRespawner] (PRIDummy) :: Item [31] causing search overtime: "TerjeInjectorAmoxiclav"
+15:37:14.604 [CE][LootRespawner] (PRIDummy) :: Item [32] causing search overtime: "TerjePillsAmibaktam"
+15:37:14.696 Average server FPS: 291.38 (measured interval: 1 s)
+15:37:14.696 Used memory: 2737223 KB
+15:37:14.696 Players: 1 in total
+15:37:15.699 Average server FPS: 230.31 (measured interval: 1 s)
+15:37:15.699 Used memory: 2741052 KB
+15:37:15.699 Players: 1 in total
+15:37:16.34 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+15:37:16.698 Average server FPS: 237.00 (measured interval: 1 s)
+15:37:16.698 Used memory: 2744108 KB
+15:37:16.698 Players: 1 in total
+15:37:17.698 Average server FPS: 202.00 (measured interval: 1 s)
+15:37:17.699 Used memory: 2745917 KB
+15:37:17.699 Players: 1 in total
+15:37:18.698 Average server FPS: 132.00 (measured interval: 1 s)
+15:37:18.698 Used memory: 2746053 KB
+15:37:18.698 Players: 1 in total
+15:37:19.700 Average server FPS: 168.66 (measured interval: 1 s)
+15:37:19.700 Used memory: 2747183 KB
+15:37:19.700 Players: 1 in total
+15:37:20.735 Average server FPS: 114.12 (measured interval: 1 s)
+15:37:20.735 Used memory: 2749942 KB
+15:37:20.735 Players: 1 in total
+15:37:21.740 Average server FPS: 133.20 (measured interval: 1 s)
+15:37:21.740 Used memory: 2752742 KB
+15:37:21.740 Players: 1 in total
+15:37:22.744 Average server FPS: 232.07 (measured interval: 1 s)
+15:37:22.745 Used memory: 2756324 KB
+15:37:22.745 Players: 1 in total
+15:37:23.748 Average server FPS: 261.95 (measured interval: 1 s)
+15:37:23.748 Used memory: 2759784 KB
+15:37:23.748 Players: 1 in total
+15:37:24.752 Average server FPS: 285.14 (measured interval: 1 s)
+15:37:24.752 Used memory: 2762957 KB
+15:37:24.752 Players: 1 in total
+15:37:25.755 Average server FPS: 247.26 (measured interval: 1 s)
+15:37:25.755 Used memory: 2765905 KB
+15:37:25.755 Players: 1 in total
+15:37:26.756 Average server FPS: 225.77 (measured interval: 1 s)
+15:37:26.756 Used memory: 2767488 KB
+15:37:26.756 Players: 1 in total
+15:37:27.787 Average server FPS: 210.48 (measured interval: 1 s)
+15:37:27.787 Used memory: 2769785 KB
+15:37:27.787 Players: 1 in total
+15:37:28.792 Average server FPS: 161.03 (measured interval: 1 s)
+15:37:28.792 Used memory: 2771249 KB
+15:37:28.792 Players: 1 in total
+15:37:29.796 Average server FPS: 183.45 (measured interval: 1 s)
+15:37:29.796 Used memory: 2772850 KB
+15:37:29.796 Players: 1 in total
+15:37:30.800 Average server FPS: 215.14 (measured interval: 1 s)
+15:37:30.800 Used memory: 2774286 KB
+15:37:30.800 Players: 1 in total
+15:37:31.814 Average server FPS: 291.63 (measured interval: 1 s)
+15:37:31.814 Used memory: 2774356 KB
+15:37:31.814 Players: 1 in total
+15:37:32.816 Average server FPS: 225.77 (measured interval: 1 s)
+15:37:32.816 Used memory: 2776806 KB
+15:37:32.816 Players: 1 in total
+15:37:33.820 Average server FPS: 247.01 (measured interval: 1 s)
+15:37:33.820 Used memory: 2776856 KB
+15:37:33.820 Players: 1 in total
+15:37:34.820 Average server FPS: 246.75 (measured interval: 1 s)
+15:37:34.820 Used memory: 2776894 KB
+15:37:34.820 Players: 1 in total
+15:37:35.822 Average server FPS: 232.77 (measured interval: 1 s)
+15:37:35.822 Used memory: 2776928 KB
+15:37:35.822 Players: 1 in total
+15:37:36.823 Average server FPS: 198.80 (measured interval: 1 s)
+15:37:36.823 Used memory: 2777529 KB
+15:37:36.823 Players: 1 in total
+15:37:37.822 Average server FPS: 240.00 (measured interval: 1 s)
+15:37:37.822 Used memory: 2777546 KB
+15:37:37.822 Players: 1 in total
+15:37:38.823 Average server FPS: 280.00 (measured interval: 1 s)
+15:37:38.823 Used memory: 2777575 KB
+15:37:38.823 Players: 1 in total
+15:37:39.825 Average server FPS: 253.49 (measured interval: 1 s)
+15:37:39.825 Used memory: 2777608 KB
+15:37:39.825 Players: 1 in total
+15:37:40.659 [CE][LootRespawner] (PRIDummy) :: Item [33] causing search overtime: "TerjePillsAmibaktam"
+15:37:40.758 [CE][LootRespawner] (PRIDummy) :: Item [34] causing search overtime: "TerjePillsAmoxiclav"
+15:37:40.824 Average server FPS: 248.00 (measured interval: 1 s)
+15:37:40.825 Used memory: 2781730 KB
+15:37:40.825 Players: 1 in total
+15:37:40.858 [CE][LootRespawner] (PRIDummy) :: Item [35] causing search overtime: "TerjeAmpouleAmoxivan"
+15:37:40.959 [CE][LootRespawner] (PRIDummy) :: Item [36] causing search overtime: "TerjeAmpouleRabinoline"
+15:37:41.73 [CE][LootRespawner] (PRIDummy) :: Item [37] causing search overtime: "TerjeAmpouleActaparoxetine"
+15:37:41.168 [CE][LootRespawner] (PRIDummy) :: Item [38] causing search overtime: "TerjeInjectorErythropoietin"
+15:37:41.269 [CE][LootRespawner] (PRIDummy) :: Item [39] causing search overtime: "TerjeAmpouleGexobarbital"
+15:37:41.371 [CE][LootRespawner] (PRIDummy) :: Item [40] causing search overtime: "TerjeAmpouleMorphine"
+15:37:41.472 [CE][LootRespawner] (PRIDummy) :: Item [41] causing search overtime: "TerjeAmpouleHeptral"
+15:37:41.575 [CE][LootRespawner] (PRIDummy) :: Item [42] causing search overtime: "TerjeAmpouleErythropoetin"
+15:37:41.680 [CE][LootRespawner] (PRIDummy) :: Item [43] causing search overtime: "TerjeAmpouleMetoclopramid"
+15:37:41.781 [CE][LootRespawner] (PRIDummy) :: Item [44] causing search overtime: "TerjeAmpouleRifampicyne"
+15:37:41.824 Average server FPS: 267.00 (measured interval: 1 s)
+15:37:41.824 Used memory: 2781756 KB
+15:37:41.824 Players: 1 in total
+15:37:41.879 [CE][LootRespawner] (PRIDummy) :: Item [45] causing search overtime: "TerjePillsIbuprofen"
+15:37:41.980 [CE][LootRespawner] (PRIDummy) :: Item [46] causing search overtime: "TerjeAmpouleAdrenalin"
+15:37:42.85 [CE][LootRespawner] (PRIDummy) :: Item [47] causing search overtime: "TerjeFirstAidKitMedium"
+15:37:42.181 [CE][LootRespawner] (PRIDummy) :: Item [48] causing search overtime: "TerjeAmpouleCarboxyme"
+15:37:42.825 Average server FPS: 350.00 (measured interval: 1 s)
+15:37:42.825 Used memory: 2782044 KB
+15:37:42.825 Players: 1 in total
+15:37:43.828 Average server FPS: 305.08 (measured interval: 1 s)
+15:37:43.828 Used memory: 2783540 KB
+15:37:43.828 Players: 1 in total
+15:37:44.828 Average server FPS: 245.00 (measured interval: 1 s)
+15:37:44.828 Used memory: 2783621 KB
+15:37:44.828 Players: 1 in total
+15:37:45.830 Average server FPS: 277.17 (measured interval: 1 s)
+15:37:45.830 Used memory: 2784213 KB
+15:37:45.830 Players: 1 in total
+15:37:46.830 Average server FPS: 134.00 (measured interval: 1 s)
+15:37:46.830 Used memory: 2784240 KB
+15:37:46.830 Players: 1 in total
+15:37:47.831 Average server FPS: 190.00 (measured interval: 1 s)
+15:37:47.831 Used memory: 2784270 KB
+15:37:47.831 Players: 1 in total
+15:37:48.831 Average server FPS: 185.00 (measured interval: 1 s)
+15:37:48.831 Used memory: 2784497 KB
+15:37:48.831 Players: 1 in total
+15:37:49.831 Average server FPS: 209.00 (measured interval: 1 s)
+15:37:49.831 Used memory: 2784401 KB
+15:37:49.831 Players: 1 in total
+15:37:50.831 Average server FPS: 325.00 (measured interval: 1 s)
+15:37:50.831 Used memory: 2784324 KB
+15:37:50.831 Players: 1 in total
+15:37:51.855 Average server FPS: 279.30 (measured interval: 1 s)
+15:37:51.855 Used memory: 2784340 KB
+15:37:51.855 Players: 1 in total
+15:37:52.855 Average server FPS: 301.70 (measured interval: 1 s)
+15:37:52.855 Used memory: 2784271 KB
+15:37:52.855 Players: 1 in total
+15:37:53.861 Average server FPS: 235.82 (measured interval: 1 s)
+15:37:53.861 Used memory: 2784503 KB
+15:37:53.861 Players: 1 in total
+15:37:54.864 Average server FPS: 167.50 (measured interval: 1 s)
+15:37:54.864 Used memory: 2784884 KB
+15:37:54.864 Players: 1 in total
+15:37:55.867 Average server FPS: 219.34 (measured interval: 1 s)
+15:37:55.867 Used memory: 2784934 KB
+15:37:55.867 Players: 1 in total
+15:37:56.868 Average server FPS: 265.73 (measured interval: 1 s)
+15:37:56.868 Used memory: 2786147 KB
+15:37:56.868 Players: 1 in total
+15:37:57.871 Average server FPS: 214.36 (measured interval: 1 s)
+15:37:57.871 Used memory: 2786327 KB
+15:37:57.871 Players: 1 in total
+15:37:58.871 Average server FPS: 231.00 (measured interval: 1 s)
+15:37:58.871 Used memory: 2786370 KB
+15:37:58.871 Players: 1 in total
+15:37:59.872 Average server FPS: 248.75 (measured interval: 1 s)
+15:37:59.872 Used memory: 2786473 KB
+15:37:59.872 Players: 1 in total
+15:38:00.872 Average server FPS: 265.73 (measured interval: 1 s)
+15:38:00.872 Used memory: 2786517 KB
+15:38:00.872 Players: 1 in total
+15:38:01.872 Average server FPS: 220.00 (measured interval: 1 s)
+15:38:01.872 Used memory: 2786559 KB
+15:38:01.872 Players: 1 in total
+15:38:02.874 Average server FPS: 216.78 (measured interval: 1 s)
+15:38:02.874 Used memory: 2786713 KB
+15:38:02.874 Players: 1 in total
+15:38:03.877 Average server FPS: 202.39 (measured interval: 1 s)
+15:38:03.877 Used memory: 2786753 KB
+15:38:03.877 Players: 1 in total
+15:38:04.886 Average server FPS: 228.71 (measured interval: 1 s)
+15:38:04.886 Used memory: 2786899 KB
+15:38:04.886 Players: 1 in total
+15:38:05.886 Average server FPS: 214.00 (measured interval: 1 s)
+15:38:05.886 Used memory: 2787265 KB
+15:38:05.886 Players: 1 in total
+15:38:06.886 Average server FPS: 248.00 (measured interval: 1 s)
+15:38:06.887 Used memory: 2787379 KB
+15:38:06.887 Players: 1 in total
+15:38:07.891 Average server FPS: 227.86 (measured interval: 1 s)
+15:38:07.891 Used memory: 2789592 KB
+15:38:07.891 Players: 1 in total
+15:38:08.203 [CE][LootRespawner] (PRIDummy) :: Item [49] causing search overtime: "TerjeAmpouleAmitriptyline"
+15:38:08.304 [CE][LootRespawner] (PRIDummy) :: Item [50] causing search overtime: "TerjePillsVikasol"
+15:38:08.404 [CE][LootRespawner] (PRIDummy) :: Item [51] causing search overtime: "TerjeAmpouleKetarol"
+15:38:08.502 [CE][LootRespawner] (PRIDummy) :: Item [52] causing search overtime: "TerjeAmpouleMetralindole"
+15:38:08.603 [CE][LootRespawner] (PRIDummy) :: Item [53] causing search overtime: "TerjeAmpoulePentacin"
+15:38:08.704 [CE][LootRespawner] (PRIDummy) :: Item [54] causing search overtime: "TerjeAmpouleImipenem"
+15:38:08.811 [CE][LootRespawner] (PRIDummy) :: Item [55] causing search overtime: "TerjeAmpouleFlemoclav"
+15:38:08.893 Average server FPS: 192.81 (measured interval: 1 s)
+15:38:08.893 Used memory: 2789805 KB
+15:38:08.893 Players: 1 in total
+15:38:08.908 [CE][LootRespawner] (PRIDummy) :: Item [56] causing search overtime: "TerjeBookImmunity2"
+15:38:09.13 [CE][LootRespawner] (PRIDummy) :: Item [57] causing search overtime: "TerjeBookMedicine2"
+15:38:09.118 [CE][LootRespawner] (PRIDummy) :: Item [58] causing search overtime: "TerjeAmpouleNovacaine"
+15:38:09.226 [CE][LootRespawner] (PRIDummy) :: Item [59] causing search overtime: "ASC_AMB17_Bttstck"
+15:38:09.829 [CE][LootRespawner] (PRIDummy) :: Item [60] causing search overtime: "TerjeInjectorRabinucoline"
+15:38:09.894 Average server FPS: 318.68 (measured interval: 1 s)
+15:38:09.894 Used memory: 2790096 KB
+15:38:09.894 Players: 1 in total
+15:38:10.899 Average server FPS: 314.43 (measured interval: 1 s)
+15:38:10.899 Used memory: 2790251 KB
+15:38:10.899 Players: 1 in total
+15:38:11.899 Average server FPS: 259.00 (measured interval: 1 s)
+15:38:11.899 Used memory: 2790375 KB
+15:38:11.899 Players: 1 in total
+15:38:12.899 Average server FPS: 383.00 (measured interval: 1 s)
+15:38:12.899 Used memory: 2790409 KB
+15:38:12.899 Players: 1 in total
+15:38:13.961 Average server FPS: 201.51 (measured interval: 1 s)
+15:38:13.961 Used memory: 2790449 KB
+15:38:13.961 Players: 1 in total
+15:38:14.968 Average server FPS: 180.73 (measured interval: 1 s)
+15:38:14.968 Used memory: 2790869 KB
+15:38:14.968 Players: 1 in total
+15:38:15.968 Average server FPS: 157.00 (measured interval: 1 s)
+15:38:15.968 Used memory: 2791019 KB
+15:38:15.968 Players: 1 in total
+15:38:16.968 Average server FPS: 237.76 (measured interval: 1 s)
+15:38:16.968 Used memory: 2791062 KB
+15:38:16.968 Players: 1 in total
+15:38:17.969 Average server FPS: 203.00 (measured interval: 1 s)
+15:38:17.969 Used memory: 2794384 KB
+15:38:17.969 Players: 1 in total
+15:38:18.969 Average server FPS: 268.73 (measured interval: 1 s)
+15:38:18.969 Used memory: 2794253 KB
+15:38:18.969 Players: 1 in total
+15:38:19.971 Average server FPS: 286.43 (measured interval: 1 s)
+15:38:19.971 Used memory: 2796535 KB
+15:38:19.972 Players: 1 in total
+15:38:20.979 Average server FPS: 332.67 (measured interval: 1 s)
+15:38:20.979 Used memory: 2796665 KB
+15:38:20.979 Players: 1 in total
+15:38:21.988 Average server FPS: 233.89 (measured interval: 1 s)
+15:38:21.988 Used memory: 2798793 KB
+15:38:21.988 Players: 1 in total
+15:38:22.992 Average server FPS: 187.25 (measured interval: 1 s)
+15:38:22.992 Used memory: 2799205 KB
+15:38:22.992 Players: 1 in total
+15:38:23.992 Average server FPS: 201.80 (measured interval: 1 s)
+15:38:23.992 Used memory: 2799239 KB
+15:38:23.992 Players: 1 in total
+15:38:25.01 Average server FPS: 251.73 (measured interval: 1 s)
+15:38:25.01 Used memory: 2799544 KB
+15:38:25.01 Players: 1 in total
+15:38:26.01 Average server FPS: 251.00 (measured interval: 1 s)
+15:38:26.01 Used memory: 2800485 KB
+15:38:26.01 Players: 1 in total
+15:38:27.03 Average server FPS: 247.75 (measured interval: 1 s)
+15:38:27.03 Used memory: 2801979 KB
+15:38:27.03 Players: 1 in total
+15:38:28.06 Average server FPS: 254.24 (measured interval: 1 s)
+15:38:28.06 Used memory: 2802939 KB
+15:38:28.06 Players: 1 in total
+15:38:29.08 Average server FPS: 207.58 (measured interval: 1 s)
+15:38:29.08 Used memory: 2803267 KB
+15:38:29.08 Players: 1 in total
+15:38:30.11 Average server FPS: 198.40 (measured interval: 1 s)
+15:38:30.11 Used memory: 2804965 KB
+15:38:30.11 Players: 1 in total
+15:38:31.13 Average server FPS: 248.50 (measured interval: 1 s)
+15:38:31.13 Used memory: 2805632 KB
+15:38:31.13 Players: 1 in total
+15:38:32.43 Average server FPS: 261.17 (measured interval: 1 s)
+15:38:32.43 Used memory: 2806216 KB
+15:38:32.43 Players: 1 in total
+15:38:33.50 Average server FPS: 209.53 (measured interval: 1 s)
+15:38:33.50 Used memory: 2806303 KB
+15:38:33.50 Players: 1 in total
+15:38:34.49 Average server FPS: 270.00 (measured interval: 1 s)
+15:38:34.49 Used memory: 2807851 KB
+15:38:34.49 Players: 1 in total
+15:38:35.53 Average server FPS: 278.17 (measured interval: 1 s)
+15:38:35.53 Used memory: 2807866 KB
+15:38:35.53 Players: 1 in total
+15:38:36.56 Average server FPS: 254.24 (measured interval: 1 s)
+15:38:36.56 Used memory: 2809001 KB
+15:38:36.56 Players: 1 in total
+15:38:36.82 [CE][LootRespawner] (PRIDummy) :: Item [61] causing search overtime: "Fal_FoldingBttstck"
+15:38:36.183 [CE][LootRespawner] (PRIDummy) :: Item [62] causing search overtime: "TerjeInjectorRabinucoline"
+15:38:36.281 [CE][LootRespawner] (PRIDummy) :: Item [63] causing search overtime: "TerjeAmpouleKetamin"
+15:38:36.383 [CE][LootRespawner] (PRIDummy) :: Item [64] causing search overtime: "TerjeInjectorTopoizomeraza"
+15:38:36.486 [CE][LootRespawner] (PRIDummy) :: Item [65] causing search overtime: "TerjeAmpouleNeirox"
+15:38:36.685 [CE][LootRespawner] (PRIDummy) :: Item [66] causing search overtime: "TerjeInjectorZivirol"
+15:38:36.986 [CE][LootRespawner] (PRIDummy) :: Item [67] causing search overtime: "TerjeAmpouleZivirol"
+15:38:37.58 Average server FPS: 296.11 (measured interval: 1 s)
+15:38:37.59 Used memory: 2809319 KB
+15:38:37.59 Players: 1 in total
+15:38:37.87 [CE][LootRespawner] (PRIDummy) :: Item [68] causing search overtime: "TerjeInjectorErytromixelin"
+15:38:37.193 [CE][LootRespawner] (PRIDummy) :: Item [69] causing search overtime: "ASC_ASVAL_Bttstck"
+15:38:37.297 [CE][LootRespawner] (PRIDummy) :: Item [70] causing search overtime: "TerjeAmpouleRabivax"
+15:38:38.61 Average server FPS: 313.37 (measured interval: 1 s)
+15:38:38.61 Used memory: 2810029 KB
+15:38:38.61 Players: 1 in total
+15:38:38.101 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+15:38:39.63 Average server FPS: 335.99 (measured interval: 1 s)
+15:38:39.63 Used memory: 2811928 KB
+15:38:39.63 Players: 1 in total
+15:38:40.68 Average server FPS: 233.07 (measured interval: 1 s)
+15:38:40.68 Used memory: 2815161 KB
+15:38:40.68 Players: 1 in total
+15:38:41.134 Average server FPS: 189.49 (measured interval: 1 s)
+15:38:41.134 Used memory: 2817240 KB
+15:38:41.134 Players: 1 in total
+15:38:42.154 Average server FPS: 113.61 (measured interval: 1 s)
+15:38:42.154 Used memory: 2818830 KB
+15:38:42.154 Players: 1 in total
+15:38:43.155 Average server FPS: 114.00 (measured interval: 1 s)
+15:38:43.155 Used memory: 2819446 KB
+15:38:43.155 Players: 1 in total
+15:38:44.156 Average server FPS: 148.85 (measured interval: 1 s)
+15:38:44.156 Used memory: 2819579 KB
+15:38:44.156 Players: 1 in total
+15:38:45.156 Average server FPS: 222.00 (measured interval: 1 s)
+15:38:45.156 Used memory: 2822731 KB
+15:38:45.156 Players: 1 in total
+15:38:46.158 Average server FPS: 239.28 (measured interval: 1 s)
+15:38:46.158 Used memory: 2824665 KB
+15:38:46.158 Players: 1 in total
+15:38:47.158 Average server FPS: 261.00 (measured interval: 1 s)
+15:38:47.159 Used memory: 2825163 KB
+15:38:47.159 Players: 1 in total
+15:38:48.160 Average server FPS: 309.69 (measured interval: 1 s)
+15:38:48.160 Used memory: 2825269 KB
+15:38:48.160 Players: 1 in total
+15:38:49.160 Average server FPS: 274.00 (measured interval: 1 s)
+15:38:49.160 Used memory: 2825470 KB
+15:38:49.160 Players: 1 in total
+15:38:50.163 Average server FPS: 204.39 (measured interval: 1 s)
+15:38:50.163 Used memory: 2826065 KB
+15:38:50.163 Players: 1 in total
+15:38:51.163 Average server FPS: 180.00 (measured interval: 1 s)
+15:38:51.163 Used memory: 2829538 KB
+15:38:51.163 Players: 1 in total
+15:38:52.162 Average server FPS: 187.00 (measured interval: 1 s)
+15:38:52.162 Used memory: 2832999 KB
+15:38:52.162 Players: 1 in total
+15:38:53.179 Average server FPS: 118.11 (measured interval: 1 s)
+15:38:53.179 Used memory: 2837054 KB
+15:38:53.179 Players: 1 in total
+15:38:54.179 Average server FPS: 137.00 (measured interval: 1 s)
+15:38:54.179 Used memory: 2839814 KB
+15:38:54.179 Players: 1 in total
+15:38:55.181 Average server FPS: 201.60 (measured interval: 1 s)
+15:38:55.181 Used memory: 2841254 KB
+15:38:55.181 Players: 1 in total
+15:38:56.180 Average server FPS: 195.00 (measured interval: 1 s)
+15:38:56.180 Used memory: 2843032 KB
+15:38:56.180 Players: 1 in total
+15:38:57.180 Average server FPS: 235.00 (measured interval: 1 s)
+15:38:57.180 Used memory: 2843480 KB
+15:38:57.181 Players: 1 in total
+15:38:58.186 Average server FPS: 174.13 (measured interval: 1 s)
+15:38:58.186 Used memory: 2846489 KB
+15:38:58.186 Players: 1 in total
+15:38:59.188 Average server FPS: 154.54 (measured interval: 1 s)
+15:38:59.188 Used memory: 2849117 KB
+15:38:59.189 Players: 1 in total
+15:39:00.197 Average server FPS: 134.92 (measured interval: 1 s)
+15:39:00.197 Used memory: 2849800 KB
+15:39:00.197 Players: 1 in total
+15:39:01.197 Average server FPS: 182.82 (measured interval: 1 s)
+15:39:01.198 Used memory: 2849913 KB
+15:39:01.198 Players: 1 in total
+15:39:02.198 Average server FPS: 253.00 (measured interval: 1 s)
+15:39:02.198 Used memory: 2852212 KB
+15:39:02.198 Players: 1 in total
+15:39:03.210 Average server FPS: 150.20 (measured interval: 1 s)
+15:39:03.210 Used memory: 2855756 KB
+15:39:03.210 Players: 1 in total
+15:39:03.266 [CE][LootRespawner] (PRIDummy) :: Item [71] causing search overtime: "TerjeAmpouleRabivax"
+15:39:03.396 [CE][LootRespawner] (PRIDummy) :: Item [72] causing search overtime: "TerjeInjectorStomaproxidal"
+15:39:03.475 [CE][LootRespawner] (PRIDummy) :: Item [73] causing search overtime: "TerjeAmpouleZerivax"
+15:39:03.570 [CE][LootRespawner] (PRIDummy) :: Item [74] causing search overtime: "TerjeInjectorReanimatal"
+15:39:03.676 [CE][LootRespawner] (PRIDummy) :: Item [75] causing search overtime: "TerjeInjectorNovichek"
+15:39:03.781 [CE][LootRespawner] (PRIDummy) :: Item [76] causing search overtime: "TerjeInjectorPromidol"
+15:39:03.877 [CE][LootRespawner] (PRIDummy) :: Item [77] causing search overtime: "TerjeAmpouleNeirocetal"
+15:39:03.980 [CE][LootRespawner] (PRIDummy) :: Item [78] causing search overtime: "TerjeInjectorNeirox"
+15:39:04.177 [CE][LootRespawner] (PRIDummy) :: Item [79] causing search overtime: "M79"
+15:39:04.209 Average server FPS: 217.00 (measured interval: 1 s)
+15:39:04.209 Used memory: 2856862 KB
+15:39:04.209 Players: 1 in total
+15:39:04.278 [CE][LootRespawner] (PRIDummy) :: Item [80] causing search overtime: "TerjeBookImmunity3"
+15:39:04.380 [CE][LootRespawner] (PRIDummy) :: Item [81] causing search overtime: "TerjeBookImmunity4"
+15:39:04.482 [CE][LootRespawner] (PRIDummy) :: Item [82] causing search overtime: "TerjeBookMedicine4"
+15:39:04.885 [CE][LootRespawner] (PRIDummy) :: Item [150] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.888 [CE][LootRespawner] (PRIDummy) :: Item [151] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.888 [CE][LootRespawner] (PRIDummy) :: Item [152] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [153] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [154] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [155] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [156] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [157] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [158] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.890 [CE][LootRespawner] (PRIDummy) :: Item [159] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.891 [CE][LootRespawner] (PRIDummy) :: Item [160] is hard to place, performance drops: "ColdWarPants_Splinter"
+15:39:04.891 [CE][LootRespawner] (PRIDummy) :: Item [83] causing search overtime: "ColdWarPants_Splinter"
+15:39:04.988 [CE][LootRespawner] (PRIDummy) :: Item [161] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.988 [CE][LootRespawner] (PRIDummy) :: Item [162] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.988 [CE][LootRespawner] (PRIDummy) :: Item [163] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.988 [CE][LootRespawner] (PRIDummy) :: Item [164] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [165] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [166] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [167] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [168] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [169] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [170] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [171] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:04.989 [CE][LootRespawner] (PRIDummy) :: Item [84] causing search overtime: "ColdWarPants_Oblaky"
+15:39:05.211 Average server FPS: 265.73 (measured interval: 1 s)
+15:39:05.211 Used memory: 2857597 KB
+15:39:05.211 Players: 1 in total
+15:39:06.213 Average server FPS: 282.44 (measured interval: 1 s)
+15:39:06.213 Used memory: 2858077 KB
+15:39:06.213 Players: 1 in total
+15:39:07.215 Average server FPS: 330.34 (measured interval: 1 s)
+15:39:07.215 Used memory: 2858116 KB
+15:39:07.215 Players: 1 in total
+15:39:07.625 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+15:39:08.218 Average server FPS: 259.96 (measured interval: 1 s)
+15:39:08.218 Used memory: 2860571 KB
+15:39:08.218 Players: 1 in total
+15:39:09.234 Average server FPS: 148.77 (measured interval: 1 s)
+15:39:09.234 Used memory: 2861334 KB
+15:39:09.234 Players: 1 in total
+15:39:10.235 Average server FPS: 152.85 (measured interval: 1 s)
+15:39:10.235 Used memory: 2861546 KB
+15:39:10.235 Players: 1 in total
+15:39:11.238 Average server FPS: 202.39 (measured interval: 1 s)
+15:39:11.238 Used memory: 2861574 KB
+15:39:11.238 Players: 1 in total
+15:39:12.240 Average server FPS: 225.55 (measured interval: 1 s)
+15:39:12.240 Used memory: 2864286 KB
+15:39:12.240 Players: 1 in total
+15:39:13.242 Average server FPS: 305.39 (measured interval: 1 s)
+15:39:13.242 Used memory: 2864193 KB
+15:39:13.242 Players: 1 in total
+15:39:14.248 Average server FPS: 284.29 (measured interval: 1 s)
+15:39:14.248 Used memory: 2864854 KB
+15:39:14.248 Players: 1 in total
+15:39:15.257 Average server FPS: 305.25 (measured interval: 1 s)
+15:39:15.257 Used memory: 2868745 KB
+15:39:15.257 Players: 1 in total
+15:39:16.257 Average server FPS: 335.66 (measured interval: 1 s)
+15:39:16.257 Used memory: 2868765 KB
+15:39:16.257 Players: 1 in total
+15:39:17.258 Average server FPS: 332.00 (measured interval: 1 s)
+15:39:17.258 Used memory: 2868767 KB
+15:39:17.258 Players: 1 in total
+15:39:18.259 Average server FPS: 231.54 (measured interval: 1 s)
+15:39:18.259 Used memory: 2868768 KB
+15:39:18.259 Players: 1 in total
+15:39:19.290 Average server FPS: 198.06 (measured interval: 1 s)
+15:39:19.290 Used memory: 2868775 KB
+15:39:19.290 Players: 1 in total
+15:39:20.293 Average server FPS: 217.35 (measured interval: 1 s)
+15:39:20.293 Used memory: 2870564 KB
+15:39:20.293 Players: 1 in total
+15:39:21.295 Average server FPS: 243.51 (measured interval: 1 s)
+15:39:21.295 Used memory: 2870873 KB
+15:39:21.295 Players: 1 in total
+15:39:22.298 Average server FPS: 250.00 (measured interval: 1 s)
+15:39:22.298 Used memory: 2870914 KB
+15:39:22.298 Players: 1 in total
+15:39:23.300 Average server FPS: 265.47 (measured interval: 1 s)
+15:39:23.300 Used memory: 2871041 KB
+15:39:23.300 Players: 1 in total
+15:39:24.301 Average server FPS: 255.00 (measured interval: 1 s)
+15:39:24.301 Used memory: 2872334 KB
+15:39:24.301 Players: 1 in total
+15:39:25.301 Average server FPS: 189.00 (measured interval: 1 s)
+15:39:25.301 Used memory: 2875459 KB
+15:39:25.301 Players: 1 in total
+15:39:26.300 Average server FPS: 130.00 (measured interval: 1 s)
+15:39:26.300 Used memory: 2878054 KB
+15:39:26.300 Players: 1 in total
+15:39:27.314 Average server FPS: 183.61 (measured interval: 1 s)
+15:39:27.314 Used memory: 2878166 KB
+15:39:27.314 Players: 1 in total
+15:39:28.320 Average server FPS: 294.23 (measured interval: 1 s)
+15:39:28.320 Used memory: 2878168 KB
+15:39:28.320 Players: 1 in total
+15:39:29.324 Average server FPS: 253.73 (measured interval: 1 s)
+15:39:29.324 Used memory: 2878609 KB
+15:39:29.324 Players: 1 in total
+15:39:30.325 Average server FPS: 220.00 (measured interval: 1 s)
+15:39:30.325 Used memory: 2878655 KB
+15:39:30.325 Players: 1 in total
+15:39:30.589 [CE][LootRespawner] (PRIDummy) :: Item [172] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.590 [CE][LootRespawner] (PRIDummy) :: Item [173] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.590 [CE][LootRespawner] (PRIDummy) :: Item [174] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.590 [CE][LootRespawner] (PRIDummy) :: Item [175] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.590 [CE][LootRespawner] (PRIDummy) :: Item [176] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.591 [CE][LootRespawner] (PRIDummy) :: Item [177] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.591 [CE][LootRespawner] (PRIDummy) :: Item [178] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.591 [CE][LootRespawner] (PRIDummy) :: Item [179] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.591 [CE][LootRespawner] (PRIDummy) :: Item [180] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.591 [CE][LootRespawner] (PRIDummy) :: Item [181] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.591 [CE][LootRespawner] (PRIDummy) :: Item [182] is hard to place, performance drops: "ColdWarPants_Oblaky"
+15:39:30.592 [CE][LootRespawner] (PRIDummy) :: Item [85] causing search overtime: "ColdWarPants_Oblaky"
+15:39:30.709 [CE][LootRespawner] (PRIDummy) :: Item [183] is hard to place, performance drops: "ColdWarTop_KLMKSO"
+15:39:30.710 [CE][LootRespawner] (PRIDummy) :: Item [86] causing search overtime: "ColdWarTop_KLMKSO"
+15:39:30.793 [CE][LootRespawner] (PRIDummy) :: Item [184] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [185] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [186] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [187] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [188] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [189] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [190] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [191] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [192] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [193] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [194] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:39:30.794 [CE][LootRespawner] (PRIDummy) :: Item [87] causing search overtime: "ColdWarBottom_KLMK"
+15:39:30.899 [CE][LootRespawner] (PRIDummy) :: Item [195] is hard to place, performance drops: "ColdWarTop_Frogskin"
+15:39:30.900 [CE][LootRespawner] (PRIDummy) :: Item [88] causing search overtime: "ColdWarTop_Frogskin"
+15:39:30.996 [CE][LootRespawner] (PRIDummy) :: Item [196] is hard to place, performance drops: "ColdWarJacket_Splinter"
+15:39:30.996 [CE][LootRespawner] (PRIDummy) :: Item [89] causing search overtime: "ColdWarJacket_Splinter"
+15:39:31.99 [CE][LootRespawner] (PRIDummy) :: Item [197] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.99 [CE][LootRespawner] (PRIDummy) :: Item [198] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.100 [CE][LootRespawner] (PRIDummy) :: Item [199] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.100 [CE][LootRespawner] (PRIDummy) :: Item [200] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [201] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [202] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [203] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [204] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [205] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [206] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [207] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:39:31.101 [CE][LootRespawner] (PRIDummy) :: Item [90] causing search overtime: "ColdWarPants_Strichtarn"
+15:39:31.200 [CE][LootRespawner] (PRIDummy) :: Item [208] is hard to place, performance drops: "ColdWarJacket_Oblaky"
+15:39:31.200 [CE][LootRespawner] (PRIDummy) :: Item [91] causing search overtime: "ColdWarJacket_Oblaky"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [209] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [210] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [211] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [212] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [213] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [214] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [215] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [216] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.302 [CE][LootRespawner] (PRIDummy) :: Item [217] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.303 [CE][LootRespawner] (PRIDummy) :: Item [218] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.304 [CE][LootRespawner] (PRIDummy) :: Item [219] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:39:31.304 [CE][LootRespawner] (PRIDummy) :: Item [92] causing search overtime: "ColdWarBottom_TTsMKK"
+15:39:31.329 Average server FPS: 254.98 (measured interval: 1 s)
+15:39:31.329 Used memory: 2880834 KB
+15:39:31.329 Players: 1 in total
+15:39:31.404 [CE][LootRespawner] (PRIDummy) :: Item [220] is hard to place, performance drops: "ColdWarJacket_Strichtarn"
+15:39:31.405 [CE][LootRespawner] (PRIDummy) :: Item [93] causing search overtime: "ColdWarJacket_Strichtarn"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [221] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [222] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [223] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [224] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [225] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [226] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.502 [CE][LootRespawner] (PRIDummy) :: Item [227] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.503 [CE][LootRespawner] (PRIDummy) :: Item [228] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.503 [CE][LootRespawner] (PRIDummy) :: Item [229] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.503 [CE][LootRespawner] (PRIDummy) :: Item [230] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.503 [CE][LootRespawner] (PRIDummy) :: Item [231] is hard to place, performance drops: "ColdWarBottom_Frogskin"
+15:39:31.503 [CE][LootRespawner] (PRIDummy) :: Item [94] causing search overtime: "ColdWarBottom_Frogskin"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [232] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [233] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [234] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [235] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [236] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [237] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [238] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [239] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [240] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.601 [CE][LootRespawner] (PRIDummy) :: Item [241] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.602 [CE][LootRespawner] (PRIDummy) :: Item [242] is hard to place, performance drops: "ColdWarPants_Jigsaw"
+15:39:31.602 [CE][LootRespawner] (PRIDummy) :: Item [95] causing search overtime: "ColdWarPants_Jigsaw"
+15:39:31.802 [CE][LootRespawner] (PRIDummy) :: Item [243] is hard to place, performance drops: "ColdWarTop_DPM"
+15:39:31.803 [CE][LootRespawner] (PRIDummy) :: Item [96] causing search overtime: "ColdWarTop_DPM"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [244] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [245] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [246] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [247] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [248] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [249] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [250] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.960 [CE][LootRespawner] (PRIDummy) :: Item [251] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.961 [CE][LootRespawner] (PRIDummy) :: Item [252] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.961 [CE][LootRespawner] (PRIDummy) :: Item [253] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.961 [CE][LootRespawner] (PRIDummy) :: Item [254] is hard to place, performance drops: "ColdWarPants_Finnish"
+15:39:31.961 [CE][LootRespawner] (PRIDummy) :: Item [97] causing search overtime: "ColdWarPants_Finnish"
+15:39:32.38 [CE][LootRespawner] (PRIDummy) :: Item [255] is hard to place, performance drops: "ColdWarJacket_Finnish"
+15:39:32.39 [CE][LootRespawner] (PRIDummy) :: Item [98] causing search overtime: "ColdWarJacket_Finnish"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [256] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [257] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [258] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [259] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [260] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [261] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [262] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [263] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [264] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [265] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.139 [CE][LootRespawner] (PRIDummy) :: Item [266] is hard to place, performance drops: "ColdWarBottom_KLMKSO"
+15:39:32.140 [CE][LootRespawner] (PRIDummy) :: Item [99] causing search overtime: "ColdWarBottom_KLMKSO"
+15:39:32.240 [CE][LootRespawner] (PRIDummy) :: Item [267] is hard to place, performance drops: "ColdWarJacket_Jigsaw"
+15:39:32.240 [CE][LootRespawner] (PRIDummy) :: Item [100] causing search overtime: "ColdWarJacket_Jigsaw"
+15:39:32.329 Average server FPS: 226.00 (measured interval: 1 s)
+15:39:32.329 Used memory: 2885853 KB
+15:39:32.329 Players: 1 in total
+15:39:32.393 [CE][LootRespawner] (PRIDummy) :: Item [268] is hard to place, performance drops: "ColdWarTop_KLMK"
+15:39:32.394 [CE][LootRespawner] (PRIDummy) :: Item [101] causing search overtime: "ColdWarTop_KLMK"
+15:39:32.580 [CE][LootRespawner] (PRIDummy) :: Item [269] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.580 [CE][LootRespawner] (PRIDummy) :: Item [270] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.580 [CE][LootRespawner] (PRIDummy) :: Item [271] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.580 [CE][LootRespawner] (PRIDummy) :: Item [272] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [273] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [274] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [275] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [276] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [277] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [278] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [279] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:32.581 [CE][LootRespawner] (PRIDummy) :: Item [102] causing search overtime: "ColdWarBottom_DPM"
+15:39:33.329 Average server FPS: 257.00 (measured interval: 1 s)
+15:39:33.329 Used memory: 2886741 KB
+15:39:33.329 Players: 1 in total
+15:39:34.329 Average server FPS: 264.00 (measured interval: 1 s)
+15:39:34.329 Used memory: 2889653 KB
+15:39:34.329 Players: 1 in total
+15:39:35.342 Average server FPS: 155.97 (measured interval: 1 s)
+15:39:35.342 Used memory: 2892232 KB
+15:39:35.342 Players: 1 in total
+15:39:36.361 Average server FPS: 148.04 (measured interval: 1 s)
+15:39:36.361 Used memory: 2902564 KB
+15:39:36.361 Players: 1 in total
+15:39:37.364 Average server FPS: 140.72 (measured interval: 1 s)
+15:39:37.364 Used memory: 2902963 KB
+15:39:37.364 Players: 1 in total
+15:39:38.366 Average server FPS: 212.57 (measured interval: 1 s)
+15:39:38.366 Used memory: 2904394 KB
+15:39:38.366 Players: 1 in total
+15:39:39.366 Average server FPS: 167.00 (measured interval: 1 s)
+15:39:39.366 Used memory: 2904635 KB
+15:39:39.366 Players: 1 in total
+15:39:40.366 Average server FPS: 189.00 (measured interval: 1 s)
+15:39:40.366 Used memory: 2905725 KB
+15:39:40.366 Players: 1 in total
+15:39:41.368 Average server FPS: 261.48 (measured interval: 1 s)
+15:39:41.368 Used memory: 2905741 KB
+15:39:41.368 Players: 1 in total
+15:39:42.385 Average server FPS: 338.25 (measured interval: 1 s)
+15:39:42.385 Used memory: 2907572 KB
+15:39:42.385 Players: 1 in total
+15:39:43.388 Average server FPS: 239.28 (measured interval: 1 s)
+15:39:43.388 Used memory: 2907940 KB
+15:39:43.388 Players: 1 in total
+15:39:44.395 Average server FPS: 289.97 (measured interval: 1 s)
+15:39:44.395 Used memory: 2909220 KB
+15:39:44.395 Players: 1 in total
+15:39:45.396 Average server FPS: 198.80 (measured interval: 1 s)
+15:39:45.396 Used memory: 2910434 KB
+15:39:45.396 Players: 1 in total
+15:39:46.398 Average server FPS: 151.70 (measured interval: 1 s)
+15:39:46.398 Used memory: 2911182 KB
+15:39:46.398 Players: 1 in total
+15:39:47.400 Average server FPS: 193.61 (measured interval: 1 s)
+15:39:47.400 Used memory: 2911557 KB
+15:39:47.400 Players: 1 in total
+15:39:48.416 Average server FPS: 191.93 (measured interval: 1 s)
+15:39:48.416 Used memory: 2912135 KB
+15:39:48.416 Players: 1 in total
+15:39:49.416 Average server FPS: 210.00 (measured interval: 1 s)
+15:39:49.416 Used memory: 2913242 KB
+15:39:49.416 Players: 1 in total
+15:39:50.417 Average server FPS: 208.58 (measured interval: 1 s)
+15:39:50.417 Used memory: 2913907 KB
+15:39:50.417 Players: 1 in total
+15:39:51.424 Average server FPS: 171.97 (measured interval: 1 s)
+15:39:51.424 Used memory: 2914009 KB
+15:39:51.424 Players: 1 in total
+15:39:52.427 Average server FPS: 211.37 (measured interval: 1 s)
+15:39:52.427 Used memory: 2914045 KB
+15:39:52.427 Players: 1 in total
+15:39:53.431 Average server FPS: 145.42 (measured interval: 1 s)
+15:39:53.431 Used memory: 2914979 KB
+15:39:53.431 Players: 1 in total
+15:39:54.434 Average server FPS: 116.65 (measured interval: 1 s)
+15:39:54.434 Used memory: 2915167 KB
+15:39:54.434 Players: 1 in total
+15:39:55.434 Average server FPS: 126.00 (measured interval: 1 s)
+15:39:55.434 Used memory: 2915210 KB
+15:39:55.434 Players: 1 in total
+15:39:56.461 Average server FPS: 117.82 (measured interval: 1 s)
+15:39:56.461 Used memory: 2916842 KB
+15:39:56.461 Players: 1 in total
+15:39:57.461 Average server FPS: 147.85 (measured interval: 1 s)
+15:39:57.461 Used memory: 2917869 KB
+15:39:57.461 Players: 1 in total
+15:39:58.462 Average server FPS: 125.87 (measured interval: 1 s)
+15:39:58.462 Used memory: 2920347 KB
+15:39:58.462 Players: 1 in total
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [280] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [281] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [282] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [283] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [284] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [285] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [286] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [287] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [288] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [289] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.604 [CE][LootRespawner] (PRIDummy) :: Item [290] is hard to place, performance drops: "ColdWarBottom_DPM"
+15:39:58.605 [CE][LootRespawner] (PRIDummy) :: Item [103] causing search overtime: "ColdWarBottom_DPM"
+15:39:58.709 [CE][LootRespawner] (PRIDummy) :: Item [104] causing search overtime: "TerjeAmpouleAlcohol"
+15:39:58.809 [CE][LootRespawner] (PRIDummy) :: Item [291] is hard to place, performance drops: "ColdWarTop_TTsMKK"
+15:39:58.810 [CE][LootRespawner] (PRIDummy) :: Item [105] causing search overtime: "ColdWarTop_TTsMKK"
+15:39:59.327 [CE][LootRespawner] (PRIDummy) :: Item [106] causing search overtime: "TerjeSurgicalKit"
+15:39:59.424 [CE][LootRespawner] (PRIDummy) :: Item [107] causing search overtime: "TerjeSalveFinalgon"
+15:39:59.466 Average server FPS: 144.57 (measured interval: 1 s)
+15:39:59.466 Used memory: 2921797 KB
+15:39:59.466 Players: 1 in total
+15:39:59.535 [CE][LootRespawner] (PRIDummy) :: Item [108] causing search overtime: "ExpansionHescoKit"
+15:39:59.733 [CE][LootRespawner] (PRIDummy) :: Item [109] causing search overtime: "TerjePillsMagnesiumSulfate"
+15:39:59.832 [CE][LootRespawner] (PRIDummy) :: Item [110] causing search overtime: "TerjeSalveCapsicum"
+15:40:00.35 [CE][LootRespawner] (PRIDummy) :: Item [111] causing search overtime: "ExpansionCamoTentKit"
+15:40:00.277 [CE][LootRespawner] (PRIDummy) :: Item [112] causing search overtime: "ExpansionCamoBoxKit"
+15:40:00.362 [CE][LootRespawner] (PRIDummy) :: Item [113] causing search overtime: "TerjePillsB190"
+15:40:00.483 [CE][LootRespawner] (PRIDummy) :: Item [114] causing search overtime: "Mag_CZ61_20Rnd"
+15:40:00.483 Average server FPS: 148.48 (measured interval: 1 s)
+15:40:00.483 Used memory: 2926247 KB
+15:40:00.483 Players: 1 in total
+15:40:00.570 [CE][LootRespawner] (PRIDummy) :: Item [115] causing search overtime: "TerjeInjectorAmoxiclav"
+15:40:01.486 Average server FPS: 154.38 (measured interval: 1 s)
+15:40:01.486 Used memory: 2928696 KB
+15:40:01.486 Players: 1 in total
+15:40:02.492 Average server FPS: 161.03 (measured interval: 1 s)
+15:40:02.492 Used memory: 2932183 KB
+15:40:02.492 Players: 1 in total
+15:40:03.492 Average server FPS: 154.00 (measured interval: 1 s)
+15:40:03.492 Used memory: 2935468 KB
+15:40:03.492 Players: 1 in total
+15:40:04.525 Average server FPS: 150.19 (measured interval: 1 s)
+15:40:04.525 Used memory: 2935793 KB
+15:40:04.525 Players: 1 in total
+15:40:05.524 Average server FPS: 144.00 (measured interval: 1 s)
+15:40:05.524 Used memory: 2936414 KB
+15:40:05.524 Players: 1 in total
+15:40:06.525 Average server FPS: 173.83 (measured interval: 1 s)
+15:40:06.525 Used memory: 2936437 KB
+15:40:06.525 Players: 1 in total
+15:40:07.525 Average server FPS: 198.00 (measured interval: 1 s)
+15:40:07.525 Used memory: 2936536 KB
+15:40:07.525 Players: 1 in total
+15:40:08.527 Average server FPS: 297.41 (measured interval: 1 s)
+15:40:08.527 Used memory: 2936759 KB
+15:40:08.527 Players: 1 in total
+15:40:09.528 Average server FPS: 303.70 (measured interval: 1 s)
+15:40:09.528 Used memory: 2936664 KB
+15:40:09.528 Players: 1 in total
+15:40:10.529 Average server FPS: 290.71 (measured interval: 1 s)
+15:40:10.529 Used memory: 2936570 KB
+15:40:10.529 Players: 1 in total
+15:40:11.529 Average server FPS: 275.00 (measured interval: 1 s)
+15:40:11.529 Used memory: 2936531 KB
+15:40:11.529 Players: 1 in total
+15:40:12.534 Average server FPS: 287.56 (measured interval: 1 s)
+15:40:12.534 Used memory: 2936654 KB
+15:40:12.534 Players: 1 in total
+15:40:13.534 Average server FPS: 206.00 (measured interval: 1 s)
+15:40:13.534 Used memory: 2941624 KB
+15:40:13.534 Players: 1 in total
+15:40:14.534 Average server FPS: 116.00 (measured interval: 1 s)
+15:40:14.534 Used memory: 2943022 KB
+15:40:14.534 Players: 1 in total
+15:40:15.535 Average server FPS: 165.83 (measured interval: 1 s)
+15:40:15.535 Used memory: 2947597 KB
+15:40:15.535 Players: 1 in total
+15:40:16.536 Average server FPS: 117.88 (measured interval: 1 s)
+15:40:16.536 Used memory: 2949446 KB
+15:40:16.536 Players: 1 in total
+15:40:17.537 Average server FPS: 157.84 (measured interval: 1 s)
+15:40:17.537 Used memory: 2952086 KB
+15:40:17.538 Players: 1 in total
+15:40:18.537 Average server FPS: 161.00 (measured interval: 1 s)
+15:40:18.537 Used memory: 2953880 KB
+15:40:18.537 Players: 1 in total
+15:40:19.539 Average server FPS: 179.82 (measured interval: 1 s)
+15:40:19.539 Used memory: 2955526 KB
+15:40:19.539 Players: 1 in total
+15:40:20.538 Average server FPS: 216.00 (measured interval: 1 s)
+15:40:20.538 Used memory: 2957119 KB
+15:40:20.538 Players: 1 in total
+15:40:21.541 Average server FPS: 220.34 (measured interval: 1 s)
+15:40:21.541 Used memory: 2957719 KB
+15:40:21.541 Players: 1 in total
+15:40:22.543 Average server FPS: 171.66 (measured interval: 1 s)
+15:40:22.543 Used memory: 2958299 KB
+15:40:22.543 Players: 1 in total
+15:40:23.546 Average server FPS: 180.46 (measured interval: 1 s)
+15:40:23.547 Used memory: 2959801 KB
+15:40:23.547 Players: 1 in total
+15:40:24.548 Average server FPS: 229.54 (measured interval: 1 s)
+15:40:24.548 Used memory: 2960494 KB
+15:40:24.548 Players: 1 in total
+15:40:25.548 Average server FPS: 286.00 (measured interval: 1 s)
+15:40:25.548 Used memory: 2960660 KB
+15:40:25.548 Players: 1 in total
+15:40:26.550 Average server FPS: 287.43 (measured interval: 1 s)
+15:40:26.550 Used memory: 2962427 KB
+15:40:26.550 Players: 1 in total
+15:40:26.697 [CE][LootRespawner] (PRIDummy) :: Item [116] causing search overtime: "TerjeInjectorAmoxiclav"
+15:40:26.997 [CE][LootRespawner] (PRIDummy) :: Item [117] causing search overtime: "TerjePillsAmoxiclav"
+15:40:27.101 [CE][LootRespawner] (PRIDummy) :: Item [118] causing search overtime: "TerjeAmpouleAmoxivan"
+15:40:27.202 [CE][LootRespawner] (PRIDummy) :: Item [119] causing search overtime: "TerjeAmpouleRabinoline"
+15:40:27.404 [CE][LootRespawner] (PRIDummy) :: Item [120] causing search overtime: "TerjeAmpouleActaparoxetine"
+15:40:27.505 [CE][LootRespawner] (PRIDummy) :: Item [121] causing search overtime: "TerjeInjectorErythropoietin"
+15:40:27.551 Average server FPS: 274.73 (measured interval: 1 s)
+15:40:27.551 Used memory: 2962787 KB
+15:40:27.551 Players: 1 in total
+15:40:27.603 [CE][LootRespawner] (PRIDummy) :: Item [122] causing search overtime: "TerjeAmpouleGexobarbital"
+15:40:27.707 [CE][LootRespawner] (PRIDummy) :: Item [123] causing search overtime: "TerjeAmpouleMorphine"
+15:40:27.812 [CE][LootRespawner] (PRIDummy) :: Item [124] causing search overtime: "TerjeAmpouleHeptral"
+15:40:27.920 [CE][LootRespawner] (PRIDummy) :: Item [125] causing search overtime: "TerjeAmpouleErythropoetin"
+15:40:28.21 [CE][LootRespawner] (PRIDummy) :: Item [126] causing search overtime: "TerjeAmpouleMetoclopramid"
+15:40:28.151 [CE][LootRespawner] (PRIDummy) :: Item [127] causing search overtime: "TerjeAmpouleRifampicyne"
+15:40:28.234 [CE][LootRespawner] (PRIDummy) :: Item [128] causing search overtime: "TerjePillsIbuprofen"
+15:40:28.551 Average server FPS: 209.00 (measured interval: 1 s)
+15:40:28.551 Used memory: 2965869 KB
+15:40:28.551 Players: 1 in total
+15:40:29.558 Average server FPS: 204.57 (measured interval: 1 s)
+15:40:29.558 Used memory: 2967927 KB
+15:40:29.558 Players: 1 in total
+15:40:30.276 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+15:40:30.560 Average server FPS: 261.74 (measured interval: 1 s)
+15:40:30.560 Used memory: 2968144 KB
+15:40:30.560 Players: 1 in total
+15:40:31.562 Average server FPS: 258.23 (measured interval: 1 s)
+15:40:31.562 Used memory: 2969259 KB
+15:40:31.562 Players: 1 in total
+15:40:32.562 Average server FPS: 157.00 (measured interval: 1 s)
+15:40:32.562 Used memory: 2969497 KB
+15:40:32.562 Players: 1 in total
+15:40:33.565 Average server FPS: 229.54 (measured interval: 1 s)
+15:40:33.565 Used memory: 2969540 KB
+15:40:33.565 Players: 1 in total
+15:40:34.597 Average server FPS: 158.76 (measured interval: 1 s)
+15:40:34.598 Used memory: 2971356 KB
+15:40:34.598 Players: 1 in total
+15:40:35.597 Average server FPS: 271.00 (measured interval: 1 s)
+15:40:35.597 Used memory: 2971966 KB
+15:40:35.597 Players: 1 in total
+15:40:36.597 Average server FPS: 245.00 (measured interval: 1 s)
+15:40:36.598 Used memory: 2972648 KB
+15:40:36.598 Players: 1 in total
+15:40:37.597 Average server FPS: 253.00 (measured interval: 1 s)
+15:40:37.597 Used memory: 2974015 KB
+15:40:37.597 Players: 1 in total
+15:40:38.597 Average server FPS: 330.00 (measured interval: 1 s)
+15:40:38.598 Used memory: 2973990 KB
+15:40:38.598 Players: 1 in total
+15:40:39.597 Average server FPS: 307.00 (measured interval: 1 s)
+15:40:39.597 Used memory: 2974049 KB
+15:40:39.597 Players: 1 in total
+15:40:40.598 Average server FPS: 274.73 (measured interval: 1 s)
+15:40:40.598 Used memory: 2974199 KB
+15:40:40.598 Players: 1 in total
+15:40:41.619 Average server FPS: 151.81 (measured interval: 1 s)
+15:40:41.619 Used memory: 2976816 KB
+15:40:41.619 Players: 1 in total
+15:40:42.623 Average server FPS: 169.32 (measured interval: 1 s)
+15:40:42.623 Used memory: 2977006 KB
+15:40:42.623 Players: 1 in total
+15:40:43.626 Average server FPS: 173.48 (measured interval: 1 s)
+15:40:43.626 Used memory: 2978833 KB
+15:40:43.626 Players: 1 in total
+15:40:44.627 Average server FPS: 260.74 (measured interval: 1 s)
+15:40:44.627 Used memory: 2978982 KB
+15:40:44.627 Players: 1 in total
+15:40:45.627 Average server FPS: 210.00 (measured interval: 1 s)
+15:40:45.627 Used memory: 2979727 KB
+15:40:45.627 Players: 1 in total
+15:40:46.627 Average server FPS: 211.00 (measured interval: 1 s)
+15:40:46.627 Used memory: 2980015 KB
+15:40:46.627 Players: 1 in total
+15:40:47.629 Average server FPS: 229.54 (measured interval: 1 s)
+15:40:47.629 Used memory: 2981552 KB
+15:40:47.629 Players: 1 in total
+15:40:48.650 Average server FPS: 212.54 (measured interval: 1 s)
+15:40:48.650 Used memory: 2982403 KB
+15:40:48.650 Players: 1 in total
+15:40:49.653 Average server FPS: 193.61 (measured interval: 1 s)
+15:40:49.653 Used memory: 2983582 KB
+15:40:49.653 Players: 1 in total
+15:40:50.656 Average server FPS: 206.18 (measured interval: 1 s)
+15:40:50.656 Used memory: 2984016 KB
+15:40:50.656 Players: 1 in total
+15:40:51.657 Average server FPS: 188.81 (measured interval: 1 s)
+15:40:51.657 Used memory: 2985838 KB
+15:40:51.657 Players: 1 in total
+15:40:52.660 Average server FPS: 224.33 (measured interval: 1 s)
+15:40:52.660 Used memory: 2986826 KB
+15:40:52.660 Players: 1 in total
+15:40:53.666 Average server FPS: 220.68 (measured interval: 1 s)
+15:40:53.666 Used memory: 2987037 KB
+15:40:53.666 Players: 1 in total
+15:40:54.232 [CE][LootRespawner] (PRIDummy) :: Item [129] causing search overtime: "TerjePillsIbuprofen"
+15:40:54.331 [CE][LootRespawner] (PRIDummy) :: Item [130] causing search overtime: "TerjeAmpouleAdrenalin"
+15:40:54.432 [CE][LootRespawner] (PRIDummy) :: Item [131] causing search overtime: "TerjeFirstAidKitMedium"
+15:40:54.634 [CE][LootRespawner] (PRIDummy) :: Item [132] causing search overtime: "TerjeAmpouleCarboxyme"
+15:40:54.667 Average server FPS: 262.74 (measured interval: 1 s)
+15:40:54.667 Used memory: 2987910 KB
+15:40:54.667 Players: 1 in total
+15:40:54.734 [CE][LootRespawner] (PRIDummy) :: Item [133] causing search overtime: "TerjeAmpouleAmitriptyline"
+15:40:54.836 [CE][LootRespawner] (PRIDummy) :: Item [134] causing search overtime: "TerjePillsVikasol"
+15:40:55.148 [CE][LootRespawner] (PRIDummy) :: Item [135] causing search overtime: "TerjeAmpouleKetarol"
+15:40:55.248 [CE][LootRespawner] (PRIDummy) :: Item [136] causing search overtime: "TerjeAmpouleMetralindole"
+15:40:55.348 [CE][LootRespawner] (PRIDummy) :: Item [137] causing search overtime: "TerjePillsAmibaktam"
+15:40:55.450 [CE][LootRespawner] (PRIDummy) :: Item [138] causing search overtime: "TerjeAmpoulePentacin"
+15:40:55.549 [CE][LootRespawner] (PRIDummy) :: Item [139] causing search overtime: "TerjeAmpouleImipenem"
+15:40:55.657 [CE][LootRespawner] (PRIDummy) :: Item [140] causing search overtime: "TerjeAmpouleFlemoclav"
+15:40:55.667 Average server FPS: 223.00 (measured interval: 1 s)
+15:40:55.667 Used memory: 2990059 KB
+15:40:55.667 Players: 1 in total
+15:40:55.757 [CE][LootRespawner] (PRIDummy) :: Item [141] causing search overtime: "TerjeBookImmunity2"
+15:40:56.667 Average server FPS: 278.00 (measured interval: 1 s)
+15:40:56.667 Used memory: 2990624 KB
+15:40:56.667 Players: 1 in total
+15:40:57.668 Average server FPS: 254.00 (measured interval: 1 s)
+15:40:57.668 Used memory: 2990624 KB
+15:40:57.668 Players: 1 in total
+15:40:58.669 Average server FPS: 295.70 (measured interval: 1 s)
+15:40:58.669 Used memory: 2991763 KB
+15:40:58.669 Players: 1 in total
+15:40:59.680 Average server FPS: 227.27 (measured interval: 1 s)
+15:40:59.680 Used memory: 2991772 KB
+15:40:59.680 Players: 1 in total
+15:41:00.681 Average server FPS: 124.88 (measured interval: 1 s)
+15:41:00.681 Used memory: 2992558 KB
+15:41:00.681 Players: 1 in total
+15:41:01.681 Average server FPS: 167.00 (measured interval: 1 s)
+15:41:01.681 Used memory: 2992561 KB
+15:41:01.681 Players: 1 in total
+15:41:02.685 Average server FPS: 161.35 (measured interval: 1 s)
+15:41:02.685 Used memory: 2992854 KB
+15:41:02.685 Players: 1 in total
+15:41:03.693 Average server FPS: 288.98 (measured interval: 1 s)
+15:41:03.693 Used memory: 2993020 KB
+15:41:03.693 Players: 1 in total
+15:41:04.694 Average server FPS: 242.51 (measured interval: 1 s)
+15:41:04.694 Used memory: 2992903 KB
+15:41:04.694 Players: 1 in total
+15:41:05.695 Average server FPS: 197.80 (measured interval: 1 s)
+15:41:05.695 Used memory: 2994992 KB
+15:41:05.695 Players: 1 in total
+15:41:06.698 Average server FPS: 255.23 (measured interval: 1 s)
+15:41:06.698 Used memory: 2996174 KB
+15:41:06.698 Players: 1 in total
+15:41:07.698 Average server FPS: 215.00 (measured interval: 1 s)
+15:41:07.699 Used memory: 2999440 KB
+15:41:07.699 Players: 1 in total
+15:41:08.698 Average server FPS: 170.00 (measured interval: 1 s)
+15:41:08.698 Used memory: 3000219 KB
+15:41:08.698 Players: 1 in total
+15:41:09.698 Average server FPS: 187.00 (measured interval: 1 s)
+15:41:09.698 Used memory: 3002207 KB
+15:41:09.698 Players: 1 in total
+15:41:10.715 Average server FPS: 202.56 (measured interval: 1 s)
+15:41:10.715 Used memory: 3002860 KB
+15:41:10.715 Players: 1 in total
+15:41:11.722 Average server FPS: 142.01 (measured interval: 1 s)
+15:41:11.722 Used memory: 3006564 KB
+15:41:11.722 Players: 1 in total
+15:41:12.723 Average server FPS: 188.81 (measured interval: 1 s)
+15:41:12.723 Used memory: 3009761 KB
+15:41:12.723 Players: 1 in total
+15:41:13.729 Average server FPS: 182.90 (measured interval: 1 s)
+15:41:13.729 Used memory: 3011668 KB
+15:41:13.729 Players: 1 in total
+15:41:14.742 Average server FPS: 153.01 (measured interval: 1 s)
+15:41:14.742 Used memory: 3014932 KB
+15:41:14.742 Players: 1 in total
+15:41:15.747 Average server FPS: 218.91 (measured interval: 1 s)
+15:41:15.747 Used memory: 3015928 KB
+15:41:15.747 Players: 1 in total
+15:41:16.754 Average server FPS: 114.20 (measured interval: 1 s)
+15:41:16.754 Used memory: 3018700 KB
+15:41:16.754 Players: 1 in total
+15:41:17.780 Average server FPS: 187.13 (measured interval: 1 s)
+15:41:17.780 Used memory: 3020032 KB
+15:41:17.780 Players: 1 in total
+15:41:18.780 Average server FPS: 235.00 (measured interval: 1 s)
+15:41:18.780 Used memory: 3020719 KB
+15:41:18.780 Players: 1 in total
+15:41:19.780 Average server FPS: 200.00 (measured interval: 1 s)
+15:41:19.780 Used memory: 3021057 KB
+15:41:19.780 Players: 1 in total
+15:41:20.784 Average server FPS: 225.32 (measured interval: 1 s)
+15:41:20.784 Used memory: 3022588 KB
+15:41:20.784 Players: 1 in total
+15:41:21.786 Average server FPS: 264.21 (measured interval: 1 s)
+15:41:21.786 Used memory: 3023323 KB
+15:41:21.786 Players: 1 in total
+15:41:21.826 [CE][LootRespawner] (PRIDummy) :: Item [142] causing search overtime: "TerjeBookImmunity2"
+15:41:21.933 [CE][LootRespawner] (PRIDummy) :: Item [143] causing search overtime: "TerjeBookMedicine2"
+15:41:22.27 [CE][LootRespawner] (PRIDummy) :: Item [144] causing search overtime: "TerjeAmpouleNovacaine"
+15:41:22.130 [CE][LootRespawner] (PRIDummy) :: Item [145] causing search overtime: "Fal_FoldingBttstck"
+15:41:22.331 [CE][LootRespawner] (PRIDummy) :: Item [146] causing search overtime: "TerjeAmpouleKetamin"
+15:41:22.532 [CE][LootRespawner] (PRIDummy) :: Item [147] causing search overtime: "TerjeInjectorTopoizomeraza"
+15:41:22.733 [CE][LootRespawner] (PRIDummy) :: Item [148] causing search overtime: "TerjeAmpouleNeirox"
+15:41:22.791 Average server FPS: 298.80 (measured interval: 1 s)
+15:41:22.791 Used memory: 3023444 KB
+15:41:22.791 Players: 1 in total
+15:41:22.831 [CE][LootRespawner] (PRIDummy) :: Item [149] causing search overtime: "TerjeInjectorZivirol"
+15:41:22.935 [CE][LootRespawner] (PRIDummy) :: Item [150] causing search overtime: "TerjeAmpouleZivirol"
+15:41:23.35 [CE][LootRespawner] (PRIDummy) :: Item [151] causing search overtime: "TerjeInjectorErytromixelin"
+15:41:23.135 [CE][LootRespawner] (PRIDummy) :: Item [152] causing search overtime: "ASC_ASVAL_Bttstck"
+15:41:23.792 Average server FPS: 238.52 (measured interval: 1 s)
+15:41:23.792 Used memory: 3025060 KB
+15:41:23.792 Players: 1 in total
+15:41:24.155 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 3
+15:41:24.793 Average server FPS: 269.73 (measured interval: 1 s)
+15:41:24.793 Used memory: 3025355 KB
+15:41:24.793 Players: 1 in total
+15:41:25.795 Average server FPS: 272.73 (measured interval: 1 s)
+15:41:25.795 Used memory: 3029657 KB
+15:41:25.795 Players: 1 in total
+15:41:26.795 Average server FPS: 199.80 (measured interval: 1 s)
+15:41:26.795 Used memory: 3030289 KB
+15:41:26.795 Players: 1 in total
+15:41:27.806 Average server FPS: 133.66 (measured interval: 1 s)
+15:41:27.806 Used memory: 3030387 KB
+15:41:27.806 Players: 1 in total
+15:41:28.834 Average server FPS: 223.74 (measured interval: 1 s)
+15:41:28.834 Used memory: 3030388 KB
+15:41:28.834 Players: 1 in total
+15:41:29.833 Average server FPS: 171.00 (measured interval: 1 s)
+15:41:29.833 Used memory: 3030470 KB
+15:41:29.833 Players: 1 in total
+15:41:30.833 Average server FPS: 218.00 (measured interval: 1 s)
+15:41:30.833 Used memory: 3030835 KB
+15:41:30.833 Players: 1 in total
+15:41:31.834 Average server FPS: 194.00 (measured interval: 1 s)
+15:41:31.834 Used memory: 3038159 KB
+15:41:31.834 Players: 1 in total
+15:41:32.833 Average server FPS: 183.00 (measured interval: 1 s)
+15:41:32.833 Used memory: 3039177 KB
+15:41:32.833 Players: 1 in total
+15:41:33.869 Average server FPS: 378.38 (measured interval: 1 s)
+15:41:33.869 Used memory: 3039867 KB
+15:41:33.869 Players: 1 in total
+15:41:34.870 Average server FPS: 217.78 (measured interval: 1 s)
+15:41:34.870 Used memory: 3041960 KB
+15:41:34.870 Players: 1 in total
+15:41:35.889 Average server FPS: 167.81 (measured interval: 1 s)
+15:41:35.889 Used memory: 3043198 KB
+15:41:35.889 Players: 1 in total
+15:41:36.893 Average server FPS: 168.33 (measured interval: 1 s)
+15:41:36.894 Used memory: 3045156 KB
+15:41:36.894 Players: 1 in total
+15:41:37.895 Average server FPS: 233.53 (measured interval: 1 s)
+15:41:37.895 Used memory: 3046027 KB
+15:41:37.895 Players: 1 in total
+15:41:38.916 Average server FPS: 196.08 (measured interval: 1 s)
+15:41:38.916 Used memory: 3048982 KB
+15:41:38.916 Players: 1 in total
+15:41:39.916 Average server FPS: 190.81 (measured interval: 1 s)
+15:41:39.916 Used memory: 3052315 KB
+15:41:39.916 Players: 1 in total
+15:41:40.928 Average server FPS: 174.90 (measured interval: 1 s)
+15:41:40.928 Used memory: 3057424 KB
+15:41:40.928 Players: 1 in total
+15:41:41.929 Average server FPS: 139.86 (measured interval: 1 s)
+15:41:41.929 Used memory: 3060131 KB
+15:41:41.929 Players: 1 in total
+15:41:42.938 Average server FPS: 202.38 (measured interval: 1 s)
+15:41:42.938 Used memory: 3061140 KB
+15:41:42.938 Players: 1 in total
+15:41:43.937 Average server FPS: 133.00 (measured interval: 1 s)
+15:41:43.937 Used memory: 3064056 KB
+15:41:43.937 Players: 1 in total
+15:41:44.938 Average server FPS: 237.76 (measured interval: 1 s)
+15:41:44.938 Used memory: 3064428 KB
+15:41:44.938 Players: 1 in total
+15:41:45.939 Average server FPS: 305.69 (measured interval: 1 s)
+15:41:45.939 Used memory: 3064428 KB
+15:41:45.939 Players: 1 in total
+15:41:46.940 Average server FPS: 304.70 (measured interval: 1 s)
+15:41:46.940 Used memory: 3064432 KB
+15:41:46.940 Players: 1 in total
+15:41:47.940 Average server FPS: 363.00 (measured interval: 1 s)
+15:41:47.940 Used memory: 3064472 KB
+15:41:47.940 Players: 1 in total
+15:41:48.940 Average server FPS: 447.00 (measured interval: 1 s)
+15:41:48.940 Used memory: 3064475 KB
+15:41:48.940 Players: 1 in total
+15:41:49.727 !!! [CE][Point] Removing 6500.132324, 3577.571777 from Land_BusStation_wall_bench
+15:41:49.883 [Disconnect]: Start script disconnect 26010607 (dbCharacterId 1 dbPlayerId 1) logoutTime 5
+15:41:49.943 Average server FPS: 436.13 (measured interval: 1 s)
+15:41:49.943 Used memory: 3066137 KB
+15:41:49.943 Players: 1 in total
+15:41:50.335 [CE][LootRespawner] (PRIDummy) :: Item [292] is hard to place, performance drops: "ColdWarTop_KLMKSO"
+15:41:50.336 [CE][LootRespawner] (PRIDummy) :: Item [153] causing search overtime: "ColdWarTop_KLMKSO"
+15:41:50.431 [CE][LootRespawner] (PRIDummy) :: Item [293] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.431 [CE][LootRespawner] (PRIDummy) :: Item [294] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.431 [CE][LootRespawner] (PRIDummy) :: Item [295] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.432 [CE][LootRespawner] (PRIDummy) :: Item [296] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.432 [CE][LootRespawner] (PRIDummy) :: Item [297] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.432 [CE][LootRespawner] (PRIDummy) :: Item [298] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.432 [CE][LootRespawner] (PRIDummy) :: Item [299] is hard to place, performance drops: "ColdWarBottom_KLMK"
+15:41:50.432 [CE][LootRespawner] (PRIDummy) :: Item [154] causing search overtime: "ColdWarBottom_KLMK"
+15:41:50.531 [CE][LootRespawner] (PRIDummy) :: Item [300] is hard to place, performance drops: "ColdWarTop_Frogskin"
+15:41:50.531 [CE][LootRespawner] (PRIDummy) :: Item [155] causing search overtime: "ColdWarTop_Frogskin"
+15:41:50.631 [CE][LootRespawner] (PRIDummy) :: Item [301] is hard to place, performance drops: "ColdWarJacket_Splinter"
+15:41:50.631 [CE][LootRespawner] (PRIDummy) :: Item [156] causing search overtime: "ColdWarJacket_Splinter"
+15:41:50.732 [CE][LootRespawner] (PRIDummy) :: Item [302] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.732 [CE][LootRespawner] (PRIDummy) :: Item [303] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.732 [CE][LootRespawner] (PRIDummy) :: Item [304] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.732 [CE][LootRespawner] (PRIDummy) :: Item [305] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.733 [CE][LootRespawner] (PRIDummy) :: Item [306] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.733 [CE][LootRespawner] (PRIDummy) :: Item [307] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.733 [CE][LootRespawner] (PRIDummy) :: Item [308] is hard to place, performance drops: "ColdWarPants_Strichtarn"
+15:41:50.733 [CE][LootRespawner] (PRIDummy) :: Item [157] causing search overtime: "ColdWarPants_Strichtarn"
+15:41:50.830 [CE][LootRespawner] (PRIDummy) :: Item [309] is hard to place, performance drops: "ColdWarJacket_Oblaky"
+15:41:50.833 [CE][LootRespawner] (PRIDummy) :: Item [158] causing search overtime: "ColdWarJacket_Oblaky"
+15:41:50.930 [CE][LootRespawner] (PRIDummy) :: Item [310] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.930 [CE][LootRespawner] (PRIDummy) :: Item [311] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.930 [CE][LootRespawner] (PRIDummy) :: Item [312] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.930 [CE][LootRespawner] (PRIDummy) :: Item [313] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.931 [CE][LootRespawner] (PRIDummy) :: Item [314] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.931 [CE][LootRespawner] (PRIDummy) :: Item [315] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.931 [CE][LootRespawner] (PRIDummy) :: Item [316] is hard to place, performance drops: "ColdWarBottom_TTsMKK"
+15:41:50.932 [CE][LootRespawner] (PRIDummy) :: Item [159] causing search overtime: "ColdWarBottom_TTsMKK"
+15:41:50.943 Average server FPS: 428.57 (measured interval: 1 s)
+15:41:50.943 Used memory: 3066275 KB
+15:41:50.943 Players: 1 in total
+15:41:51.152 [Disconnect]: Client 26010607 disconnecting
+15:41:51.152 [Disconnect]: Client 26010607 early disconnect
+15:41:51.156 [Disconnect]: Start script disconnect 26010607 (dbCharacterId 1 dbPlayerId 1) logoutTime 5
+15:41:51.943 Average server FPS: 436.00 (measured interval: 1 s)
+15:41:51.943 Used memory: 3066307 KB
+15:41:51.943 Players: 1 in total
+15:41:52.947 Average server FPS: 442.67 (measured interval: 1 s)
+15:41:52.947 Used memory: 3066311 KB
+15:41:52.947 Players: 1 in total
+15:41:53.946 Average server FPS: 399.00 (measured interval: 1 s)
+15:41:53.946 Used memory: 3066314 KB
+15:41:53.946 Players: 1 in total
+15:41:54.926 [Disconnect]: Finish script disconnect 26010607 (067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8=)
+15:41:54.926 [Disconnect]: DisconnectPlayerFinish 26010607
+15:41:54.926 [Disconnect]: Remove player info 26010607
+15:41:54.945 [Disconnect]: Player destroy 26010607 
+15:41:54.950 Average server FPS: 232.07 (measured interval: 1 s)
+15:41:54.951 Used memory: 3065252 KB
+15:41:54.951 Players: 0 in total
+15:41:55.956 Average server FPS: 393.64 (measured interval: 1 s)
+15:41:55.956 Used memory: 3065253 KB
+15:41:55.956 Players: 0 in total
+15:41:56.957 Average server FPS: 384.62 (measured interval: 1 s)
+15:41:56.957 Used memory: 3065253 KB
+15:41:56.957 Players: 0 in total
+15:41:57.957 Average server FPS: 525.00 (measured interval: 1 s)
+15:41:57.957 Used memory: 3065200 KB
+15:41:57.957 Players: 0 in total
+15:41:58.957 Average server FPS: 705.00 (measured interval: 1 s)
+15:41:58.957 Used memory: 3065153 KB
+15:41:58.957 Players: 0 in total
+15:41:59.957 Average server FPS: 673.00 (measured interval: 1 s)
+15:41:59.957 Used memory: 3065203 KB
+15:41:59.957 Players: 0 in total
+15:42:00.957 Average server FPS: 796.00 (measured interval: 1 s)
+15:42:00.957 Used memory: 3065109 KB
+15:42:00.957 Players: 0 in total
+15:42:01.957 Average server FPS: 853.00 (measured interval: 1 s)
+15:42:01.957 Used memory: 3065109 KB
+15:42:01.957 Players: 0 in total
+15:42:02.957 Average server FPS: 811.00 (measured interval: 1 s)
+15:42:02.957 Used memory: 3065212 KB
+15:42:02.957 Players: 0 in total
+15:42:03.957 Average server FPS: 589.00 (measured interval: 1 s)
+15:42:03.957 Used memory: 3065350 KB
+15:42:03.957 Players: 0 in total
+15:42:04.963 Average server FPS: 498.01 (measured interval: 1 s)

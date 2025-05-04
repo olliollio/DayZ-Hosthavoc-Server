@@ -1,0 +1,110 @@
+=====================================================================
+== C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe
+== "C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe" "-port=2302" "-config=serverDZ_By_HostHavoc.cfg" "-profiles=C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer" "-servermod=" "-mod=@CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron;@R22R_Base_Fortifications_RELOADED"
+=====================================================================
+Exe timestamp: 2025/04/16 01:02:17
+Current time:  2025/04/30 14:22:33
+Version 1.27.159674
+=====================================================================
+
+14:22:33.161 [Inputs] Loading inputs default "bin/constants.xml"
+14:22:33.164 [Inputs] Loading inputs default "bin/specific.xml"
+14:22:33.165 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+14:22:33.165 [Inputs] Loading inputs default "R22R_Base_Fortifications_Reloaded\inputs\inputs.xml"
+14:22:33.166 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+14:22:33.166 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+14:22:33.167 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:22:33.167 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+14:22:33.167 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:22:33.167 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+14:22:33.168 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:22:33.168 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+14:22:33.169 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+14:22:33.170 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+14:22:33.170 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:22:33.170 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+14:22:33.171 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:22:33.171 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+14:22:33.171 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+14:22:33.171 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+14:22:33.171 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+14:22:33.176 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+14:23:03.161 Hostname of server: "Olli and Monk Hardcore Test"
+14:23:25.635 [CE][Hive] :: Initializing OFFLINE
+14:23:25.636 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\
+14:23:25.636 [CE][Hive] :: Loading core data ... 
+14:23:25.637 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+14:23:33.204 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+14:23:33.205 [CE][TypeSetup] :: 561 classes setuped...
+14:23:33.210 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+14:23:33.211 [CE][TypeSetup] :: 96 classes setuped...
+14:23:36.54 [CE][RegisterBind] :: 0 classes binded...
+14:23:36.54 [CE][RegisterConfig] :: 13273 config classes registered, 0 sub-counters...
+14:23:36.54 [CE][Hive] :: Loading map data ... 
+14:23:36.55 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+14:23:36.99 [CE][LoadPrototype] :: loaded 426 prototypes
+14:23:36.99   822 containers, 10876 points
+14:23:36.99   71 dispatches, 250 proxies
+14:23:36.99 !!! [CE][LoadPrototype] 5 groups have no points...
+14:23:36.99 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+14:23:36.105 [CE][LoadPrototype] :: loaded 0 prototypes
+14:23:36.105   55 containers, 232 points
+14:23:36.105   0 dispatches, 0 proxies
+14:23:36.105 [CE][LoadPrototype] :: last group name: Rail9...
+14:23:37.130 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+14:23:37.133 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+14:23:37.671 [CE][Links] found 1950 total links between groups, of 11680
+14:23:37.671 [CE][LoadClusters] "Cluster" :: Loading files...
+14:23:37.844 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+14:23:38.29 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+14:23:38.247 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+14:23:38.462 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+14:23:38.549 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+14:23:38.555 [CE][Storage] ver:21 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+14:23:38.555 [CE][Storage] ver:21 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+14:23:38.556 [CE][Storage] ver:21 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+14:23:38.556 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin".
+14:23:38.801 !!! [CE][offlineDB] :: No Shutdown message present.
+14:23:38.804 [CE][offlineDB] :: Loaded 50 dynamic events 235 total types.
+14:23:38.805 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+14:23:38.805 [CE][offlineDB] :: Loaded 61 dynamic events 299 total types.
+14:23:38.827 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+14:23:38.828 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+14:23:38.838 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+14:23:38.838 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+14:23:38.838 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+14:23:39.60 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+14:23:39.61 [CE][DE][SPAWNS] :: Total positions: 1096
+14:23:39.61 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+14:23:39.61 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+14:23:39.62 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+14:23:39.63 [CE][Storage] ver:25 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+14:23:39.63 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin".
+14:23:39.63 [CE][DynamicEvent] Load  Events:[61] Primary spawners: 61 Secondary spawners: 4
+14:23:39.64 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+14:23:39.65 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+14:23:39.66 [CE][Storage] ver:25 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+14:23:39.67 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin" 865 items.
+14:23:40.807   865 items loaded. (0 failed)
+14:23:40.808 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+14:23:40.809 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+14:23:40.810 [CE][Storage] ver:25 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+14:23:40.811 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1627 items.
+14:23:43.642   1627 items loaded. (0 failed)
+14:23:43.643 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+14:23:43.644 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+14:23:43.644 [CE][Storage] ver:25 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+14:23:43.644 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2298 items.
+14:23:47.439   2298 items loaded. (0 failed)
+14:23:47.440 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+14:23:47.440 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+14:23:47.441 [CE][Storage] ver:25 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+14:23:47.441 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 1917 items.
+14:23:50.637   1917 items loaded. (0 failed)
+14:23:50.639 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+14:23:50.640 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+14:23:50.640 [CE][Storage] ver:25 stamp:1296, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+14:23:50.640 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1749 items.
+14:23:53.406   1749 items loaded. (0 failed)
+14:23:53.407 [CE][Storage] ver:25 stamp:1298, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+14:23:53.407 [CE][Storage] ver:25 stamp:1295, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"

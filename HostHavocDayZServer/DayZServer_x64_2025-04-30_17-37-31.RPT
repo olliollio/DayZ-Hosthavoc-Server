@@ -1,0 +1,60 @@
+=====================================================================
+== C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe
+== "C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe" "-port=2302" "-config=serverDZ_By_HostHavoc.cfg" "-profiles=C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer" "-servermod=" "-mod=@CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron;@R22R_Base_Fortifications_RELOADED;@Honey-Badger"
+=====================================================================
+Exe timestamp: 2025/04/16 01:02:17
+Current time:  2025/04/30 17:37:38
+Version 1.27.159674
+=====================================================================
+
+17:37:38.809 [Inputs] Loading inputs default "bin/constants.xml"
+17:37:38.812 [Inputs] Loading inputs default "bin/specific.xml"
+17:37:38.813 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+17:37:38.814 [Inputs] Loading inputs default "R22R_Base_Fortifications_Reloaded\inputs\inputs.xml"
+17:37:38.815 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+17:37:38.815 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+17:37:38.816 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+17:37:38.816 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+17:37:38.816 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+17:37:38.817 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+17:37:38.817 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+17:37:38.817 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+17:37:38.818 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+17:37:38.818 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+17:37:38.818 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+17:37:38.818 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+17:37:38.818 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+17:37:38.819 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+17:37:38.819 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+17:37:38.819 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+17:37:38.819 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+17:37:38.825 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+17:38:09.854 Hostname of server: "Olli and Monk Hardcore Test"
+17:38:32.370 [CE][Hive] :: Initializing OFFLINE
+17:38:32.370 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\
+17:38:32.371 [CE][Hive] :: Loading core data ... 
+17:38:32.371 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+17:38:39.753 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+17:38:39.755 [CE][TypeSetup] :: 561 classes setuped...
+17:38:39.758 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+17:38:39.760 [CE][TypeSetup] :: 96 classes setuped...
+17:38:42.71 [CE][RegisterBind] :: 0 classes binded...
+17:38:42.71 [CE][RegisterConfig] :: 13281 config classes registered, 0 sub-counters...
+17:38:42.71 [CE][Hive] :: Loading map data ... 
+17:38:42.72 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+17:38:42.118 [CE][LoadPrototype] :: loaded 426 prototypes
+17:38:42.118   822 containers, 10876 points
+17:38:42.118   71 dispatches, 250 proxies
+17:38:42.118 !!! [CE][LoadPrototype] 5 groups have no points...
+17:38:42.118 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+17:38:42.125 [CE][LoadPrototype] :: loaded 0 prototypes
+17:38:42.125   55 containers, 232 points
+17:38:42.125   0 dispatches, 0 proxies
+17:38:42.125 [CE][LoadPrototype] :: last group name: Rail9...
+17:38:43.114 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+17:38:43.120 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+17:38:43.633 [CE][Links] found 1950 total links between groups, of 11680
+17:38:43.633 [CE][LoadClusters] "Cluster" :: Loading files...
+17:38:43.799 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+17:38:43.988 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+17:38:44.177 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances

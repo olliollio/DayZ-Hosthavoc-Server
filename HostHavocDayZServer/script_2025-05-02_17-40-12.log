@@ -1,0 +1,622 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\script_2025-05-02_17-40-12.log started at 02.05. 17:40:12
+
+SCRIPT       : Registered 408 temporary action enum(s), UAN==408
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 17:40:17.000 [EXPANSION LOG]: DayZGame<d2449660> Start time (local time) 2025-05-02 17:40:06
+SCRIPT       : 17:40:17.000 [EXPANSION LOG]: DayZGame<d2449660> Start time (UTC) 2025-05-02 16:40:06
+SCRIPT       : 17:40:17.000 [EXPANSION LOG]: DayZGame<d2449660> Runtime since start (seconds) 11.791
+SCRIPT    (W): @"ASC/Weapons/SVT40/Scripts/4_World/asc_svt40_bayonet.c,6": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,6": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,15": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,22": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,31": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/entities\itembase\basebuildingbase\r22r_extended_bb_base.c,384": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/entities\itembase\basebuildingbase\r22r_extended_bb_base.c,389": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\useractioncomponents\actions\continuous\moddedactiondeployobject.c,7": Missing ';' at the end of line
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_CreateNewConfig_GS'
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_EnableDebugLogs_GS'
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_EnableDebugModsLogs_GS'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/modded\playerbase.c,5": FIX-ME: Overriding function 'Init' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/actions\actionfeedchicken.c,54": FIX-ME: Overriding function 'OnExecuteServer' but not marked as 'override'
+SCRIPT    (W): @"Z/fishing/scripts/4_World/classes\recipes\recipesz.c,3": FIX-ME: Overriding function 'RegisterRecipies' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,339": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,347": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,357": FIX-ME: Overloaded method 'CanPutIntoHands', argument name 'player' differs from prototype 'parent'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,157": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,40": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,202": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,63": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbpchickensack.c,22": FIX-ME: Overriding function 'NoSpawnSack' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearchFix/Scripts/4_World/actionsearchgarbage.c,8": FIX-ME: Overriding function 'SpawnTrash' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,218": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,289": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,150": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/modded\hologram.c,28": FIX-ME: Overriding function 'EvaluateCollision' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,232": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,239": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,246": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,253": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,260": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,267": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,274": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,281": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,310": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,317": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,195": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"snow_weather\scripts\4_world/classes\worlds\chernarusplus.c,631": FIX-ME: Overriding function 'LogWeatherData' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,225": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,56": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,86": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/actions\actioncatchpig.c,39": FIX-ME: Overriding function 'OnExecuteServer' but not marked as 'override'
+SCRIPT    (W): @"dzr_rags_by_hand/4_World/classes\useractionscomponent\actions\continuous\actiontearintorags.c,158": FIX-ME: Constructor 'MaterialLambda', argument 'new_item' name differs from prototype 'new_item_type'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop1.c,172": FIX-ME: Overriding function 'SetParentObject' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop1.c,253": FIX-ME: Overriding function 'DeleteAnimalAttached' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,188": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"ShakeForFruit/scripts/4_World/Entities/ItemBase/Edible_Base/?ЬЩЭ.wss,17": FIX-ME: Overriding function 'OnRPC' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/actions\actionplaceegg.c,41": FIX-ME: Overriding function 'OnExecuteServer' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,79": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop2.c,172": FIX-ME: Overriding function 'SetParentObject' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop2.c,253": FIX-ME: Overriding function 'DeleteAnimalAttached' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/actions\actionfeedpig.c,40": FIX-ME: Overriding function 'OnExecuteServer' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,93": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,100": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,107": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,114": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,121": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,128": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,135": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,142": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,171": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,178": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop3.c,172": FIX-ME: Overriding function 'SetParentObject' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop3.c,253": FIX-ME: Overriding function 'DeleteAnimalAttached' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,296": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/actions\actioncatchchicken.c,116": FIX-ME: Overriding function 'OnExecuteServer' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\extras\bbp_door_metal.c,89": FIX-ME: Overriding function 'SoundBarrelOpenPlay' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\extras\bbp_door_metal.c,95": FIX-ME: Overriding function 'SoundBarrelClosePlay' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop1.c,43": FIX-ME: Overriding function 'DeleteAnimalAttached' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop3.c,43": FIX-ME: Overriding function 'DeleteAnimalAttached' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbp_chickencoop2.c,43": FIX-ME: Overriding function 'DeleteAnimalAttached' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\pigpen\bbp_pigsack.c,25": FIX-ME: Overriding function 'NoSpawnSack' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbpchickengate.c,3": FIX-ME: Overriding function 'BBP_Destory' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,49": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,210": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,303": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,71": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,164": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/actionsearchgarbage.c,151": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/actionsearchgarbage.c,157": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/actionsearchgarbage.c,211": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GarbageSearchFix/Scripts/4_World/actionsearchgarbage.c,74": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GarbageSearchFix/Scripts/4_World/actionsearchgarbage.c,80": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"GarbageSearchFix/Scripts/4_World/actionsearchgarbage.c,134": No need to use 'Cast' for up-casting
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\useractioncomponents\actions\continuous\actionraidbbsbase.c,67": FIX-ME: Unsafe down-casting, use 'BaseBuildingBase.Cast' for safe down-casting
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\useractioncomponents\actions\continuous\actionraidbbsbase.c,106": FIX-ME: Unsafe down-casting, use 'BaseBuildingBase.Cast' for safe down-casting
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\useractioncomponents\actions\continuous\actionraidbasebuildingbase.c,133": FIX-ME: Unsafe down-casting, use 'BaseBuildingBase.Cast' for safe down-casting
+SCRIPT    (W): @"ShakeForFruit/scripts/4_World/Classes/UserActionsComponent/Actions/Continuous/Ь*унж.rtm,108": Possible variable name conflict 'm_MessageParam'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbpchickencoopkit.c,67": Possible variable name conflict 'BBPChickenCoopKit1'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\chickencoop\bbpchickensack.c,44": Possible variable name conflict 'BBPBurlapSack'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\pigpen\bbp_pigsack.c,42": Possible variable name conflict 'BBPBurlapSack'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/items\pigpen\bbp_pigpenkit.c,67": Possible variable name conflict 'm_PigPen'
+SCRIPT       : ::: SERVER: [SFFConfig<208e9ce0>]: Init: IsServer: true: World: ChernarusPlus
+SCRIPT       : ::: SERVER: [SFFConfig<208e9ce0>]: Load config: $profile:ShakeForFruit.json
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT       : [TERJE CORE](INFO): Server address is 104.234.251.156:2302
+SCRIPT    (W): @"bl_crafting_ex\scripts\5_Mission/missionserver.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"bl_crafting_ex\scripts\5_Mission/missionserver.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"bl_crafting_ex\scripts\5_Mission/missionserver.c,14": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"bl_crafting_ex\scripts\5_Mission/missiongameplay.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"bl_crafting_ex\scripts\5_Mission/missiongameplay.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"bl_crafting_ex\scripts\5_Mission/missiongameplay.c,15": FIX-ME: Method argument can't be strong reference
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/5_mission/moddedmissiongameplay.c,37": FIX-ME: Undefined function 'UAInputAPI.GetUApi'
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/5_mission/moddedmissiongameplay.c,41": FIX-ME: Undefined function 'UAInputAPI.GetUApi'
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/5_mission/moddedmissiongameplay.c,46": FIX-ME: Undefined function 'UAInputAPI.GetUApi'
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/5_mission/moddedmissiongameplay.c,50": FIX-ME: Undefined function 'UAInputAPI.GetUApi'
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Immunity' with 22 perks. Perk points delta is -8
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Medicine' with 14 perks. Perk points delta is -9
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Athletic' with 9 perks. Perk points delta is -8
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Strength' with 11 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Metabolism' with 11 perks. Perk points delta is -10
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Stealth' with 11 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Survival' with 12 perks. Perk points delta is -13
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Hunting' with 9 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Fishing' with 10 perks. Perk points delta is -14
+SCRIPT       : [TERJE CORE](INFO): Loaded 11 settings from the Core.cfg
+SCRIPT       : [TERJE CORE](INFO): Loaded 261 settings from the Medicine.cfg
+SCRIPT       : [TERJE CORE](INFO): Loaded 32 settings from the Radiation.cfg
+SCRIPT       : [TERJE CORE](INFO): Loaded 185 settings from the Skills.cfg
+SCRIPT       : 17:40:59.947 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 17:40:59.948 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 17:40:59.949 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 17:40:59.950 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 17:40:59.950 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 17:40:59.951 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 17:40:59.953 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 17:40:59.968 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): 
+File $profile:ExpansionMod\Market\Ammo_Boxes.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): 
+File $profile:ExpansionMod\Market\Armbands.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Coldwar_Military_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Coldwar_Military_Pants)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Soviet_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Spraycans)
+SCRIPT    (E): 
+Item canistergasoline has already been added to category Liquids (ID 43)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Spur_Trolley_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Tents)
+SCRIPT    (E): 
+Item terjepillsadepress has already been added to category Medical (ID 48)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Terje equipment)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 68 (Terje_Books)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 69 (Tools)
+SCRIPT    (E): 
+Item headlighth7_box has already been added to category Spur_Trolley_Parts (ID 62)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 70 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 71 (Vests)
+SCRIPT       : 17:41:00.136 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Armbands does not exist!
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): 
+File $profile:ExpansionMod\Traders\Spur_Trolley-Parts.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettrader.c:103
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:242
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1118
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : 17:41:00.158 [EXPANSION DEBUG]: [ExpansionMarketTrader] Error: Category Ammo_Boxes does not exist!
+SCRIPT       : 17:41:00.160 [WARNING]	[ExpansionMarketTrader] Error: The "m14_20rnd" does not exist in the market!
+SCRIPT       : 17:41:00.160 [WARNING]	[ExpansionMarketTrader] Error: The "m14_10rnd" does not exist in the market!
+SCRIPT       : 17:41:00.257 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 17:41:00.837 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 17:41:00.838 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 17:41:00.856 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 17:41:00.857 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 17:41:00.859 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 17:41:00.860 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 17:41:00.861 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 17:41:00.864 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 17:41:00.865 [EXPANSION DEBUG]: ExpansionAILocationSettings<8ea78010> Load existing setting file:$mission:expansion\settings\AILocationSettings.json
+SCRIPT       : 17:41:00.896 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 17:41:00.897 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 17:41:00.906 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 17:41:00.907 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 17:41:00.908 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 17:41:00.914 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : Expansion version: 1.9.22
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODANIMATIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_Animations_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : ASC_Weapons_HoneyBadger_Scripts
+SCRIPT       : ASC_Scripts
+SCRIPT       : bl_crafting
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : sakhal
+SCRIPT       : dzr_rags_by_hand
+SCRIPT       : EditorLoader
+SCRIPT       : GarbageSearch
+SCRIPT       : GarbageSearchFix
+SCRIPT       : InventorySlotsHotfix
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : R22R_Base_Fortifications_Reloaded
+SCRIPT       : ServerConfig_GS
+SCRIPT       : TerjeCore
+SCRIPT       : TerjeMedicine
+SCRIPT       : TerjeRadiation
+SCRIPT       : TerjeSkills
+SCRIPT       : ASC_Weapons_AMB17_Scripts
+SCRIPT       : ASC_Weapons_ASVAL_Scripts
+SCRIPT       : ASC_Weapons_AVS36
+SCRIPT       : ASC_Weapons_Degtyarev
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : ShakeForFruit
+SCRIPT       : snow_weather
+SCRIPT       : Spur_TrolleyKart
+SCRIPT       : TerjeCompatibilityCOT
+SCRIPT       : ASC_Weapons_Avtomat
+SCRIPT       : ASC_Weapons_KS23M_Scripts
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : FarmingPlus
+SCRIPT       : Nomadbackpack_v3
+SCRIPT       : NomadCraft
+SCRIPT       : Spur_Trolley_E_Kart
+SCRIPT       : Spur_TrolleyKopter
+SCRIPT       : zeroy_fishing
+SCRIPT       : bl_camp
+SCRIPT       : BLR_Player_Slots
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT       : [dzr_rags_by_hand] ::: Starting Serverside
+SCRIPT       : DZR\dzr_rags_by_hand\CfgActionTime.txt EXISTS!
+SCRIPT       : DZR\dzr_rags_by_hand\CfgDropRuined.txt EXISTS!
+SCRIPT       : [dzr_rags_by_hand] ::: DayZGame ::: Saved Server Config values:20, 0
+SCRIPT       : [Server_Config_GarbageSearch]- 	Checking For Config Files
+SCRIPT       : [Server_Config_GarbageSearch]- 	Found Config Files!
+SCRIPT       : [R22RBaseFortificationsConfig] OnInit -> GetR22RBaseFortificationsConfig()
+SCRIPT       : [R22RBaseFortificationsConfig] Init -> Got called sucessfully!
+SCRIPT       : [R22RBaseFortificationsConfig] Init -> Loaded JSON on server!
+SCRIPT       : [BLCraftables] OnInit
+SCRIPT       : [BLCraftables] --- Loading Config.
+SCRIPT       : Object Creation Failed SV_CowShed_MilkJugOpen
+SCRIPT       : Object Creation Failed SV_CowShed_Stool
+SCRIPT       : 2482 objects created, 6 deleted (completed in 2482s)
+SCRIPT       : 17:41:02.509 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<b24f27b0> fileName Exchange
+SCRIPT       : 17:41:06.128 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<4eb24030> fileName Clothing
+SCRIPT       : 17:41:06.128 [EXPANSION DEBUG]: ExpansionTraderDenis<4eb24030>::SetTraderObject ExpansionTraderObjectBase<97d2e550> <3697.249512, 402.010010, 5977.625488>
+SCRIPT       : 17:41:06.174 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderMaria<891fb000> fileName Clothing_Accessories
+SCRIPT       : 17:41:06.175 [EXPANSION DEBUG]: ExpansionTraderMaria<891fb000>::SetTraderObject ExpansionTraderObjectBase<98062bf0> <3696.455811, 402.010010, 5980.193359>
+SCRIPT       : 17:41:06.210 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderQuinn<231ab000> fileName Consumables
+SCRIPT       : 17:41:06.210 [EXPANSION DEBUG]: ExpansionTraderQuinn<231ab000>::SetTraderObject ExpansionTraderObjectBase<97d10eb0> <3710.121826, 402.010010, 5976.164063>
+SCRIPT       : 17:41:06.251 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<14fcaff0> fileName Weapons
+SCRIPT       : 17:41:06.252 [EXPANSION DEBUG]: ExpansionTraderNaomi<14fcaff0>::SetTraderObject ExpansionTraderObjectBase<98328660> <3708.786865, 402.010010, 5974.589844>
+SCRIPT       : 17:41:06.290 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderSeth<32b58030> fileName Attachments
+SCRIPT       : 17:41:06.290 [EXPANSION DEBUG]: ExpansionTraderSeth<32b58030>::SetTraderObject ExpansionTraderObjectBase<a26ca2b0> <3710.265137, 402.010010, 5973.340820>
+SCRIPT       : 17:41:06.317 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<9801a010> fileName Vehicles
+SCRIPT       : 17:41:06.318 [EXPANSION DEBUG]: ExpansionTraderRolf<9801a010>::SetTraderObject ExpansionTraderObjectBase<a26cfef0> <3698.172607, 402.010010, 5995.337402>
+SCRIPT       : 17:41:06.359 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIndar<a293f010> fileName Components
+SCRIPT       : 17:41:06.359 [EXPANSION DEBUG]: ExpansionTraderIndar<a293f010>::SetTraderObject ExpansionTraderObjectBase<a287eb00> <3714.531006, 402.138000, 5961.776367>
+SCRIPT       : 17:41:06.386 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJudy<a29ff010> fileName Medicals
+SCRIPT       : 17:41:06.396 [EXPANSION DEBUG]: ExpansionTraderJudy<a29ff010>::SetTraderObject ExpansionTraderObjectBase<a29a61e0> <3729.029541, 402.651001, 5969.476563>
+SCRIPT       : 17:41:06.403 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<a298e7f0> fileName Vehicle_Parts
+SCRIPT       : 17:41:06.403 [ERROR]	ExpansionTraderObjectBase<a29a9120>::LoadTraderHost - ERROR: Trader does not exist: Vehicle_Parts
+SCRIPT       : 	LoadTraderHost() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 140
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 117
+SCRIPT       : 	ExpansionTraderObjectBase() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 89
+SCRIPT       : 	LoadTrader() DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\creatures\traders\expansiontraderbase.c : 60
+SCRIPT       : 	LoadTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 789
+SCRIPT       : 	LoadMissionTradersFile() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 720
+SCRIPT       : 	LoadMissionTraders() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 704
+SCRIPT       : 	FindMissionFiles#1214011() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 216
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\expansionworldobjectsmodule.c : 70
+SCRIPT       : 	OnMissionStart() DayZExpansion/Scripts/4_World/dayzexpansion\classes\systems\mapping\expansionworldobjectsmodule.c : 46
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoreevent.c : 48
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/1_Core/communityframework\module\cf_modulecoremanager.c : 190
+SCRIPT       : 	OnMissionStart() JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c : 37
+SCRIPT       : 	OnMissionStart() JM/COT/Scripts/5_Mission/communityonlinetools\missionserver.c : 25
+SCRIPT       : 	OnMissionStart() DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionserver.c : 53
+SCRIPT       : 	OnMissionStart() DayZExpansion/AI/Scripts/5_Mission/dayzexpansion_ai\mission\missionserver.c : 70
+SCRIPT       : 17:41:06.403 [EXPANSION DEBUG]: ExpansionTraderNaomi<a298e7f0>::SetTraderObject ExpansionTraderObjectBase<a29a9120> <3690.062988, 402.100067, 6006.763672>
+SCRIPT       : 17:41:06.432 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJose<4eb27eb0> fileName Spraycans
+SCRIPT       : 17:41:06.432 [EXPANSION DEBUG]: ExpansionTraderJose<4eb27eb0>::SetTraderObject ExpansionTraderObjectBase<a2b85690> <3699.629883, 402.010010, 5993.970215>
+SCRIPT       : 17:41:06.459 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<a2c14030> fileName Special
+SCRIPT       : 17:41:06.459 [EXPANSION DEBUG]: ExpansionTraderLinda<a2c14030>::SetTraderObject ExpansionTraderObjectBase<a2ba2eb0> <3674.669922, 406.760010, 5990.390137>
+SCRIPT       : 17:41:06.481 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNiki<1cc1b0b0> fileName BuildingSupplies
+SCRIPT       : 17:41:06.482 [EXPANSION DEBUG]: ExpansionTraderNiki<1cc1b0b0>::SetTraderObject ExpansionTraderObjectBase<a2d68670> <3699.030029, 402.013000, 5973.439941>
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_1.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_2.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_3.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_4.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_5.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_6.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_7.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_2.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_3.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_4.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_1.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_1.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_3.json
+SCRIPT       : [ExpansionQuestObjectiveTreasureHuntConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\TreasureHunt\Objective_TH_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_2.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIPatrolConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIPatrol\Objective_AIP_1.json
+SCRIPT       : [ExpansionQuestObjectiveAICampConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AICamp\Objective_AIC_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIEscortConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIVIP\Objective_AIESCORT_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_1.json
+SCRIPT       : [Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_2.json
+SCRIPT       : [Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_3.json
+SCRIPT       : [Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+SCRIPT       : [TERJE CORE](INFO): TERJE_STORAGE_VERSION = 1
+SCRIPT       : 17:41:19.531 [WARNING]	File "$mission:storage_1/communityframework/modstorageplayers.bin" was not closed. Always shut down the server gracefully to prevent data loss.
+SCRIPT       : [DZR Rags by hand::: ACTIVE]
+SCRIPT       : 17:41:54.707 [EXPANSION DEBUG]: ExpansionP2PTraderAIIrena<1781d010>::SetP2PTraderID - ID: 1
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<8e8c4b40>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionZonePolygon<f04b1530> position=<12015.854492, 0.000000, 12591.097656> radius=419.633
+SCRIPT       : ExpansionZoneCircle<164b01a0> position=<1143.140015, 0.000000, 2423.270020> radius=700
+SCRIPT       : ExpansionZoneCircle<164b0620> position=<3728.270020, 0.000000, 6003.600098> radius=500
+SCRIPT       : Found 3 zones!
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : 17:42:27.277 [EXPANSION DEBUG]: ExpansionPartyData<a838a8d0>::OnJoin party Chimera Swift (ID 0) player Monk (ID ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=)
+SCRIPT       : [R22RBaseFortificationsConfig] InvokeOnConnect -> GetRPCManager().SendRPC() -> SENT!
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Scout:31554 (owner eAI_SurvivorM_Kaito<2b292010>) - MagazineRepair - BAREM_CLO_BUF_MA0<2b1c8b40> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeMedicine]: You are using the trial version of the 'Terje Medicine' mod.
+SCRIPT       : [TerjeMedicine]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeRadiation]: You are using the trial version of the 'Terje Radiation' mod.
+SCRIPT       : [TerjeRadiation]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeSkills]: You are using the trial version of the 'Terje Skills' mod.
+SCRIPT       : [TerjeSkills]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [Logout]: New player ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c= with logout time 5
+SCRIPT       : 17:46:05.825 [EXPANSION DEBUG]: ExpansionPartyData<a838a8d0>::OnLeave party Chimera Swift (ID 0) player Monk (ID ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=)
+SCRIPT       : 17:46:05.841 [EXPANSION DEBUG]: ExpansionQuestPersistentData<52e63bd0>~ExpansionQuestPersistentData (5)
+SCRIPT       : [Logout]: Player ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c= finished
+SCRIPT       : 17:47:00.008 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 17:47:00.009 [EXPANSION DEBUG]: ExpansionAirdropContainer 166
+SCRIPT       : 17:47:00.009 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 171
+SCRIPT       : 17:47:00.009 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 176
+SCRIPT       : 17:47:00.009 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 181
+SCRIPT       : 17:47:00.009 [EXPANSION DEBUG]: ExpansionAirdropPlane::Expansion_GetSpawnPoint - drop position <9371.000000, 0.000000, 2229.000000> - map is chernarusplus - size 15360 - center <7100.000000, 300.000000, 7750.000000>
+SCRIPT       : 17:47:00.009 [EXPANSION DEBUG]: ExpansionAirdropPlane::Expansion_GetSpawnPoint - selected spawn point <1877.436157, 906.255493, 15360.000000>
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeMedicine]: You are using the trial version of the 'Terje Medicine' mod.
+SCRIPT       : [TerjeMedicine]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeRadiation]: You are using the trial version of the 'Terje Radiation' mod.
+SCRIPT       : [TerjeRadiation]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeSkills]: You are using the trial version of the 'Terje Skills' mod.
+SCRIPT       : [TerjeSkills]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================

@@ -1,0 +1,117 @@
+---------------------------------------------
+Log info_2025-04-28_19-31-48.log started at 2025-04-28 19:32:37
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:32:37
+
+[Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:32:37
+
+[Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:32:37
+
+[Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:36:37
+
+[wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:24408 (owner SurvivorBase<e30c80b0>) - MagazineRepair - RBF_CLO_BU0_MA0<adbb1a00> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\manbase\playerbase.c:2320
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:33
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:41:11
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Expansion_MP5SD:29297 (owner SurvivorBase<e30c80b0>) - MagazineRepair - RBL_CLO_BU0_MA0<ad52c600> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:591
+scripts/4_World/entities\firearms\weaponfsm.c:289
+scripts/4_World/entities\firearms\weapon_base.c:304
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:377
+scripts/4_World/entities\firearms\fsm\states\weaponfire.c:31
+scripts/4_World/systems\inventory\dayzplayerinventory.c:359
+scripts/4_World/entities\dayzplayerimplement.c:979
+DayZExpansion/Weapons/Scripts/4_World/dayzexpansion_weapons\entities\manbase\dayzplayerimplement.c:19
+scripts/4_World/entities\dayzplayerimplement.c:2224
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\dayzplayerimplement.c:47
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2869
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:169
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:45:40
+
+[wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:29213 (owner SurvivorBase<bb06d010>) - MagazineRepair - RBF_CLO_BU0_MA0<94910a00> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\firearms\weapon_base.c:1074
+scripts/4_World/entities\itembase.c:1295
+scripts/4_World/entities\firearms\weapon_base.c:1148
+scripts/3_Game/entities\entityai.c:959
+scripts/4_World/entities\itembase.c:1054
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28
+scripts/4_World/entities\firearms\weapon_base.c:1107
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:46:09
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Expansion_MP5SD:29210 (owner SurvivorBase<bb06d010>) - MagazineRepair - RBL_CLO_BU0_MA0<961ca570> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\firearms\weapon_base.c:1074
+scripts/4_World/entities\itembase.c:1295
+scripts/4_World/entities\firearms\weapon_base.c:1148
+scripts/3_Game/entities\entityai.c:959
+scripts/4_World/entities\itembase.c:1054
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28
+scripts/4_World/entities\firearms\weapon_base.c:1107

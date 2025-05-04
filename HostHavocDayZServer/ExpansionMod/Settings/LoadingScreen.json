@@ -1,0 +1,13 @@
+{
+    "EnableLoadingScreen": true,
+    "DisplayCustomImages": true,
+    "CustomImageList": [
+        "https://i.imgur.com/WDU85ax.jpeg"
+    ],
+    "CustomTexts": [
+        "Hi Monk",
+        "Gear up and survive!"
+    ],
+    "DisplayCustomTexts": true,
+    "LoadingScreenColor": [0, 0, 0, 1]
+}

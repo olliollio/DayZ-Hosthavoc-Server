@@ -1,0 +1,83 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\crash_2025-04-30_16-00-54.log started at 30.04. 16:01:39
+
+
+
+------------------------------------
+GSP-LDN-25, 30.04 2025 16:01:39
+
+File $profile:ExpansionMod\Market\Ammo_Boxes.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron;@R22R_Base_Fortifications_RELOADED 
+
+
+------------------------------------
+GSP-LDN-25, 30.04 2025 16:01:39
+
+File $profile:ExpansionMod\Market\Armbands.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron;@R22R_Base_Fortifications_RELOADED 
+
+
+------------------------------------
+GSP-LDN-25, 30.04 2025 16:01:39
+
+Item terjepillsadepress has already been added to category Medical (ID 46)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron;@R22R_Base_Fortifications_RELOADED 

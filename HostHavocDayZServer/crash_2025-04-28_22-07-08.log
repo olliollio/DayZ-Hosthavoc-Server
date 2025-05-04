@@ -1,0 +1,20 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\crash_2025-04-28_22-07-08.log started at 28.04. 22:07:56
+
+
+
+------------------------------------
+GSP-LDN-25, 28.04 2025 22:07:56
+[::LoadData] :: [ERROR] :: Cannot load data from "$mission:cfggameplay.json":
+JSON ERROR:
+Invalid value.
+Function: 'LoadData'
+Stack trace:
+scripts/3_Game/cfggameplayhandler.c:72
+scripts/5_Mission/mission\missionserver.c:79
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:29
+TerjeCore/Scripts/5_Mission/26de84f8866b497e8743089eda4d3d62.c:727
+TerjeCompatibilityCOT/Scripts/5_Mission/cc9b17de544f400b980f91bf290154d6.c:21
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT 

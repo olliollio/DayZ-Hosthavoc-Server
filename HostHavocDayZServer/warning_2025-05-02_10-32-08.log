@@ -1,0 +1,39 @@
+---------------------------------------------
+Log warning_2025-05-02_10-32-08.log started at 2025-05-02 10:54:40
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 10:54:40
+
+Entity doesn't have trackable global ID: Bonfire<1c762360>
+Function: 'Expansion_StoreEntityAndReplace'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\expansionentitystorageplaceholder.c:275
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\continuous\expansionactiondebugstoreentity.c:125
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:251
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\classes\useractionscomponent\actions\actionbases.c:209
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:74
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:408
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:23
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 11:01:45
+
+Entity doesn't have trackable global ID: SurvivorBase<2d04bf90>
+Function: 'Expansion_StoreEntityAndReplace'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\expansionentitystorageplaceholder.c:275
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\continuous\expansionactiondebugstoreentity.c:125
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:251
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\classes\useractionscomponent\actions\actionbases.c:209
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:74
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:408
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:23

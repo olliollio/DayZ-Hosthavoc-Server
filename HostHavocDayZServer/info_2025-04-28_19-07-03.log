@@ -1,0 +1,71 @@
+---------------------------------------------
+Log info_2025-04-28_19-07-03.log started at 2025-04-28 19:07:46
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:07:46
+
+[Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:07:46
+
+[Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:07:46
+
+[Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:12:19
+
+[wpnfsm] ValidateAndRepair Attempting to repair: CZ550:29360 (owner eAI_SurvivorF_Irena<77def040>) - MagazineRepair - BAREM_CLO_BUF_MA0<8fd799f0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\manbase\playerbase.c:2320
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:33
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+GSP-LDN-25, 2025-04-28 19:12:19
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Glock19:29339 (owner eAI_SurvivorM_Elias<71e8d040>) - ChamberRepair - Pistol_OPE_DIS_BU0_MA1<890618b0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:503
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weaponfsm.c:58
+scripts/3_Game/systems\hfsmbase.c:591
+scripts/4_World/entities\firearms\weaponfsm.c:289
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\weapons\firearms\weapon_base.c:371
+scripts/4_World/systems\inventory\dayzplayerinventory.c:403
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:7271
+scripts/4_World/entities\dayzplayerimplement.c:2224
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\dayzplayerimplement.c:47
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\manbase\dayzplayerimplement.c:266
+scripts/4_World/entities\manbase\playerbase.c:2869
+JM/COT/Scripts/4_World/communityonlinetools\entities\player\playerbase.c:169
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\entities\ai\eaibase.c:5458

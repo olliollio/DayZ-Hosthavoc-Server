@@ -1,0 +1,32 @@
+{
+  "m_Version": 12,
+  "DisplayName": "Coldwar_Military_Jackets",
+  "Icon": "Deliver",
+  "Color": "FBFCFEFF",
+  "IsExchange": 0,
+  "InitStockPercent": 75.0,
+  "Items": [
+    {
+      "ClassName": "ColdWarJacket_Splinter",
+      "MaxPriceThreshold": 2000,
+      "MinPriceThreshold": 2000,
+      "SellPricePercent": 50.0,
+      "MaxStockThreshold": 5,
+      "MinStockThreshold": 1,
+      "QuantityPercent": -1,
+      "SpawnAttachments": [],
+      "Variants": [
+        "ColdWarJacket_Strichtarn",
+        "ColdWarJacket_Finnish",
+        "ColdWarJacket_Oblaky",
+        "ColdWarJacket_Jigsaw",
+        "ColdWarTop_Frogskin",
+        "ColdWarTop_DPM",
+        "ColdWarTop_TTsMKK",
+        "ColdWarTop_KLMK",
+        "ColdWarTop_KLMKSO"
+      ]
+   
+    }
+  ]
+}

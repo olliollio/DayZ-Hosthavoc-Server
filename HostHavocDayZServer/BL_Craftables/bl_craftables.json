@@ -1,0 +1,17 @@
+{
+    "ConfigVersion": "20",
+    "AllowSitEmote": 1,
+    "AllowSleepEmote": 1,
+    "AllowSleepingBag": 1,
+    "AllowImprovisedKits": 1,
+    "AllowImprovisedTools": 1,
+    "AllowCandle": 1,
+    "AllowWireRecipes": 1,
+    "AllowEmptyTincan": 1,
+    "AllowedFoodCans": [
+        "BakedBeansCan",
+        "PeachesCan",
+        "TacticalBaconCan",
+        "SpaghettiCan"
+    ]
+}

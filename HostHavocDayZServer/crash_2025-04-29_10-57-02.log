@@ -1,0 +1,127 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\crash_2025-04-29_10-57-02.log started at 29.04. 10:57:46
+
+
+
+------------------------------------
+GSP-LDN-25, 29.04 2025 10:57:46
+
+File $profile:ExpansionMod\Market\Ammo_Boxes.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT 
+
+
+------------------------------------
+GSP-LDN-25, 29.04 2025 10:57:46
+
+File $profile:ExpansionMod\Market\Armbands.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT 
+
+
+------------------------------------
+GSP-LDN-25, 29.04 2025 10:57:46
+
+Item terjepillsadepress has already been added to category Medical (ID 46)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT 
+
+
+------------------------------------
+GSP-LDN-25, 29.04 2025 10:57:47
+
+File $mission:expansion\traderzones\GreenMountain.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarkettraderzone.c:70
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:205
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1119
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT 
+
+
+------------------------------------
+GSP-LDN-25, 29.04 2025 10:57:48
+[::LoadData] :: [ERROR] :: Cannot load data from "$mission:cfggameplay.json":
+JSON ERROR:
+Invalid value.
+Function: 'LoadData'
+Stack trace:
+scripts/3_Game/cfggameplayhandler.c:72
+scripts/5_Mission/mission\missionserver.c:79
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:29
+TerjeCore/Scripts/5_Mission/26de84f8866b497e8743089eda4d3d62.c:727
+TerjeCompatibilityCOT/Scripts/5_Mission/cc9b17de544f400b980f91bf290154d6.c:21
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT 

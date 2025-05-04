@@ -1,0 +1,72 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\script_2025-04-29_19-02-20.log started at 29.04. 19:02:20
+
+SCRIPT       : Registered 406 temporary action enum(s), UAN==406
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 19:02:26.000 [EXPANSION LOG]: DayZGame<8438dd30> Start time (local time) 2025-04-29 19:02:10
+SCRIPT       : 19:02:26.001 [EXPANSION LOG]: DayZGame<8438dd30> Start time (UTC) 2025-04-29 18:02:10
+SCRIPT       : 19:02:26.001 [EXPANSION LOG]: DayZGame<8438dd30> Runtime since start (seconds) 16.307
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_CreateNewConfig_GS'
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_EnableDebugLogs_GS'
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_EnableDebugModsLogs_GS'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,339": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,347": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,357": FIX-ME: Overloaded method 'CanPutIntoHands', argument name 'player' differs from prototype 'parent'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,157": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,40": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,202": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,63": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearchFix/Scripts/4_World/actionsearchgarbage.c,8": FIX-ME: Overriding function 'SpawnTrash' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,218": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,289": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,150": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,232": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,239": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,246": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,253": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,260": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,267": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,274": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,281": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,310": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,317": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,195": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,225": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"Z/fishing/scripts/4_World/classes\recipes\recipesz.c,3": FIX-ME: Overriding function 'RegisterRecipies' but not marked as 'override'
+SCRIPT    (W): @"snow_weather\scripts\4_world/classes\worlds\chernarusplus.c,631": FIX-ME: Overriding function 'LogWeatherData' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,56": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,86": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"dzr_rags_by_hand/4_World/classes\useractionscomponent\actions\continuous\actiontearintorags.c,158": FIX-ME: Constructor 'MaterialLambda', argument 'new_item' name differs from prototype 'new_item_type'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,188": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"ShakeForFruit/scripts/4_World/Entities/ItemBase/Edible_Base/?ЬЩЭ.wss,17": FIX-ME: Overriding function 'OnRPC' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,79": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,93": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,100": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,107": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,114": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,121": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,128": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,135": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,142": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,171": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,178": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,296": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,49": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,210": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,303": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,71": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,164": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'

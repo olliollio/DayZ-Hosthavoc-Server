@@ -1,0 +1,47 @@
+---------------------------------------------
+Log info_2025-05-03_15-13-32.log started at 2025-05-03 15:14:29
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-03 15:14:29
+
+[Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-03 15:14:29
+
+[Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-03 15:14:29
+
+[Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-03 15:15:53
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:31166 (owner eAI_SurvivorF_Naomi<24250520>) - MagazineRepair - BAREM_CLO_BUF_MA0<27c693b0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\manbase\playerbase.c:2320
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:33
+FarmingPlus\Scripts\4_World/modded\playerbase.c:42
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268

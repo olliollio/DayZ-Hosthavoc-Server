@@ -1,0 +1,171 @@
+{
+    "ConfigVersion": "3",
+    "ClientSyncConfig": {
+        "StorageRaidConfig": {
+            "EnableStorageRaiding": 1,
+            "EnableTier2StorageRaiding": 1,
+            "RaidItems": [
+                {
+                    "ItemType": "Lockpick",
+                    "RaidTimeInSeconds": 45,
+                    "AdditionalRaidTimeTier2": 30,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 10,
+                    "PercentChanceOfBreakingItem": 33,
+                    "PercentChanceOfBreakingLoot": 5,
+                    "MinPercentHealthDamageToLoot": 0,
+                    "MaxPercentHealthDamageToLoot": 10,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "Crowbar",
+                    "RaidTimeInSeconds": 180,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 70,
+                    "PercentChanceOfBreakingItem": 50,
+                    "PercentChanceOfBreakingLoot": 90,
+                    "MinPercentHealthDamageToLoot": 50,
+                    "MaxPercentHealthDamageToLoot": 100,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "Hatchet",
+                    "RaidTimeInSeconds": 120,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 100,
+                    "PercentChanceOfBreakingItem": 30,
+                    "PercentChanceOfBreakingLoot": 60,
+                    "MinPercentHealthDamageToLoot": 20,
+                    "MaxPercentHealthDamageToLoot": 90,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "Hacksaw",
+                    "RaidTimeInSeconds": 90,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 100,
+                    "PercentChanceOfBreakingItem": 20,
+                    "PercentChanceOfBreakingLoot": 10,
+                    "MinPercentHealthDamageToLoot": 10,
+                    "MaxPercentHealthDamageToLoot": 30,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "HandSaw",
+                    "RaidTimeInSeconds": 90,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 100,
+                    "PercentChanceOfBreakingItem": 20,
+                    "PercentChanceOfBreakingLoot": 10,
+                    "MinPercentHealthDamageToLoot": 10,
+                    "MaxPercentHealthDamageToLoot": 30,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "Pickaxe",
+                    "RaidTimeInSeconds": 120,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 80,
+                    "PercentChanceOfBreakingItem": 50,
+                    "PercentChanceOfBreakingLoot": 95,
+                    "MinPercentHealthDamageToLoot": 30,
+                    "MaxPercentHealthDamageToLoot": 100,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "WoodAxe",
+                    "RaidTimeInSeconds": 120,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 80,
+                    "PercentChanceOfBreakingItem": 30,
+                    "PercentChanceOfBreakingLoot": 40,
+                    "MinPercentHealthDamageToLoot": 40,
+                    "MaxPercentHealthDamageToLoot": 90,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "FirefighterAxe",
+                    "RaidTimeInSeconds": 120,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 80,
+                    "PercentChanceOfBreakingItem": 20,
+                    "PercentChanceOfBreakingLoot": 30,
+                    "MinPercentHealthDamageToLoot": 10,
+                    "MaxPercentHealthDamageToLoot": 60,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "SledgeHammer",
+                    "RaidTimeInSeconds": 180,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 0,
+                    "PercentHealthRemovedItem": 40,
+                    "PercentChanceOfBreakingItem": 40,
+                    "PercentChanceOfBreakingLoot": 100,
+                    "MinPercentHealthDamageToLoot": 30,
+                    "MaxPercentHealthDamageToLoot": 100,
+                    "EnableHealthAffectsRaiding": 1
+                }
+            ]
+        },
+        "BaseRaidConfig": {
+            "EnableBaseRaiding": 1,
+            "EnableGateRaiding": 1,
+            "EnableWallRaiding": 1,
+            "EnableNoBuildZones": 1,
+            "RaidItems": [
+                {
+                    "ItemType": "SledgeHammer",
+                    "RaidTimeInSeconds": 300,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 180,
+                    "PercentHealthRemovedItem": 40,
+                    "PercentChanceOfBreakingItem": 40,
+                    "PercentChanceOfBreakingLoot": 0,
+                    "MinPercentHealthDamageToLoot": 0,
+                    "MaxPercentHealthDamageToLoot": 0,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "Pickaxe",
+                    "RaidTimeInSeconds": 240,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 180,
+                    "PercentHealthRemovedItem": 40,
+                    "PercentChanceOfBreakingItem": 40,
+                    "PercentChanceOfBreakingLoot": 0,
+                    "MinPercentHealthDamageToLoot": 0,
+                    "MaxPercentHealthDamageToLoot": 0,
+                    "EnableHealthAffectsRaiding": 1
+                },
+                {
+                    "ItemType": "WoodAxe",
+                    "RaidTimeInSeconds": 240,
+                    "AdditionalRaidTimeTier2": 60,
+                    "AdditionalRaidTimeTier3": 180,
+                    "PercentHealthRemovedItem": 40,
+                    "PercentChanceOfBreakingItem": 40,
+                    "PercentChanceOfBreakingLoot": 0,
+                    "MinPercentHealthDamageToLoot": 0,
+                    "MaxPercentHealthDamageToLoot": 0,
+                    "EnableHealthAffectsRaiding": 1
+                }
+            ],
+            "BannedItemsInNoBuildZones": [
+                {
+                    "ItemType": "R22R_Standalone_Staircase"
+                },
+                {
+                    "ItemType": "R22R_Standalone_Walkway"
+                }
+            ]
+        }
+    }
+}

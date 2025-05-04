@@ -1,0 +1,295 @@
+{
+    "EnableDebug": 0,
+    "Rarity": 50.0,
+    "InitialCooldown": 400,
+    "XPGain": 1,
+    "SoundEnabled": 1,
+    "DisableNotifications": 0,
+    "NotificationHeading": "Searching",
+    "NotificationText": "You found something...",
+    "NotificationText2": "Seems to be empty...",
+    "MaxHealthCoef": 1.0,
+    "SFLBuildings": [
+        {
+            "name": "Civilian",
+            "buildings": [
+                ""
+            ]
+        },
+        {
+            "name": "Industrial",
+            "buildings": [
+                "Land_Airfield_Hangar_Green",
+                "Land_Airfield_ServiceHangar_L",
+                "Land_Airfield_ServiceHangar_R",
+                "Land_Barn_Metal_Big",
+                "Land_Barn_Metal_Big_Grey",
+                "Land_CoalPlant_Main",
+                "Land_Construction_Building",
+                "Land_Construction_House1",
+                "Land_Construction_House2",
+                "Land_DieselPowerPlant_Building",
+                "Land_Factory_Lathes",
+                "Land_Factory_Small",
+                "Land_Garage_Big",
+                "Land_Garage_Office",
+                "Land_Garage_Row_Big",
+                "Land_Garage_Row_Small",
+                "Land_Garage_Small",
+                "Land_Garage_Tall",
+                "Land_Mil_AircraftShelter",
+                "Land_Mine_Building",
+                "Land_Power_Station",
+                "Land_Power_Transformer_Build",
+                "Land_Quarry_Main",
+                "Land_Rail_Station_Big",
+                "Land_Rail_Station_Small",
+                "Land_Rail_Warehouse_Small",
+                "Land_Repair_Center",
+                "Land_Sawmill_Building",
+                "Land_Workshop_FuelStation",
+                "Land_Workshop1",
+                "Land_Workshop2",
+                "Land_Workshop3",
+                "Land_Workshop4",
+                "Land_Workshop5"
+            ]
+        },
+        {
+            "name": "Farm",
+            "buildings": [
+                "Land_Barn_Brick1",
+                "Land_Barn_Brick2",
+                "Land_Barn_Wood1",
+                "Land_Barn_Wood2",
+                "Land_Farm_CowshedA",
+                "Land_Farm_CowshedB",
+                "Land_Farm_CowshedC"
+            ]
+        },
+        {
+            "name": "Hunting",
+            "buildings": [
+                "Land_Village_Pub",
+                "Land_Camp_House_brown",
+                "Land_Camp_House_red",
+                "Land_Camp_House_white"
+            ]
+        },
+        {
+            "name": "Police",
+            "buildings": [
+                "Land_Village_PoliceStation",
+                "Land_City_PoliceStation",
+                "Land_Village_PoliceStation_Enoch",
+                "Land_City_PoliceStation",
+                "Land_Guardhouse",
+                "Land_Mil_Guardhouse1",
+                "Land_Mil_Guardhouse3"
+            ]
+        },
+        {
+            "name": "Medical",
+            "buildings": [
+                "Land_Village_HealthCare",
+                "Land_Village_HealthCare_Enoch",
+                "Land_City_Hospital",
+                "Land_Medical_Tent_Big",
+                "Land_Medical_Tent_Shower"
+            ]
+        },
+        {
+            "name": "Military",
+            "buildings": [
+                "Land_Bunker1_Double",
+                "Land_Bunker1_Left",
+                "Land_Bunker1_Right",
+                "Land_Bunker2_Double",
+                "Land_Bunker2_Left",
+                "Land_Bunker2_Right",
+                "Land_Mil_Airfield_HQ",
+                "Land_Mil_ATC_Big",
+                "Land_Mil_ATC_Small",
+                "Land_Mil_Barracks_Round",
+                "Land_Mil_Barracks1",
+                "Land_Mil_Barracks2",
+                "Land_Mil_Barracks3",
+                "Land_Mil_Barracks4",
+                "Land_Mil_Barracks5",
+                "Land_Mil_Barracks6",
+                "Land_Mil_ControlTower",
+                "Land_Mil_Fortified_Nest_Big",
+                "Land_Mil_Fortified_Nest_Small",
+                "Land_Mil_Fortified_Nest_Watchtower",
+                "Land_Mil_Guardbox_Brown",
+                "Land_Mil_Guardbox_Green",
+                "Land_Mil_Guardbox_Smooth",
+                "Land_Mil_Guardhouse2",
+                "Land_Mil_GuardShed",
+                "Land_Mil_GuardTower",
+                "Land_Mil_Tent_Big1_1",
+                "Land_Mil_Tent_Big1_2",
+                "Land_Mil_Tent_Big1_3",
+                "Land_Mil_Tent_Big1_4",
+                "Land_Mil_Tent_Big1_5",
+                "Land_Mil_Tent_Big2_1",
+                "Land_Mil_Tent_Big2_2",
+                "Land_Mil_Tent_Big2_3",
+                "Land_Mil_Tent_Big2_4",
+                "Land_Mil_Tent_Big2_5",
+                "Land_Mil_Tent_Big3",
+                "Land_Mil_Tent_Big4",
+                "Land_Mil_Tower_Small",
+                "Land_Ruin_Mil_ControlTower",
+                "Land_Tisy_Barracks",
+                "Land_Tisy_Garages",
+                "Land_Tisy_HQ",
+                "Land_Tisy_KitchenRoom",
+                "Land_Tisy_RadarB_Base",
+                "Land_Tisy_RadarPlatform_Top"
+            ]
+        }
+    ],
+    "SFLLootCategory": [
+        {
+            "name": "Civilian",
+            "rarity": 50.0,
+            "loot": [
+                "TunaCan",
+                "Rag",
+                "Pajka",
+                "Paper",
+                "UnknownFoodCan",
+                "Zagorky",
+                "CivilianBelt",
+                "Rope",
+                "PetrolLighter",
+                "Ammo_22",
+                "Ammo_12gaSlug",
+                "PowderedMilk",
+                "AthleticShoes_Blue",
+                "BalaclavaMask_Blue",
+                "BoxCerealCrunchin",
+                "FryingPan",
+                "KitchenKnife",
+                "KitchenTimer",
+                "Paper",
+                "Raincoat_Red",
+                "ShortJeans_Blue",
+                "SlacksPants_LightGrey"
+            ]
+        },
+        {
+            "name": "Industrial",
+            "rarity": 50.0,
+            "loot": [
+                "NailBox",
+                "MetalWire",
+                "ElectronicRepairKit",
+                "EpoxyPutty",
+                "Fabric",
+                "Headtorch_Grey",
+                "Nail",
+                "Screwdriver",
+                "WorkingGloves_Yellow",
+                "Wrench"
+            ]
+        },
+        {
+            "name": "Farm",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_12gaSlug",
+                "Ammo_357",
+                "AlarmClock_Blue",
+                "DuctTape",
+                "Hammer",
+                "KitchenKnife",
+                "LeatherSewingKit",
+                "Magnum",
+                "BarbedWire",
+                "Nail",
+                "Rope",
+                "SodaCan_Kvass",
+                "BakedBeansCan"
+            ]
+        },
+        {
+            "name": "Hunting",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_308Win",
+                "Ammo_762x39",
+                "Armband_BabyDeer",
+                "Armband_Bear",
+                "Battery9V",
+                "ChernarusMap",
+                "Compass",
+                "Flashlight",
+                "Heatpack",
+                "HuntingKnife",
+                "Matchbox",
+                "Whetstone",
+                "SewingKit"
+            ]
+        },
+        {
+            "name": "Police",
+            "rarity": 50.0,
+            "loot": [
+                "Ammo_12gaRubberSlug",
+                "Ammo_12gaPellets",
+                "Ammo_40mm_Smoke_Red",
+                "Ammo_556x45",
+                "Armband_LivoniaPolice",
+                "AviatorGlasses",
+                "HandcuffKeys",
+                "Handcuffs",
+                "UniversalLight",
+                "WeaponCleaningKit"
+            ]
+        },
+        {
+            "name": "Medical",
+            "rarity": 50.0,
+            "loot": [
+                "Bear_Beige",
+                "Armband_White",
+                "BloodBagEmpty",
+                "BloodTestKit",
+                "CharcoalTablets",
+                "DisinfectantSpray",
+                "Morphine",
+                "MouthRag",
+                "NioshFaceMask",
+                "PainkillerTablets",
+                "Pen_Black",
+                "SalineBag",
+                "StartKitIV",
+                "SurgicalGloves_Green",
+                "VitaminBottle"
+            ]
+        },
+        {
+            "name": "Military",
+            "rarity": 50.0,
+            "loot": [
+                "Glock19",
+                "Colt1911",
+                "CombatKnife",
+                "Flag_Chernarus",
+                "LandMineTrap",
+                "M18SmokeGrenade_White",
+                "MilitaryBelt",
+                "NylonKnifeSheath",
+                "Rangefinder",
+                "TacticalBaconCan",
+                "Ammo_545x39",
+                "Ammo_762x54",
+                "Ammo_9x19",
+                "Ammo_45ACP"
+            ]
+        }
+    ],
+    "SFLProxyCategory": []
+}

@@ -1,0 +1,41 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\script_2025-05-03_13-09-04.log started at 03.05. 13:09:05
+
+SCRIPT       : Registered 408 temporary action enum(s), UAN==408
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 13:09:09.001 [EXPANSION LOG]: DayZGame<82f6e830> Start time (local time) 2025-05-03 13:08:58
+SCRIPT       : 13:09:09.001 [EXPANSION LOG]: DayZGame<82f6e830> Start time (UTC) 2025-05-03 12:08:58
+SCRIPT       : 13:09:09.001 [EXPANSION LOG]: DayZGame<82f6e830> Runtime since start (seconds) 11.614
+SCRIPT    (W): @"ASC/Weapons/SVT40/Scripts/4_World/asc_svt40_bayonet.c,6": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,6": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,15": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,22": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\areadamage\areadamagenew\nobuildzonearea.c,31": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/entities\itembase\basebuildingbase\r22r_extended_bb_base.c,384": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/entities\itembase\basebuildingbase\r22r_extended_bb_base.c,389": Missing ';' at the end of line
+SCRIPT    (W): @"R22R_Base_Fortifications_Reloaded/scripts/4_world/classes\useractioncomponents\actions\continuous\moddedactiondeployobject.c,7": Missing ';' at the end of line
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_CreateNewConfig_GS'
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_EnableDebugLogs_GS'
+SCRIPT    (W): @"ServerConfig_GS/scripts/4_World/actionbase.c,115": Possible variable name conflict 'z_EnableDebugModsLogs_GS'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/modded\playerbase.c,5": FIX-ME: Overriding function 'Init' but not marked as 'override'
+SCRIPT    (W): @"FarmingPlus\Scripts\4_World/actions\actionfeedchicken.c,54": FIX-ME: Overriding function 'OnExecuteServer' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,339": FIX-ME: Overriding function 'IsHealthVisible' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,347": FIX-ME: Overriding function 'IsInventoryItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,357": FIX-ME: Overloaded method 'CanPutIntoHands', argument name 'player' differs from prototype 'parent'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,157": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,40": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'
+SCRIPT    (W): @"GarbageSearch/Scripts/4_World/garbagescriptclass.c,202": FIX-ME: Overriding function 'Get_StaticReturnItem' but not marked as 'override'

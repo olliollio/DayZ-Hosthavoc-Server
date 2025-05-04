@@ -1,0 +1,67 @@
+---------------------------------------------
+Log info_2025-05-02_14-20-00.log started at 2025-05-02 14:20:49
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 14:20:49
+
+[Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 14:20:49
+
+[Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 14:20:49
+
+[Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 14:22:10
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:30997 (owner eAI_SurvivorM_Seth<2091e010>) - MagazineRepair - BAREM_CLO_BUF_MA0<279e5ae0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\manbase\playerbase.c:2320
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:33
+FarmingPlus\Scripts\4_World/modded\playerbase.c:42
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 14:22:10
+
+[wpnfsm] ValidateAndRepair Attempting to repair: Scout:31010 (owner eAI_SurvivorF_Eva<21b07030>) - MagazineRepair - BAREM_CLO_BUF_MA0<27a117d0> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\manbase\playerbase.c:2320
+DayZExpansion/VanillaFixes/Scripts/4_World/dayzexpansion_vanillafixes\entities\manbase\playerbase.c:33
+FarmingPlus\Scripts\4_World/modded\playerbase.c:42
+scripts/3_Game/dayzgame.c:2919
+JM/CF/Scripts/3_Game/communityframework\game\dayzgame.c:46
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\dayzgame.c:268

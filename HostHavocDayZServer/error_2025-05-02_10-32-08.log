@@ -1,0 +1,58 @@
+---------------------------------------------
+Log error_2025-05-02_10-32-08.log started at 2025-05-02 10:50:38
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 10:50:38
+
+[EntityStorage] couldn't delete $mission:storage_1\expansion\entitystorage\800000008000000080000000800003DE.bin
+Function: 'DeleteFiles'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1072
+DayZExpansion/VirtualContainerStorage/Scripts/4_World/dayzexpansion_virtualcontainerstorage\entities\itembase.c:76
+DayZExpansion/Missions/Scripts/4_World/dayzexpansion_missions\entities\airdrop\expansionairdropcontainerbase.c:215
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 11:02:00
+
+SurvivorM_Francis: Couldn't OnStoreLoad
+Function: 'ErrorFalse'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:469
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:857
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:536
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1157
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\continuous\expansionactionrestoreentity.c:113
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\continuous\expansionactionrestoreentity.c:170
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:251
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\classes\useractionscomponent\actions\actionbases.c:209
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:74
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:408
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:23
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-02 11:02:07
+
+Couldn't open file for reading $mission:storage_1\expansion\entitystorage\800000008000000080000000800003E0\Shovel.bin
+Function: 'ErrorFalse'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:469
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:763
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:530
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\expansionentitystorage.c:1157
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\continuous\expansionactionrestoreentity.c:113
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\continuous\expansionactionrestoreentity.c:170
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:251
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\classes\useractionscomponent\actions\actioncontinuousbase.c:25
+DayZExpansion/Quests/Scripts/4_World/dayzexpansion_quests\classes\useractionscomponent\actions\actionbases.c:209
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuousbase.c:12
+scripts/4_World/classes\useractionscomponent\actioncomponents\cacontinuoustime.c:53
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:74
+scripts/4_World/classes\useractionscomponent\animatedactionbase.c:408
+scripts/4_World/classes\useractionscomponent\actions\actioncontinuousbase.c:23

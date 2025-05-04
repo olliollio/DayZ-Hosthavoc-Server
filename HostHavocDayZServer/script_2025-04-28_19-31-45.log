@@ -1,0 +1,413 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\script_2025-04-28_19-31-45.log started at 28.04. 19:31:46
+
+SCRIPT       : Registered 406 temporary action enum(s), UAN==406
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 19:31:50.000 [EXPANSION LOG]: DayZGame<80a94000> Start time (local time) 2025-04-28 19:31:39
+SCRIPT       : 19:31:50.000 [EXPANSION LOG]: DayZGame<80a94000> Start time (UTC) 2025-04-28 18:31:39
+SCRIPT       : 19:31:50.000 [EXPANSION LOG]: DayZGame<80a94000> Runtime since start (seconds) 11.219
+SCRIPT    (W): @"snow_weather\scripts\4_world/classes\worlds\chernarusplus.c,631": FIX-ME: Overriding function 'LogWeatherData' but not marked as 'override'
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT       : [TERJE CORE](INFO): Server address is 104.234.251.156:2302
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Immunity' with 22 perks. Perk points delta is -8
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Medicine' with 14 perks. Perk points delta is -9
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Athletic' with 9 perks. Perk points delta is -8
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Strength' with 11 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Metabolism' with 11 perks. Perk points delta is -10
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Stealth' with 11 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Survival' with 12 perks. Perk points delta is -13
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Hunting' with 9 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Fishing' with 10 perks. Perk points delta is -14
+SCRIPT       : 19:32:31.387 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 19:32:31.388 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 19:32:31.390 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 19:32:31.391 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 19:32:31.391 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 19:32:31.391 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 19:32:31.392 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 19:32:31.406 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Ammo_Boxes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Armbands)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Tents)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 65 (Tools)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 66 (Vehicle_Parts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 67 (Vests)
+SCRIPT       : 19:32:31.612 [WARNING]	[ExpansionMarketTrader] Error: The "m14_20rnd" does not exist in the market!
+SCRIPT       : 19:32:31.613 [WARNING]	[ExpansionMarketTrader] Error: The "m14_10rnd" does not exist in the market!
+SCRIPT       : 19:32:31.686 [EXPANSION DEBUG]: [ExpansionAirdropSettings] Load existing setting file:$profile:ExpansionMod\Settings\AirdropSettings.json
+SCRIPT       : 19:32:32.278 [EXPANSION DEBUG]: [ExpansionMissionSettings] Load existing setting file:$profile:ExpansionMod\Settings\MissionSettings.json
+SCRIPT       : 19:32:32.281 [EXPANSION DEBUG]: [ExpansionMapSettings] Load existing setting file:$mission:expansion\settings\MapSettings.json
+SCRIPT       : 19:32:32.299 [EXPANSION DEBUG]: [ExpansionPersonalStorageNewSettings] Load existing setting file:$profile:ExpansionMod\Settings\PersonalStorageNewSettings.json
+SCRIPT       : 19:32:32.300 [EXPANSION DEBUG]: [ExpansionGeneralSettings] Load existing setting file:$profile:ExpansionMod\Settings\GeneralSettings.json
+SCRIPT       : 19:32:32.302 [EXPANSION DEBUG]: [ExpansionPlayerListSettings] Load existing setting file:$profile:ExpansionMod\Settings\PlayerListSettings.json
+SCRIPT       : 19:32:32.302 [EXPANSION DEBUG]: [ExpansionSocialMediaSettings] Load existing setting file:$profile:ExpansionMod\Settings\SocialMediaSettings.json
+SCRIPT       : 19:32:32.303 [EXPANSION DEBUG]: [ExpansionSpawnSettings] Load existing setting file:$mission:expansion\settings\SpawnSettings.json
+SCRIPT       : 19:32:32.307 [EXPANSION DEBUG]: [ExpansionVehicleSettings] Load existing setting file:$profile:ExpansionMod\Settings\VehicleSettings.json
+SCRIPT       : 19:32:32.309 [EXPANSION DEBUG]: ExpansionAILocationSettings<fb38490> Load existing setting file:$mission:expansion\settings\AILocationSettings.json
+SCRIPT       : 19:32:32.344 [EXPANSION DEBUG]: [ExpansionAISettings] Load existing setting file:$profile:ExpansionMod\Settings\AISettings.json
+SCRIPT       : 19:32:32.344 [EXPANSION DEBUG]: [ExpansionAIPatrolSettings] Load existing setting file:$mission:expansion\settings\AIPatrolSettings.json
+SCRIPT       : 19:32:32.354 [EXPANSION DEBUG]: [ExpansionBaseBuildingSettings] Load existing setting file:$mission:expansion\settings\BaseBuildingSettings.json
+SCRIPT       : 19:32:32.355 [EXPANSION DEBUG]: [ExpansionRaidSettings] Load existing setting file:$profile:ExpansionMod\Settings\RaidSettings.json
+SCRIPT       : 19:32:32.356 [EXPANSION DEBUG]: [ExpansionTerritorySettings] Load existing setting file:$profile:ExpansionMod\Settings\TerritorySettings.json
+SCRIPT       : 19:32:32.360 [EXPANSION DEBUG]: [ExpansionChatSettings] Load existing setting file:$profile:ExpansionMod\Settings\ChatSettings.json
+SCRIPT       : Expansion version: 1.9.22
+SCRIPT       : [DefineTest] EXPANSIONMOD is defined
+SCRIPT       : [DefineTest] EXPANSIONMODAI is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBASEBUILDING is defined
+SCRIPT       : [DefineTest] EXPANSIONMODBOOK is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCHAT is defined
+SCRIPT       : [DefineTest] EXPANSIONMODCORE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGARAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODGROUPS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODHARDLINE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODKILLFEED is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMAPASSETS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODMISSIONS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAMETAGS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODNAVIGATION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODP2PMARKET is defined
+SCRIPT       : [DefineTest] EXPANSIONMODPERSONALSTORAGE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODQUESTS is defined
+SCRIPT       : [DefineTest] EXPANSIONMODSPAWNSELECTION is defined
+SCRIPT       : [DefineTest] EXPANSIONMODVEHICLE is defined
+SCRIPT       : [DefineTest] EXPANSIONMODWEAPONS is defined
+SCRIPT       : [DefineTest] CfgMods:
+SCRIPT       : defaultAction
+SCRIPT       : DayZ
+SCRIPT       : DZ_Expansion_AI_Preload
+SCRIPT       : DZ_Expansion_BaseBuilding_Preload
+SCRIPT       : DZ_Expansion_Book_Preload
+SCRIPT       : DZ_Expansion_Chat_Preload
+SCRIPT       : DZ_Expansion_Core_Preload
+SCRIPT       : DZ_Expansion_Garage_Preload
+SCRIPT       : DZ_Expansion_Groups_Preload
+SCRIPT       : DZ_Expansion_Hardline_Preload
+SCRIPT       : DZ_Expansion_KillFeed_Preload
+SCRIPT       : DZ_Expansion_MapAssets_Preload
+SCRIPT       : DZ_Expansion_Market_Preload
+SCRIPT       : DZ_Expansion_Missions_Preload
+SCRIPT       : DZ_Expansion_ModStorage_Preload
+SCRIPT       : DZ_Expansion_NameTags_Preload
+SCRIPT       : DZ_Expansion_Navigation_Preload
+SCRIPT       : DZ_Expansion_P2PMarket_Preload
+SCRIPT       : DZ_Expansion_PersonalStorage_Preload
+SCRIPT       : DZ_Expansion_Preload
+SCRIPT       : DZ_Expansion_Quests_Preload
+SCRIPT       : DZ_Expansion_SpawnSelection_Preload
+SCRIPT       : DZ_Expansion_Vehicles_Preload
+SCRIPT       : DZ_Expansion_Weapons_Preload
+SCRIPT       : DabsFramework
+SCRIPT       : DZ_Expansion_DefineTest
+SCRIPT       : DZ_Expansion_MapAssets
+SCRIPT       : sakhal
+SCRIPT       : JM_CommunityFramework
+SCRIPT       : JM_CommunityOnlineTools
+SCRIPT       : TerjeCore
+SCRIPT       : TerjeMedicine
+SCRIPT       : TerjeRadiation
+SCRIPT       : TerjeSkills
+SCRIPT       : DZ_Expansion_ModStorage
+SCRIPT       : snow_weather
+SCRIPT       : TerjeCompatibilityCOT
+SCRIPT       : DZ_Expansion_Core
+SCRIPT       : DZ_Expansion_Garage
+SCRIPT       : DZ_Expansion_Groups
+SCRIPT       : DZ_Expansion_Market
+SCRIPT       : DZ_Expansion_Missions
+SCRIPT       : DZ_Expansion_NameTags
+SCRIPT       : DZ_Expansion_Navigation
+SCRIPT       : DZ_Expansion_NotificationScheduler
+SCRIPT       : DZ_Expansion_P2PMarket
+SCRIPT       : DZ_Expansion_PersonalStorage
+SCRIPT       : DZ_Expansion_PersonalStorageNew
+SCRIPT       : DZ_Expansion_PlayerList
+SCRIPT       : DZ_Expansion
+SCRIPT       : DZ_Expansion_SpawnSelection
+SCRIPT       : DZ_Expansion_VanillaFixes
+SCRIPT       : DZ_Expansion_Vehicles
+SCRIPT       : DZ_Expansion_Weapons
+SCRIPT       : DZ_Expansion_AI
+SCRIPT       : DZ_Expansion_BaseBuilding
+SCRIPT       : DZ_Expansion_Book
+SCRIPT       : DZ_Expansion_Chat
+SCRIPT       : DZ_Expansion_Hardline
+SCRIPT       : DZ_Expansion_Quests
+SCRIPT       : DZ_Expansion_VirtualContainerStorage
+SCRIPT    (E): JSON ERROR TerjeCompatibilityCOT/Scripts/5_Mission/cc9b17de544f400b980f91bf290154d6.c:21
+SCRIPT    (E): [::LoadData] :: [ERROR] :: Cannot load data from "$mission:cfggameplay.json":
+JSON ERROR:
+Invalid value.
+Function: 'LoadData'
+Stack trace:
+scripts/3_Game/cfggameplayhandler.c:72
+scripts/5_Mission/mission\missionserver.c:79
+JM/CF/Scripts/5_Mission/communityframework\mission\missionserver.c:29
+TerjeCore/Scripts/5_Mission/26de84f8866b497e8743089eda4d3d62.c:727
+TerjeCompatibilityCOT/Scripts/5_Mission/cc9b17de544f400b980f91bf290154d6.c:21
+SCRIPT       : 19:32:33.634 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderStaticBase<245d6010> fileName Exchange
+SCRIPT       : 19:32:37.310 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderDenis<f17ea060> fileName Clothing
+SCRIPT       : 19:32:37.310 [EXPANSION DEBUG]: ExpansionTraderDenis<f17ea060>::SetTraderObject ExpansionTraderObjectBase<fed6710> <3697.249512, 402.010010, 5977.625488>
+SCRIPT       : 19:32:37.356 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderMaria<10016820> fileName Clothing_Accessories
+SCRIPT       : 19:32:37.356 [EXPANSION DEBUG]: ExpansionTraderMaria<10016820>::SetTraderObject ExpansionTraderObjectBase<fff4fc0> <3696.455811, 402.010010, 5980.193359>
+SCRIPT       : 19:32:37.389 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderQuinn<10195400> fileName Consumables
+SCRIPT       : 19:32:37.390 [EXPANSION DEBUG]: ExpansionTraderQuinn<10195400>::SetTraderObject ExpansionTraderObjectBase<fed7df0> <3710.121826, 402.010010, 5976.164063>
+SCRIPT       : 19:32:37.433 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<1026c020> fileName Weapons
+SCRIPT       : 19:32:37.433 [EXPANSION DEBUG]: ExpansionTraderNaomi<1026c020>::SetTraderObject ExpansionTraderObjectBase<101fc240> <3708.786865, 402.010010, 5974.589844>
+SCRIPT       : 19:32:37.477 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderSeth<103ac3d0> fileName Attachments
+SCRIPT       : 19:32:37.478 [EXPANSION DEBUG]: ExpansionTraderSeth<103ac3d0>::SetTraderObject ExpansionTraderObjectBase<103e3df0> <3710.265137, 402.010010, 5973.340820>
+SCRIPT       : 19:32:37.507 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderRolf<105a1010> fileName Vehicles
+SCRIPT       : 19:32:37.507 [EXPANSION DEBUG]: ExpansionTraderRolf<105a1010>::SetTraderObject ExpansionTraderObjectBase<103fe670> <3698.172607, 402.010010, 5995.337402>
+SCRIPT       : 19:32:37.551 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderIndar<10700020> fileName Components
+SCRIPT       : 19:32:37.552 [EXPANSION DEBUG]: ExpansionTraderIndar<10700020>::SetTraderObject ExpansionTraderObjectBase<106c2fd0> <3714.531006, 402.138000, 5961.776367>
+SCRIPT       : 19:32:37.585 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJudy<10832030> fileName Medicals
+SCRIPT       : 19:32:37.585 [EXPANSION DEBUG]: ExpansionTraderJudy<10832030>::SetTraderObject ExpansionTraderObjectBase<106c91b0> <3729.029541, 402.651001, 5969.476563>
+SCRIPT       : 19:32:37.593 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNaomi<108aa040> fileName Vehicle_Parts
+SCRIPT       : 19:32:37.593 [EXPANSION DEBUG]: ExpansionTraderNaomi<108aa040>::SetTraderObject ExpansionTraderObjectBase<108bad70> <3690.062988, 402.100067, 6006.763672>
+SCRIPT       : 19:32:37.626 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderJose<10976010> fileName Spraycans
+SCRIPT       : 19:32:37.626 [EXPANSION DEBUG]: ExpansionTraderJose<10976010>::SetTraderObject ExpansionTraderObjectBase<108d6370> <3699.629883, 402.010010, 5993.970215>
+SCRIPT       : 19:32:37.654 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderLinda<189b5010> fileName Special
+SCRIPT       : 19:32:37.654 [EXPANSION DEBUG]: ExpansionTraderLinda<189b5010>::SetTraderObject ExpansionTraderObjectBase<10ab5970> <3674.669922, 406.760010, 5990.390137>
+SCRIPT       : 19:32:37.674 [EXPANSION DEBUG]: LoadMissionTradersFile trader ExpansionTraderNiki<e0783480> fileName BuildingSupplies
+SCRIPT       : 19:32:37.675 [EXPANSION DEBUG]: ExpansionTraderNiki<e0783480>::SetTraderObject ExpansionTraderObjectBase<10aba110> <3699.030029, 402.013000, 5973.439941>
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestPersistentServerData] Load existing configuration file:$profile:ExpansionMod\Quests\PersistentServerData.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_1.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_2.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_3.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_4.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_5.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_6.json
+SCRIPT       : [ExpansionQuestObjectiveTravelConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Travel\Objective_T_7.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_1.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_2.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_3.json
+SCRIPT       : [ExpansionQuestObjectiveTargetConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Target\Objective_TA_4.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_1.json
+SCRIPT       : [ExpansionQuestObjectiveDeliveryConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Delivery\Objective_D_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_1.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_2.json
+SCRIPT       : [ExpansionQuestObjectiveCollectionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Collection\Objective_C_3.json
+SCRIPT       : [ExpansionQuestObjectiveTreasureHuntConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\TreasureHunt\Objective_TH_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_1.json
+SCRIPT       : [ExpansionQuestObjectiveActionConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Action\Objective_A_2.json
+SCRIPT       : [ExpansionQuestObjectiveCraftingConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\Crafting\Objective_CR_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIPatrolConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIPatrol\Objective_AIP_1.json
+SCRIPT       : [ExpansionQuestObjectiveAICampConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AICamp\Objective_AIC_1.json
+SCRIPT       : [ExpansionQuestObjectiveAIEscortConfig] Load existing configuration file:$profile:ExpansionMod\Quests\Objectives\AIVIP\Objective_AIESCORT_1.json
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_1.json
+SCRIPT       : [Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_2.json
+SCRIPT       : [Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+SCRIPT       : [ExpansionQuestNPCData] Load existing configuration file:QuestNPC_3.json
+SCRIPT       : [Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+SCRIPT       : [TERJE CORE](WARNING): Failed to read TERJE_STORAGE_VERSION. Using migration mode from vanilla storage format.
+SCRIPT       : 19:32:50.174 [WARNING]	File "$mission:storage_1/communityframework/modstorageplayers.bin" was not closed. Always shut down the server gracefully to prevent data loss.
+SCRIPT       : 19:33:29.651 [EXPANSION DEBUG]: ExpansionP2PTraderAIIrena<85309020>::SetP2PTraderID - ID: 1
+SCRIPT       : ExpansionMarketItem marketItem = ExpansionMarketItem<101bac20>
+SCRIPT       : int worth =   1
+SCRIPT       : ExpansionZonePolygon<85ff9340> position=<12015.854492, 0.000000, 12591.097656> radius=419.633
+SCRIPT       : ExpansionZoneCircle<6152c6a0> position=<1143.140015, 0.000000, 2423.270020> radius=700
+SCRIPT       : ExpansionZoneCircle<6152c5e0> position=<3728.270020, 0.000000, 6003.600098> radius=500
+SCRIPT       : Found 3 zones!
+SCRIPT       : [TERJE CORE](INFO): TERJE_STORAGE_VERSION SET TO 1
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeMedicine]: You are using the trial version of the 'Terje Medicine' mod.
+SCRIPT       : [TerjeMedicine]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeRadiation]: You are using the trial version of the 'Terje Radiation' mod.
+SCRIPT       : [TerjeRadiation]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : Stomach checksum fail
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeSkills]: You are using the trial version of the 'Terje Skills' mod.
+SCRIPT       : [TerjeSkills]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : Stomach checksum fail
+SCRIPT       : ---- PlayerBase OnStoreLoad SUCCESS ----
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:24408 (owner SurvivorBase<e30c80b0>) - MagazineRepair - RBF_CLO_BU0_MA0<adbb1a00> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: [ExpansionMissionEventAirdrop] Adjusted container weights:
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: ExpansionAirdropContainer 86
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: ExpansionAirdropContainer_Medical 91
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: ExpansionAirdropContainer_Basebuilding 96
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: ExpansionAirdropContainer_Military 101
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: ExpansionAirdropPlane::Expansion_GetSpawnPoint - drop position <2351.000000, 0.000000, 5393.000000> - map is chernarusplus - size 15360 - center <7100.000000, 300.000000, 7750.000000>
+SCRIPT       : 19:38:32.261 [EXPANSION DEBUG]: ExpansionAirdropPlane::Expansion_GetSpawnPoint - selected spawn point <15360.000000, 450.695618, 12122.416992>
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeMedicine]: You are using the trial version of the 'Terje Medicine' mod.
+SCRIPT       : [TerjeMedicine]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeRadiation]: You are using the trial version of the 'Terje Radiation' mod.
+SCRIPT       : [TerjeRadiation]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : 19:39:13.721 [EXTRACE] +ExpansionKillFeedModule<99886220>::OnPlayerKilled SurvivorBase<97776130> AKS74U<a73b0b90>
+SCRIPT       : 19:39:13.732 [EXTRACE] -ExpansionKillFeedModule<99886220>::OnPlayerKilled SurvivorBase<97776130> AKS74U<a73b0b90> 10.5777 ms
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeSkills]: You are using the trial version of the 'Terje Skills' mod.
+SCRIPT       : [TerjeSkills]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Expansion_MP5SD:29297 (owner SurvivorBase<e30c80b0>) - MagazineRepair - RBL_CLO_BU0_MA0<ad52c600> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : [wpnfsm] Save occured in fsm transition! current state=WeaponFireAndChamberNext<ad530920> closes stable state=RBL_CLO_BU1_MA1<ad52cf00> id=3
+SCRIPT       : JMCameraModule::RPC_Leave - timestamp 723.594
+SCRIPT       : JMCameraModule::Server_Leave - target SurvivorBase<e30c80b0>
+SCRIPT       : JMCameraModule::Server_Leave - spectated player NULL
+SCRIPT       : JMCameraModule::RPC_Leave - timestamp 725.041
+SCRIPT       : JMCameraModule::Server_Leave - target SurvivorBase<e30c80b0>
+SCRIPT       : JMCameraModule::Server_Leave - spectated player NULL
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeMedicine]: You are using the trial version of the 'Terje Medicine' mod.
+SCRIPT       : [TerjeMedicine]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeRadiation]: You are using the trial version of the 'Terje Radiation' mod.
+SCRIPT       : [TerjeRadiation]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeSkills]: You are using the trial version of the 'Terje Skills' mod.
+SCRIPT       : [TerjeSkills]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 19:45:21.147 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'm14_10rnd' does not exist!
+SCRIPT       : 19:45:21.147 [EXPANSION DEBUG]: ExpansionMarketTraderZone::GetNetworkItemSerialization - WARNING: Attachment 'm14_20rnd' does not exist!
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : [Logout]: New player 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8= with logout time 15
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: AKS74U:29213 (owner SurvivorBase<bb06d010>) - MagazineRepair - RBF_CLO_BU0_MA0<94910a00> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : 19:45:48.359 [EXPANSION DEBUG]: ExpansionQuestPersistentData<adaec220>~ExpansionQuestPersistentData (5)
+SCRIPT       : [Logout]: Player 067Kmbyj25EqrABHe3C8zh-7eNhMJDGmptn5y2ycGg8= finished
+SCRIPT       : [wpnfsm] ValidateAndRepair Attempting to repair: Expansion_MP5SD:29210 (owner SurvivorBase<bb06d010>) - MagazineRepair - RBL_CLO_BU0_MA0<961ca570> - state: 0 != weapon: 1
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+SCRIPT       : DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : 19:48:19.734 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn ExpansionSafeLarge on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.739 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn MediumTent on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.740 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn Shovel on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.741 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn WoodenPlank on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.748 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn ExpansionSafeLarge on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.748 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn WoodenPlank on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.749 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn ExpansionSafeMedium on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.753 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn CombinationLock on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.754 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn MetalWire on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.755 [EXPANSION DEBUG]: ExpansionLootSpawner::Spawn - WARNING: Couldn't spawn Blowtorch on ExpansionAirdropContainerBase_Server<baaa5b30>
+SCRIPT       : 19:48:19.755 [EXPANSION LOG]: ExpansionAirdropContainerBase_Server<baaa5b30> Expansion_InitAirdrop - total weight (kg) 493.09 - nominal fall speed 4.98273 m/s, wind impact strength 0.133909
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeMedicine]: You are using the trial version of the 'Terje Medicine' mod.
+SCRIPT       : [TerjeMedicine]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeRadiation]: You are using the trial version of the 'Terje Radiation' mod.
+SCRIPT       : [TerjeRadiation]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : ExpansionActionOpenTraderMenu::OnStartServer - Start
+SCRIPT       : =============== WARNING ===============
+SCRIPT       : [TerjeSkills]: You are using the trial version of the 'Terje Skills' mod.
+SCRIPT       : [TerjeSkills]: To remove this message and watermark - please buy license on terjehub.com
+SCRIPT       : =======================================
+SCRIPT       : [Logout]: New player ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c= with logout time 15
+SCRIPT       : 19:49:58.556 [EXPANSION DEBUG]: ExpansionQuestPersistentData<8ef44910>~ExpansionQuestPersistentData (4)
+SCRIPT       : [Logout]: Player ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c= finished

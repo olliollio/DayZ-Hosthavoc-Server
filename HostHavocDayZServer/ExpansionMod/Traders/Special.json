@@ -1,0 +1,30 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_SPECIAL",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Grenade",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Explosives_And_Grenades:2"
+    ],
+    "Items": {
+        "expansionammorpg": 2,
+        "nvgoggles": 2,
+        "nvgheadstrap": 2,
+        "ammo_expansion_m203_sticky_smoke_teargas": 2,
+        "battery9v": 2,
+        "expansionlaw": 2,
+        "expansionammolaw": 2,
+        "ammo_expansion_m203_sticky_smoke_white": 2,
+        "expansionrpg7": 2,
+        "ammo_expansion_m203_smoke_teargas": 2,
+        "rangefinder": 2
+    }
+}

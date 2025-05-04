@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<prototype>
+    <groups>
+        <!-- This will remove all objects within a radius of the specified coordinates -->
+        <group name="RemoveTower">
+            <object name="ClearAll">
+                <pos x="3708.66" z="5992.05" y="402.012" a="0" /> <!-- Replace with your tower coordinates -->
+                <scale x="200" /> <!-- Radius to clear objects, adjust as needed -->
+            </object>
+        </group>
+    </groups>
+</prototype>

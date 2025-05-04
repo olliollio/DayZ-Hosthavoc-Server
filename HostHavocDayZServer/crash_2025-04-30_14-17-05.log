@@ -1,0 +1,13 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\crash_2025-04-30_14-17-05.log started at 30.04. 14:17:52
+
+
+
+------------------------------------
+GSP-LDN-25, 30.04 2025 14:17:52
+Can't compile mission init script'!
+
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c(44): Unknown type 'ObjectHider'
+
+Runtime mode
+CLI params: port 2302 config serverDZ_By_HostHavoc.cfg profiles C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer servermod  mod @CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ;@DZR Rags by hands;@Nomadbackpack;@Nomad Backpack Crafting Addon;@GarbageSearch;@GarbageSearchFix;@Trolley Kart UPDATED;@DayZ-Expansion-Core;@DayZ-Expansion-Animations;@DayZ-Expansion-Vehicles;@Trolley Kopter;@BLR_Player_Slots;@InventorySlotsHotfix;@BoomLay's Craftables;@AmmoStackBullet;@FarmingPlus 20;@Cold War Uniforms Project Iron 

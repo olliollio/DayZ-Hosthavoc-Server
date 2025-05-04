@@ -1,0 +1,45 @@
+{
+    "m_Version": 12,
+    "DisplayName": "#STR_EXPANSION_MARKET_TRADER_WEAPONS",
+    "MinRequiredReputation": 0,
+    "MaxRequiredReputation": 2147483647,
+    "RequiredFaction": "",
+    "RequiredCompletedQuestID": -1,
+    "TraderIcon": "Shotgun",
+    "Currencies": [
+        "expansionbanknotehryvnia"
+    ],
+    "DisplayCurrencyValue": 1,
+    "DisplayCurrencyName": "",
+    "Categories": [
+        "Assault_Rifles:2",
+        "Paragon_Optics:2",
+        "Submachine_Guns:2",
+        "Rifles:2",
+        "Pistols:2",
+        "Sniper_Rifles:2",
+        "Shotguns:2",
+        "Launchers:2",
+        "Crossbows:2",
+        "Melee_Weapons:2",
+        "Ammo:2",
+        "Ammo_Boxes:2",
+        "Knifes:2",
+        "Magazines:2",
+        "Muzzles:2",
+        "Bayonets:2",
+        "Optics:2",
+        "Buttstocks:2",
+        "Handguards:2"
+    ],
+    "Items": {
+        "expansionammorpg": 3,
+        "ammo_expansion_m203_sticky_smoke_teargas": 3,
+        "tlrlight": 3,
+        "ammo_expansion_m203_smoke_teargas": 3,
+        "expansion_ammo_taser": 3,
+        "universallight": 3,
+        "expansionammolaw": 3,
+        "ammo_expansion_m203_sticky_smoke_white": 3
+    }
+}

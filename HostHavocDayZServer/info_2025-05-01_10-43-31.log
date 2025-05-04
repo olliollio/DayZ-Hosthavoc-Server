@@ -1,0 +1,49 @@
+---------------------------------------------
+Log info_2025-05-01_10-43-31.log started at 2025-05-01 10:44:16
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-01 10:44:16
+
+[Expansion Quests] Adding quest NPC with ID 1 from loaded file QuestNPC_1.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-01 10:44:16
+
+[Expansion Quests] Adding quest NPC with ID 2 from loaded file QuestNPC_2.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-01 10:44:16
+
+[Expansion Quests] Adding quest NPC with ID 3 from loaded file QuestNPC_3.json
+Class:      'ExpansionQuestModule'
+
+
+
+------------------------------------
+GSP-LDN-25, 2025-05-01 11:09:07
+
+[wpnfsm] ValidateAndRepair Attempting to repair: ASC_HoneyBadger_Black:16792 (owner SurvivorBase<52b139d0>) - MagazineRepair - RBL_CLO_BU1_MA1<3b1a5e0> - state: 1 != weapon: 0
+Class:      'WeaponFSM'
+
+Function: 'ValidateAndRepairHelper'
+Stack trace:
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\firearms\weaponfsm.c:30
+scripts/4_World/entities\firearms\weaponfsm.c:477
+scripts/4_World/entities\firearms\weaponfsm.c:455
+scripts/4_World/entities\firearms\weapon_base.c:1064
+scripts/4_World/entities\firearms\weapon_base.c:1074
+scripts/4_World/entities\itembase.c:1295
+scripts/4_World/entities\firearms\weapon_base.c:1148
+scripts/3_Game/entities\entityai.c:959
+scripts/4_World/entities\itembase.c:1054
+DayZExpansion/Core/Scripts/4_World/dayzexpansion_core\entities\itembase.c:895
+DayZExpansion/Market/Scripts/4_World/dayzexpansion_market\entities\itembase.c:28
+scripts/4_World/entities\firearms\weapon_base.c:1107

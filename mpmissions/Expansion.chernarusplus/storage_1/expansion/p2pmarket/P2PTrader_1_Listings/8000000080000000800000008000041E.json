@@ -1,0 +1,25 @@
+{
+    "m_Version": 1,
+    "m_ClassName": "ZSh3PilotHelmet_Black",
+    "m_SkinName": "",
+    "m_HealthLevel": 0,
+    "m_Quantity": 0.30000001192092898,
+    "m_QuantityType": 64,
+    "m_LiquidType": -1,
+    "m_IsBloodContainer": 0,
+    "m_FoodStageType": -1,
+    "m_Rarity": 5,
+    "m_ContainerItemsCount": 0,
+    "m_ContainerItems": [],
+    "m_GlobalID": [
+        -2147483648,
+        -2147483648,
+        -2147483648,
+        -2147482594
+    ],
+    "m_OwnerUID": "ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=",
+    "m_Price": 100,
+    "m_ListingTime": 1746287379,
+    "m_ListingState": 1,
+    "m_OwnerName": "Monk"
+}

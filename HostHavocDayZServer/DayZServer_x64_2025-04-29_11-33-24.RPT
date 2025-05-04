@@ -1,0 +1,2235 @@
+=====================================================================
+== C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe
+== "C:\TCAFiles\Users\mark17\199943\DayZServer_x64.exe" -port=2302 -config=serverDZ_By_HostHavoc.cfg -profiles=C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer "-servermod=" "-mod=@CF;@Dabs Framework;@Community-Online-Tools;@DayZ-Expansion-Bundle;@DayZ-Expansion-Licensed;@Early Winter or late Fall in Chernarus;@TerjeCore;@TerjeSkills;@TerjeMedicine;@TerjeRadiation;@TerjeCompatibilityCOT;@ShakeForFruit;@Zeroy-FishingZ"
+=====================================================================
+Exe timestamp: 2025/04/16 01:02:17
+Current time:  2025/04/29 11:33:31
+Version 1.27.159674
+=====================================================================
+
+11:33:31.387 [Inputs] Loading inputs default "bin/constants.xml"
+11:33:31.391 [Inputs] Loading inputs default "bin/specific.xml"
+11:33:31.392 [Inputs] Loading inputs default "JM/COT/Scripts/Data/Inputs.xml"
+11:33:31.394 [Inputs] Loading inputs default "DayZExpansion/Groups/Scripts/Data/Inputs.xml"
+11:33:31.394 [Inputs] Loading inputs default "DayZExpansion/Navigation/Scripts/Data/Inputs.xml"
+11:33:31.394 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+11:33:31.394 [Inputs] Loading inputs default "DayZExpansion/PlayerList/Scripts/Data/Inputs.xml"
+11:33:31.394 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+11:33:31.394 [Inputs] Loading inputs default "DayZExpansion/Scripts/Data/Inputs.xml"
+11:33:31.394 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+11:33:31.395 [Inputs] Loading inputs default "DayZExpansion/Vehicles/Scripts/Data/Inputs.xml"
+11:33:31.395 [Inputs] Loading inputs default "DayZExpansion/AI/Scripts/inputs.xml"
+11:33:31.396 [Inputs] Loading inputs default "DayZExpansion/BaseBuilding/Scripts/Data/Inputs.xml"
+11:33:31.396 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+11:33:31.396 [Inputs] Loading inputs default "DayZExpansion/Book/Scripts/Data/Inputs.xml"
+11:33:31.396 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+11:33:31.396 [Inputs] Loading inputs default "DayZExpansion/Chat/Scripts/Data/Inputs.xml"
+11:33:31.397 !!! [Inputs] Attempt to register duplicate exclusion group "chatexpansion"
+11:33:31.397 [Inputs] Loading inputs default "DayZExpansion/Quests/Scripts/Data/Inputs.xml"
+11:33:31.397 [Inputs] Loading inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+11:33:31.402 [Inputs] Exporting inputs cfg "C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\Users\Survivor\Server.core.xml"
+11:33:59.761 Hostname of server: "Olli and Monk Hardcore Test"
+11:34:21.76 [CE][Hive] :: Initializing OFFLINE
+11:34:21.77 [StorageDirs] :: Selected storage directory: C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\
+11:34:21.77 [CE][Hive] :: Loading core data ... 
+11:34:21.78 [CE][CoreData] :: 8 root classes, 18 defaults, 0 updaters...
+11:34:28.74 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+11:34:28.77 [CE][TypeSetup] :: 561 classes setuped...
+11:34:28.82 [CE] :: WARNING :: Preset map "optics" is EMPTY.
+11:34:28.83 [CE][TypeSetup] :: 96 classes setuped...
+11:34:30.107 [CE][RegisterBind] :: 0 classes binded...
+11:34:30.107 [CE][RegisterConfig] :: 12853 config classes registered, 0 sub-counters...
+11:34:30.107 [CE][Hive] :: Loading map data ... 
+11:34:30.108 [CE][IgnoreList] "cfgignorelist.xml" :: loaded 19 types
+11:34:30.154 [CE][LoadPrototype] :: loaded 426 prototypes
+11:34:30.154   822 containers, 10876 points
+11:34:30.154   71 dispatches, 250 proxies
+11:34:30.154 !!! [CE][LoadPrototype] 5 groups have no points...
+11:34:30.154 [CE][LoadPrototype] :: last group name: StaticObj_Misc_SupplyBox3_DE...
+11:34:30.161 [CE][LoadPrototype] :: loaded 0 prototypes
+11:34:30.161   55 containers, 232 points
+11:34:30.161   0 dispatches, 0 proxies
+11:34:30.161 [CE][LoadPrototype] :: last group name: Rail9...
+11:34:31.120 [CE][LoadMap] "Group" :: loaded 11680 groups, groups failed: 0, largest group range: 34.2
+11:34:31.125 [CE][LoadMap] "Dirt" :: loaded 0 groups, groups failed: 0, largest group range: 34.2
+11:34:31.634 [CE][Links] found 1950 total links between groups, of 11680
+11:34:31.634 [CE][LoadClusters] "Cluster" :: Loading files...
+11:34:31.804 [CE][LoadClusters] :: file: "mapgroupcluster.xml", 9 types, 50000 instances
+11:34:31.996 [CE][LoadClusters] :: file: "mapgroupcluster01", 9 types, 50000 instances
+11:34:32.193 [CE][LoadClusters] :: file: "mapgroupcluster02", 9 types, 50000 instances
+11:34:32.390 [CE][LoadClusters] :: file: "mapgroupcluster03", 9 types, 50000 instances
+11:34:32.462 [CE][LoadClusters] :: file: "mapgroupcluster04", 9 types, 17373 instances
+11:34:32.468 [CE][Storage] ver:21 stamp:506, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.bin"
+11:34:32.469 [CE][Storage] ver:21 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.001"
+11:34:32.469 [CE][Storage] ver:21 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.002"
+11:34:32.469 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\types.002".
+11:34:32.671 !!! [CE][offlineDB] :: No Shutdown message present.
+11:34:32.674 [CE][offlineDB] :: Loaded 50 dynamic events 235 total types.
+11:34:32.675 !!! [CE][DE] (VehicleTruck01) :: Unable to create child (Truck_01_Covered_Grey) as the type does not exist.
+11:34:32.676 [CE][offlineDB] :: Loaded 61 dynamic events 299 total types.
+11:34:32.694 !!! [CE][offlineDB] :: Type 'ChristmasTree' will be ignored. (Not spawnable. (Scope is not public?))
+11:34:32.695 !!! [CE][offlineDB] :: Type 'Static_FrozenScientist_DE' will be ignored. (Type does not exist. (Typo?))
+11:34:32.705 !!! [CE][offlineDB] :: Type 'Expansion_M79' will be ignored. (Not spawnable. (Scope is not public?))
+11:34:32.705 !!! [CE][offlineDB] :: Type 'ExpansionFlaregun' will be ignored. (Not spawnable. (Scope is not public?))
+11:34:32.705 !!! [CE][offlineDB] :: Type 'Expansion_Longhorn' will be ignored. (Type does not exist. (Typo?))
+11:34:32.845 !!! [CE][DE][SPAWNS] :: [WARNING] :: Skipping entry for non-existing event 'VehicleTransitBus'.
+11:34:32.845 [CE][DE][SPAWNS] :: Total positions: 1096
+11:34:32.845 [CE][DE][GROUPS] :: Total eventgroups defined: 83, Eventgroups in use: 83
+11:34:32.846 [CE][Storage] ver:25 stamp:506, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.bin"
+11:34:32.847 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.001"
+11:34:32.847 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.002"
+11:34:32.847 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\events.002".
+11:34:32.847 [CE][DynamicEvent] Load  Events:[61] Primary spawners: 61 Secondary spawners: 4
+11:34:32.848 [CE][Storage] ver:25 stamp:506, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.bin"
+11:34:32.849 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.001"
+11:34:32.850 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002"
+11:34:32.850 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_000.002" 883 items.
+11:34:34.387   883 items loaded. (0 failed)
+11:34:34.387 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin"
+11:34:34.388 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.001"
+11:34:34.390 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.002"
+11:34:34.390 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_001.bin" 1841 items.
+11:34:37.138   1841 items loaded. (0 failed)
+11:34:37.138 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin"
+11:34:37.139 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.001"
+11:34:37.140 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.002"
+11:34:37.140 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_002.bin" 2579 items.
+11:34:40.693   2579 items loaded. (0 failed)
+11:34:40.694 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin"
+11:34:40.695 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.001"
+11:34:40.695 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.002"
+11:34:40.695 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_003.bin" 2185 items.
+11:34:43.920   2185 items loaded. (0 failed)
+11:34:43.921 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin"
+11:34:43.922 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.001"
+11:34:43.922 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.002"
+11:34:43.923 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_004.bin" 1937 items.
+11:34:46.760   1937 items loaded. (0 failed)
+11:34:46.761 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin"
+11:34:46.762 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.001"
+11:34:46.763 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.002"
+11:34:46.763 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_005.bin" 2267 items.
+11:34:50.93   2267 items loaded. (0 failed)
+11:34:50.94 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin"
+11:34:50.95 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.001"
+11:34:50.95 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.002"
+11:34:50.95 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_006.bin" 1577 items.
+11:34:52.502   1577 items loaded. (0 failed)
+11:34:52.502 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin"
+11:34:52.503 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.001"
+11:34:52.504 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.002"
+11:34:52.504 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_007.bin" 1540 items.
+11:34:54.913   1540 items loaded. (0 failed)
+11:34:54.914 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin"
+11:34:54.915 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.001"
+11:34:54.915 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.002"
+11:34:54.916 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_008.bin" 2256 items.
+11:34:58.488   2256 items loaded. (0 failed)
+11:34:58.489 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin"
+11:34:58.490 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.001"
+11:34:58.491 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.002"
+11:34:58.491 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_009.bin" 2809 items.
+11:35:03.147   2809 items loaded. (0 failed)
+11:35:03.148 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin"
+11:35:03.149 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.001"
+11:35:03.149 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.002"
+11:35:03.149 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_010.bin" 1912 items.
+11:35:06.416   1912 items loaded. (0 failed)
+11:35:06.416 [CE][Storage] ver:25 stamp:509, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin"
+11:35:06.417 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.001"
+11:35:06.418 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.002"
+11:35:06.418 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\dynamic_011.bin" 192 items.
+11:35:06.742   192 items loaded. (0 failed)
+11:35:06.743 [CE][Storage] ver:26 stamp:506, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.bin"
+11:35:06.743 [CE][Storage] ver:26 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.001"
+11:35:06.744 [CE][Storage] ver:26 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.002"
+11:35:06.744 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\building.002" 0 items.
+11:35:06.744   0 items loaded. (0 failed)
+11:35:06.745 [CE][Storage] ver:25 stamp:506, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.bin"
+11:35:06.745 [CE][Storage] ver:25 stamp:507, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.001"
+11:35:06.746 [CE][Storage] ver:25 stamp:508, valid:yes, name:"C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002"
+11:35:06.746 [CE][Storage] Restoring file "C:\TCAFiles\Users\mark17\199943\mpmissions\Expansion.chernarusplus\storage_1\data\vehicles.002" 314 items.
+11:35:08.364   314 items loaded. (0 failed)
+11:35:08.431 [CE][Hive] :: Storage load took:35.58 seconds, recovery stamp:509
+11:35:08.431   entity: 23989, building: 0
+11:35:08.431   no lifetime: 95
+11:35:08.431   pathgraph's: 607
+11:35:08.432 [CE][Hive] :: Initializing ... 
+11:35:08.905 [CE][InitializeMap] :: initialized: 0
+11:35:08.905 [CE][Hive] :: Initializing spawners ... 
+11:35:09.75 [CE][LootRespawner] (PRIDummy) :: Initially (re)spawned:0, Nominal:22857, Total in Map: 22196 at 0 (sec)
+11:35:09.75   tests:0, repeats:0 fails:0, overtime:0
+11:35:09.79 [CE][DynEvent] :: 61 types
+11:35:09.79 [00] AmbientFox
+11:35:09.79   Primary Spawner: "Ambient", active: yes, repeat: 1
+11:35:09.79 [01] AmbientHare
+11:35:09.79   Primary Spawner: "Ambient", active: yes, repeat: 1
+11:35:09.80 [02] AmbientHen
+11:35:09.80   Primary Spawner: "Ambient", active: yes, repeat: 1
+11:35:09.80 [03] AnimalBear
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [04] AnimalCow
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [05] AnimalDeer
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [06] AnimalGoat
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [07] AnimalPig
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [08] AnimalRoeDeer
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [09] AnimalSheep
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [10] AnimalWildBoar
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [11] AnimalWolf
+11:35:09.80   Primary Spawner: "Animal", active: yes, repeat: 1
+11:35:09.80 [12] InfectedArmy
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [13] InfectedArmyHard
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [14] InfectedCity
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [15] InfectedCityTier1
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [16] InfectedFirefighter
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [17] InfectedIndustrial
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [18] InfectedMedic
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [19] InfectedNBC
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [20] InfectedPolice
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [21] InfectedPoliceHard
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [22] InfectedPrisoner
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [23] InfectedReligious
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [24] InfectedSanta
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [25] InfectedSolitude
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [26] InfectedVillage
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [27] InfectedVillageTier1
+11:35:09.80   Primary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [28] ItemPlanks
+11:35:09.80   Primary Spawner: "Item", active: yes, repeat: 1
+11:35:09.80 [29] Loot
+11:35:09.80   Primary Spawner: "Loot", active: yes, repeat: 2
+11:35:09.80 [30] StaticAirplaneCrate
+11:35:09.80   Primary Spawner: "Static", active: yes, repeat: 1
+11:35:09.80 [31] StaticContaminatedArea
+11:35:09.80   Primary Spawner: "Static", active: yes, repeat: 1
+11:35:09.80 [32] StaticHeliCrash
+11:35:09.80   Primary Spawner: "Static", active: yes, repeat: 1
+11:35:09.80   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [33] StaticMilitaryConvoy
+11:35:09.80   Primary Spawner: "Static", active: yes, repeat: 1
+11:35:09.80   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [34] StaticPoliceSituation
+11:35:09.80   Primary Spawner: "Static", active: yes, repeat: 1
+11:35:09.80   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [35] StaticTrain
+11:35:09.80   Primary Spawner: "Static", active: yes, repeat: 1
+11:35:09.80   Secondary Spawner: "Infected", active: yes, repeat: 1
+11:35:09.80 [36] TrajectoryApple
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [37] TrajectoryConiferous
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [38] TrajectoryDeciduous
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [39] TrajectoryHumus
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [40] TrajectoryPear
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [41] TrajectoryPlum
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [42] TrajectoryStones
+11:35:09.80   Primary Spawner: "Trajectory", active: yes, repeat: 1
+11:35:09.80 [43] VehicleBoat
+11:35:09.80   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.80 [44] VehicleCivilianSedan
+11:35:09.80   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.80 [45] VehicleHatchback02
+11:35:09.80   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.80 [46] VehicleOffroad02
+11:35:09.80   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.80 [47] VehicleOffroadHatchback
+11:35:09.80   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.80 [48] VehicleSedan02
+11:35:09.80   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.80 [49] VehicleTruck01
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [50] VehicleUAZ
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [51] VehicleVodnik
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [52] VehicleBus
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [53] VehicleTractor
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [54] VehicleLandRover
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [55] VehicleMH6Helicopter
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [56] VehicleMerlinHelicopter
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [57] VehicleUh1hHelicopter
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [58] VehicleUtilityBoat
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [59] VehicleZodiacBoat
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [60] VehicleGyroHelicopter
+11:35:09.81   Primary Spawner: "Vehicle", active: yes, repeat: 1
+11:35:09.81 [CE][Hive] :: Initializing of spawners done.
+11:35:09.95 [CE][Hive] :: Init sequence finished.
+11:35:09.95 Player connect enabled
+11:35:09.296 [Login]: Adding player Monk (45411314) to login queue at position 0
+11:35:09.296 [LoginMachine]: Add player Monk (45411314 86.3.54.200:51188)
+11:35:09.296 [StateMachine]: Player Monk (dpnid 45411314 uid ) Entering AuthPlayerLoginState
+11:35:09.296 Average server FPS: 0.06 (measured interval: 1 s)
+11:35:09.296 Used memory: 2520708 KB
+11:35:09.296 Players: 1 in total
+11:35:12.224 [IdleMode] Entering IN - save processed
+11:35:12.231 Average server FPS: 0.34 (measured interval: 1 s)
+11:35:12.231 Used memory: 2542208 KB
+11:35:12.231 Players: 1 in total
+11:35:12.493 [StateMachine]: Player Monk (dpnid 45411314 uid ) Entering WaitAuthPlayerLoginState
+11:35:13.400 Average server FPS: 3.42 (measured interval: 1 s)
+11:35:13.400 Used memory: 2558171 KB
+11:35:13.400 Players: 1 in total
+11:35:14.459 Average server FPS: 8.50 (measured interval: 1 s)
+11:35:14.459 Used memory: 2573542 KB
+11:35:14.459 Players: 1 in total
+11:35:14.990 [IdleMode] Leaving OUT
+11:35:15.498 Average server FPS: 12.51 (measured interval: 1 s)
+11:35:15.498 Used memory: 2604200 KB
+11:35:15.498 Players: 1 in total
+11:35:15.581 Player Monk (id=ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) has connected.
+11:35:15.581 Player "Monk"(steamID=76561199127658712) is connected
+11:35:15.719 [StateMachine]: Player Monk (dpnid 45411314 uid ) Entering WaitPlayerAssignedLoginState
+11:35:16.505 Average server FPS: 16.88 (measured interval: 1 s)
+11:35:16.505 Used memory: 2622484 KB
+11:35:16.505 Players: 1 in total
+11:35:17.302 [StateMachine]: Player Monk (dpnid 45411314 uid ) Entering PlayerAssignedLoginState
+11:35:17.380 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering DBGetLoginTimeLoginState
+11:35:17.424 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering DBWaitLoginTimeLoginState
+11:35:17.511 Average server FPS: 98.41 (measured interval: 1 s)
+11:35:17.511 Used memory: 2622392 KB
+11:35:17.511 Players: 1 in total
+11:35:18.511 Average server FPS: 330.00 (measured interval: 1 s)
+11:35:18.511 Used memory: 2622440 KB
+11:35:18.511 Players: 1 in total
+11:35:19.511 Average server FPS: 1153.00 (measured interval: 1 s)
+11:35:19.511 Used memory: 2622466 KB
+11:35:19.511 Players: 1 in total
+11:35:20.511 Average server FPS: 1044.00 (measured interval: 1 s)
+11:35:20.511 Used memory: 2622714 KB
+11:35:20.511 Players: 1 in total
+11:35:21.512 Average server FPS: 791.00 (measured interval: 1 s)
+11:35:21.512 Used memory: 2624876 KB
+11:35:21.512 Players: 1 in total
+11:35:22.512 Average server FPS: 320.00 (measured interval: 1 s)
+11:35:22.512 Used memory: 2630916 KB
+11:35:22.512 Players: 1 in total
+11:35:23.512 Average server FPS: 716.28 (measured interval: 1 s)
+11:35:23.512 Used memory: 2630935 KB
+11:35:23.512 Players: 1 in total
+11:35:24.512 Average server FPS: 921.00 (measured interval: 1 s)
+11:35:24.512 Used memory: 2630959 KB
+11:35:24.512 Players: 1 in total
+11:35:25.512 Average server FPS: 363.00 (measured interval: 1 s)
+11:35:25.512 Used memory: 2631508 KB
+11:35:25.512 Players: 1 in total
+11:35:26.512 Average server FPS: 694.00 (measured interval: 1 s)
+11:35:26.512 Used memory: 2631527 KB
+11:35:26.512 Players: 1 in total
+11:35:27.512 Average server FPS: 832.00 (measured interval: 1 s)
+11:35:27.512 Used memory: 2631728 KB
+11:35:27.512 Players: 1 in total
+11:35:28.512 Average server FPS: 1188.00 (measured interval: 1 s)
+11:35:28.512 Used memory: 2632800 KB
+11:35:28.512 Players: 1 in total
+11:35:29.511 Average server FPS: 1317.00 (measured interval: 1 s)
+11:35:29.511 Used memory: 2632842 KB
+11:35:29.511 Players: 1 in total
+11:35:30.512 Average server FPS: 1058.00 (measured interval: 1 s)
+11:35:30.512 Used memory: 2633039 KB
+11:35:30.512 Players: 1 in total
+11:35:31.511 Average server FPS: 624.00 (measured interval: 1 s)
+11:35:31.511 Used memory: 2633168 KB
+11:35:31.511 Players: 1 in total
+11:35:32.426 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering DBGetCharacterLoginState
+11:35:32.437 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering CreateNetObjectsLoginState
+11:35:32.443 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering PreloadCamLoginState
+11:35:32.446 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering WaitPreloadCamLoginState
+11:35:32.513 Average server FPS: 1051.95 (measured interval: 1 s)
+11:35:32.513 Used memory: 2636792 KB
+11:35:32.513 Players: 1 in total
+11:35:33.514 Average server FPS: 508.49 (measured interval: 1 s)
+11:35:33.514 Used memory: 2638301 KB
+11:35:33.514 Players: 1 in total
+11:35:34.514 Average server FPS: 1169.00 (measured interval: 1 s)
+11:35:34.514 Used memory: 2638735 KB
+11:35:34.514 Players: 1 in total
+11:35:35.513 Average server FPS: 1029.00 (measured interval: 1 s)
+11:35:35.513 Used memory: 2638868 KB
+11:35:35.513 Players: 1 in total
+11:35:36.513 Average server FPS: 1199.00 (measured interval: 1 s)
+11:35:36.513 Used memory: 2638894 KB
+11:35:36.513 Players: 1 in total
+11:35:37.522 Average server FPS: 1323.41 (measured interval: 1 s)
+11:35:37.522 Used memory: 2639684 KB
+11:35:37.522 Players: 1 in total
+11:35:37.567 [CE][LootRespawner] (PRIDummy) :: Item [0] causing search overtime: "ExpansionHescoKit"
+11:35:37.767 [CE][LootRespawner] (PRIDummy) :: Item [1] causing search overtime: "ExpansionCamoTentKit"
+11:35:37.867 [CE][LootRespawner] (PRIDummy) :: Item [2] causing search overtime: "ExpansionCamoBoxKit"
+11:35:37.966 [CE][LootRespawner] (PRIDummy) :: Item [3] causing search overtime: "LandMineTrap"
+11:35:38.71 [CE][LootRespawner] (PRIDummy) :: Item [4] causing search overtime: "AK74"
+11:35:38.168 [CE][LootRespawner] (PRIDummy) :: Item [5] causing search overtime: "FlashGrenade"
+11:35:38.269 [CE][LootRespawner] (PRIDummy) :: Item [6] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:35:38.369 [CE][LootRespawner] (PRIDummy) :: Item [7] causing search overtime: "M18SmokeGrenade_Green"
+11:35:38.469 [CE][LootRespawner] (PRIDummy) :: Item [8] causing search overtime: "Mag_SSG82_5rnd"
+11:35:38.522 Average server FPS: 645.00 (measured interval: 1 s)
+11:35:38.522 Used memory: 2639909 KB
+11:35:38.522 Players: 1 in total
+11:35:38.569 [CE][LootRespawner] (PRIDummy) :: Item [9] causing search overtime: "Mag_MP5_30Rnd"
+11:35:38.669 [CE][LootRespawner] (PRIDummy) :: Item [10] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:35:38.771 [CE][LootRespawner] (PRIDummy) :: Item [11] causing search overtime: "Mag_MP5_15Rnd"
+11:35:38.869 [CE][LootRespawner] (PRIDummy) :: Item [12] causing search overtime: "SSG82"
+11:35:38.969 [CE][LootRespawner] (PRIDummy) :: Item [13] causing search overtime: "Fal_OeBttstck"
+11:35:39.169 [CE][LootRespawner] (PRIDummy) :: Item [14] causing search overtime: "AK_Bayonet"
+11:35:39.369 [CE][LootRespawner] (PRIDummy) :: Item [15] causing search overtime: "M18SmokeGrenade_Purple"
+11:35:39.470 [CE][LootRespawner] (PRIDummy) :: Item [16] causing search overtime: "Mp133Shotgun"
+11:35:39.522 Average server FPS: 1098.00 (measured interval: 1 s)
+11:35:39.522 Used memory: 2641349 KB
+11:35:39.522 Players: 1 in total
+11:35:40.522 Average server FPS: 814.00 (measured interval: 1 s)
+11:35:40.522 Used memory: 2645764 KB
+11:35:40.522 Players: 1 in total
+11:35:41.521 Average server FPS: 1127.00 (measured interval: 1 s)
+11:35:41.521 Used memory: 2647757 KB
+11:35:41.521 Players: 1 in total
+11:35:42.522 Average server FPS: 1254.00 (measured interval: 1 s)
+11:35:42.522 Used memory: 2648186 KB
+11:35:42.522 Players: 1 in total
+11:35:43.571 Average server FPS: 761.68 (measured interval: 1 s)
+11:35:43.571 Used memory: 2648199 KB
+11:35:43.571 Players: 1 in total
+11:35:44.571 Average server FPS: 1215.00 (measured interval: 1 s)
+11:35:44.571 Used memory: 2648244 KB
+11:35:44.571 Players: 1 in total
+11:35:45.573 Average server FPS: 437.13 (measured interval: 1 s)
+11:35:45.573 Used memory: 2652127 KB
+11:35:45.573 Players: 1 in total
+11:35:46.573 Average server FPS: 519.00 (measured interval: 1 s)
+11:35:46.573 Used memory: 2652537 KB
+11:35:46.573 Players: 1 in total
+11:35:47.572 Average server FPS: 1173.00 (measured interval: 1 s)
+11:35:47.573 Used memory: 2653669 KB
+11:35:47.573 Players: 1 in total
+11:35:48.573 Average server FPS: 1071.00 (measured interval: 1 s)
+11:35:48.573 Used memory: 2654772 KB
+11:35:48.573 Players: 1 in total
+11:35:49.231 [StateMachine]: Player Monk (dpnid 45411314 uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=) Entering GetLoadedCharLoginState
+11:35:49.296 <LOAD EXISTING CHAR>:
+    charID 2
+    playerID 2
+    dpnid 45411314
+    uid ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=
+11:35:49.708 Average server FPS: 446.70 (measured interval: 1 s)
+11:35:49.708 Used memory: 2660646 KB
+11:35:49.708 Players: 1 in total
+11:35:50.710 Average server FPS: 337.33 (measured interval: 1 s)
+11:35:50.710 Used memory: 2661013 KB
+11:35:50.710 Players: 1 in total
+11:35:51.710 Average server FPS: 406.00 (measured interval: 1 s)
+11:35:51.710 Used memory: 2662172 KB
+11:35:51.710 Players: 1 in total
+11:35:52.711 Average server FPS: 219.78 (measured interval: 1 s)
+11:35:52.711 Used memory: 2662283 KB
+11:35:52.711 Players: 1 in total
+11:35:53.716 Average server FPS: 349.25 (measured interval: 1 s)
+11:35:53.716 Used memory: 2662314 KB
+11:35:53.716 Players: 1 in total
+11:35:54.717 Average server FPS: 413.59 (measured interval: 1 s)
+11:35:54.717 Used memory: 2663545 KB
+11:35:54.717 Players: 1 in total
+11:35:55.718 Average server FPS: 770.46 (measured interval: 1 s)
+11:35:55.718 Used memory: 2663913 KB
+11:35:55.718 Players: 1 in total
+11:35:56.719 Average server FPS: 537.46 (measured interval: 1 s)
+11:35:56.719 Used memory: 2663946 KB
+11:35:56.719 Players: 1 in total
+11:35:57.719 Average server FPS: 806.00 (measured interval: 1 s)
+11:35:57.720 Used memory: 2664003 KB
+11:35:57.720 Players: 1 in total
+11:35:58.721 Average server FPS: 633.37 (measured interval: 1 s)
+11:35:58.721 Used memory: 2664312 KB
+11:35:58.721 Players: 1 in total
+11:35:59.734 Average server FPS: 402.76 (measured interval: 1 s)
+11:35:59.734 Used memory: 2665953 KB
+11:35:59.734 Players: 1 in total
+11:36:00.734 Average server FPS: 187.00 (measured interval: 1 s)
+11:36:00.734 Used memory: 2666971 KB
+11:36:00.734 Players: 1 in total
+11:36:01.735 Average server FPS: 343.66 (measured interval: 1 s)
+11:36:01.735 Used memory: 2666977 KB
+11:36:01.735 Players: 1 in total
+11:36:02.752 Average server FPS: 283.89 (measured interval: 1 s)
+11:36:02.752 Used memory: 2671977 KB
+11:36:02.752 Players: 1 in total
+11:36:03.759 Average server FPS: 347.91 (measured interval: 1 s)
+11:36:03.759 Used memory: 2672914 KB
+11:36:03.759 Players: 1 in total
+11:36:04.767 Average server FPS: 283.45 (measured interval: 1 s)
+11:36:04.767 Used memory: 2675951 KB
+11:36:04.768 Players: 1 in total
+11:36:05.192 [CE][LootRespawner] (PRIDummy) :: Item [17] causing search overtime: "Mp133Shotgun"
+11:36:05.278 [CE][LootRespawner] (PRIDummy) :: Item [18] causing search overtime: "Mag_CMAG_30Rnd"
+11:36:05.585 [CE][LootRespawner] (PRIDummy) :: Item [19] causing search overtime: "Mag_AKM_30Rnd"
+11:36:05.689 [CE][LootRespawner] (PRIDummy) :: Item [20] causing search overtime: "NBCJacketGray"
+11:36:05.768 Average server FPS: 261.00 (measured interval: 1 s)
+11:36:05.768 Used memory: 2678988 KB
+11:36:05.768 Players: 1 in total
+11:36:05.790 [CE][LootRespawner] (PRIDummy) :: Item [21] causing search overtime: "SV98"
+11:36:05.992 [CE][LootRespawner] (PRIDummy) :: Item [22] causing search overtime: "ExpansionHescoKit"
+11:36:06.101 [CE][LootRespawner] (PRIDummy) :: Item [23] causing search overtime: "ExpansionCamoTentKit"
+11:36:06.198 [CE][LootRespawner] (PRIDummy) :: Item [24] causing search overtime: "ExpansionCamoBoxKit"
+11:36:06.299 [CE][LootRespawner] (PRIDummy) :: Item [25] causing search overtime: "LandMineTrap"
+11:36:06.399 [CE][LootRespawner] (PRIDummy) :: Item [26] causing search overtime: "FlashGrenade"
+11:36:06.500 [CE][LootRespawner] (PRIDummy) :: Item [27] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:36:06.602 [CE][LootRespawner] (PRIDummy) :: Item [28] causing search overtime: "AK74"
+11:36:06.700 [CE][LootRespawner] (PRIDummy) :: Item [29] causing search overtime: "M18SmokeGrenade_Green"
+11:36:06.768 Average server FPS: 328.00 (measured interval: 1 s)
+11:36:06.768 Used memory: 2681407 KB
+11:36:06.768 Players: 1 in total
+11:36:06.800 [CE][LootRespawner] (PRIDummy) :: Item [30] causing search overtime: "Mag_MP5_30Rnd"
+11:36:06.902 [CE][LootRespawner] (PRIDummy) :: Item [31] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:36:07.03 [CE][LootRespawner] (PRIDummy) :: Item [32] causing search overtime: "Mag_MP5_15Rnd"
+11:36:07.101 [CE][LootRespawner] (PRIDummy) :: Item [33] causing search overtime: "Mag_SSG82_5rnd"
+11:36:07.769 Average server FPS: 245.75 (measured interval: 1 s)
+11:36:07.769 Used memory: 2687606 KB
+11:36:07.769 Players: 1 in total
+11:36:08.516 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 0
+11:36:08.769 Average server FPS: 252.00 (measured interval: 1 s)
+11:36:08.769 Used memory: 2688210 KB
+11:36:08.769 Players: 1 in total
+11:36:08.822 [CE][Links] found 0 total links between groups, of 1
+11:36:08.822 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+11:36:08.831 [CE][Links] found 0 total links between groups, of 2
+11:36:08.832 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 12, deloot: 2, containermaxsum: 15
+11:36:08.845 [CE][Links] found 0 total links between groups, of 3
+11:36:08.845 [CE][SpawnRandomLoot] (StaticHeliCrash) :: Type: Wreck_UH1Y, lootmin: 10, lootmax: 15, wanted: 10, deloot: 2, containermaxsum: 15
+11:36:09.769 Average server FPS: 418.00 (measured interval: 1 s)
+11:36:09.769 Used memory: 2691494 KB
+11:36:09.769 Players: 1 in total
+11:36:10.768 Average server FPS: 600.00 (measured interval: 1 s)
+11:36:10.768 Used memory: 2691565 KB
+11:36:10.768 Players: 1 in total
+11:36:11.820 Average server FPS: 403.43 (measured interval: 1 s)
+11:36:11.820 Used memory: 2693787 KB
+11:36:11.820 Players: 1 in total
+11:36:12.820 Average server FPS: 304.00 (measured interval: 1 s)
+11:36:12.820 Used memory: 2694593 KB
+11:36:12.820 Players: 1 in total
+11:36:13.820 Average server FPS: 338.66 (measured interval: 1 s)
+11:36:13.821 Used memory: 2697749 KB
+11:36:13.821 Players: 1 in total
+11:36:14.820 Average server FPS: 604.00 (measured interval: 1 s)
+11:36:14.820 Used memory: 2697877 KB
+11:36:14.820 Players: 1 in total
+11:36:15.821 Average server FPS: 603.00 (measured interval: 1 s)
+11:36:15.821 Used memory: 2698969 KB
+11:36:15.821 Players: 1 in total
+11:36:16.822 Average server FPS: 493.51 (measured interval: 1 s)
+11:36:16.822 Used memory: 2701655 KB
+11:36:16.822 Players: 1 in total
+11:36:17.823 Average server FPS: 412.59 (measured interval: 1 s)
+11:36:17.823 Used memory: 2704617 KB
+11:36:17.823 Players: 1 in total
+11:36:18.823 Average server FPS: 331.00 (measured interval: 1 s)
+11:36:18.823 Used memory: 2708878 KB
+11:36:18.823 Players: 1 in total
+11:36:19.826 Average server FPS: 491.53 (measured interval: 1 s)
+11:36:19.826 Used memory: 2712282 KB
+11:36:19.826 Players: 1 in total
+11:36:20.832 Average server FPS: 415.51 (measured interval: 1 s)
+11:36:20.832 Used memory: 2714603 KB
+11:36:20.832 Players: 1 in total
+11:36:21.832 Average server FPS: 651.00 (measured interval: 1 s)
+11:36:21.832 Used memory: 2717845 KB
+11:36:21.832 Players: 1 in total
+11:36:22.832 Average server FPS: 630.00 (measured interval: 1 s)
+11:36:22.832 Used memory: 2719163 KB
+11:36:22.832 Players: 1 in total
+11:36:23.849 Average server FPS: 772.86 (measured interval: 1 s)
+11:36:23.849 Used memory: 2721794 KB
+11:36:23.849 Players: 1 in total
+11:36:24.851 Average server FPS: 575.85 (measured interval: 1 s)
+11:36:24.851 Used memory: 2721858 KB
+11:36:24.851 Players: 1 in total
+11:36:25.855 Average server FPS: 464.14 (measured interval: 1 s)
+11:36:25.855 Used memory: 2722537 KB
+11:36:25.855 Players: 1 in total
+11:36:26.856 Average server FPS: 685.63 (measured interval: 1 s)
+11:36:26.856 Used memory: 2722762 KB
+11:36:26.856 Players: 1 in total
+11:36:27.865 Average server FPS: 817.46 (measured interval: 1 s)
+11:36:27.865 Used memory: 2722776 KB
+11:36:27.865 Players: 1 in total
+11:36:28.864 Average server FPS: 832.00 (measured interval: 1 s)
+11:36:28.865 Used memory: 2722803 KB
+11:36:28.865 Players: 1 in total
+11:36:29.865 Average server FPS: 454.00 (measured interval: 1 s)
+11:36:29.865 Used memory: 2724561 KB
+11:36:29.865 Players: 1 in total
+11:36:30.867 Average server FPS: 464.07 (measured interval: 1 s)
+11:36:30.867 Used memory: 2724957 KB
+11:36:30.867 Players: 1 in total
+11:36:31.867 Average server FPS: 969.00 (measured interval: 1 s)
+11:36:31.867 Used memory: 2724980 KB
+11:36:31.867 Players: 1 in total
+11:36:32.315 [CE][LootRespawner] (PRIDummy) :: Item [34] causing search overtime: "Mag_SSG82_5rnd"
+11:36:32.414 [CE][LootRespawner] (PRIDummy) :: Item [35] causing search overtime: "SSG82"
+11:36:32.615 [CE][LootRespawner] (PRIDummy) :: Item [36] causing search overtime: "Fal_OeBttstck"
+11:36:32.717 [CE][LootRespawner] (PRIDummy) :: Item [37] causing search overtime: "AK_Bayonet"
+11:36:32.816 [CE][LootRespawner] (PRIDummy) :: Item [38] causing search overtime: "M18SmokeGrenade_Purple"
+11:36:32.867 Average server FPS: 703.00 (measured interval: 1 s)
+11:36:32.867 Used memory: 2725394 KB
+11:36:32.867 Players: 1 in total
+11:36:33.214 [CE][LootRespawner] (PRIDummy) :: Item [39] causing search overtime: "ExpansionHescoKit"
+11:36:33.317 [CE][LootRespawner] (PRIDummy) :: Item [40] causing search overtime: "ExpansionCamoTentKit"
+11:36:33.414 [CE][LootRespawner] (PRIDummy) :: Item [41] causing search overtime: "ExpansionCamoBoxKit"
+11:36:33.514 [CE][LootRespawner] (PRIDummy) :: Item [42] causing search overtime: "LandMineTrap"
+11:36:33.614 [CE][LootRespawner] (PRIDummy) :: Item [43] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:36:33.715 [CE][LootRespawner] (PRIDummy) :: Item [44] causing search overtime: "AK74"
+11:36:33.815 [CE][LootRespawner] (PRIDummy) :: Item [45] causing search overtime: "M18SmokeGrenade_Green"
+11:36:33.867 Average server FPS: 787.00 (measured interval: 1 s)
+11:36:33.867 Used memory: 2725558 KB
+11:36:33.867 Players: 1 in total
+11:36:33.916 [CE][LootRespawner] (PRIDummy) :: Item [46] causing search overtime: "FlashGrenade"
+11:36:34.15 [CE][LootRespawner] (PRIDummy) :: Item [47] causing search overtime: "Mag_MP5_30Rnd"
+11:36:34.115 [CE][LootRespawner] (PRIDummy) :: Item [48] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:36:34.217 [CE][LootRespawner] (PRIDummy) :: Item [49] causing search overtime: "Mag_MP5_15Rnd"
+11:36:34.868 Average server FPS: 469.53 (measured interval: 1 s)
+11:36:34.868 Used memory: 2729996 KB
+11:36:34.868 Players: 1 in total
+11:36:35.868 Average server FPS: 850.00 (measured interval: 1 s)
+11:36:35.868 Used memory: 2730258 KB
+11:36:35.868 Players: 1 in total
+11:36:36.868 Average server FPS: 695.00 (measured interval: 1 s)
+11:36:36.868 Used memory: 2732446 KB
+11:36:36.868 Players: 1 in total
+11:36:37.870 Average server FPS: 432.14 (measured interval: 1 s)
+11:36:37.870 Used memory: 2733083 KB
+11:36:37.870 Players: 1 in total
+11:36:38.870 Average server FPS: 316.00 (measured interval: 1 s)
+11:36:38.870 Used memory: 2736451 KB
+11:36:38.870 Players: 1 in total
+11:36:39.892 Average server FPS: 329.75 (measured interval: 1 s)
+11:36:39.892 Used memory: 2738806 KB
+11:36:39.892 Players: 1 in total
+11:36:40.894 Average server FPS: 450.10 (measured interval: 1 s)
+11:36:40.894 Used memory: 2738799 KB
+11:36:40.894 Players: 1 in total
+11:36:41.894 Average server FPS: 760.00 (measured interval: 1 s)
+11:36:41.894 Used memory: 2740945 KB
+11:36:41.894 Players: 1 in total
+11:36:42.895 Average server FPS: 492.51 (measured interval: 1 s)
+11:36:42.895 Used memory: 2744119 KB
+11:36:42.895 Players: 1 in total
+11:36:43.895 Average server FPS: 497.00 (measured interval: 1 s)
+11:36:43.895 Used memory: 2744923 KB
+11:36:43.895 Players: 1 in total
+11:36:44.895 Average server FPS: 608.00 (measured interval: 1 s)
+11:36:44.895 Used memory: 2745433 KB
+11:36:44.895 Players: 1 in total
+11:36:45.896 Average server FPS: 586.41 (measured interval: 1 s)
+11:36:45.896 Used memory: 2747166 KB
+11:36:45.896 Players: 1 in total
+11:36:46.896 Average server FPS: 480.00 (measured interval: 1 s)
+11:36:46.896 Used memory: 2748017 KB
+11:36:46.896 Players: 1 in total
+11:36:47.895 Average server FPS: 405.00 (measured interval: 1 s)
+11:36:47.896 Used memory: 2751435 KB
+11:36:47.896 Players: 1 in total
+11:36:48.898 Average server FPS: 409.18 (measured interval: 1 s)
+11:36:48.898 Used memory: 2753871 KB
+11:36:48.898 Players: 1 in total
+11:36:49.898 Average server FPS: 675.00 (measured interval: 1 s)
+11:36:49.898 Used memory: 2755858 KB
+11:36:49.898 Players: 1 in total
+11:36:50.899 Average server FPS: 528.47 (measured interval: 1 s)
+11:36:50.899 Used memory: 2757730 KB
+11:36:50.899 Players: 1 in total
+11:36:51.936 Average server FPS: 535.20 (measured interval: 1 s)
+11:36:51.936 Used memory: 2761017 KB
+11:36:51.936 Players: 1 in total
+11:36:52.938 Average server FPS: 397.21 (measured interval: 1 s)
+11:36:52.938 Used memory: 2765061 KB
+11:36:52.938 Players: 1 in total
+11:36:53.939 Average server FPS: 307.69 (measured interval: 1 s)
+11:36:53.939 Used memory: 2767696 KB
+11:36:53.939 Players: 1 in total
+11:36:54.939 Average server FPS: 503.00 (measured interval: 1 s)
+11:36:54.939 Used memory: 2769331 KB
+11:36:54.939 Players: 1 in total
+11:36:55.939 Average server FPS: 379.00 (measured interval: 1 s)
+11:36:55.939 Used memory: 2772050 KB
+11:36:55.939 Players: 1 in total
+11:36:56.938 Average server FPS: 619.00 (measured interval: 1 s)
+11:36:56.938 Used memory: 2773478 KB
+11:36:56.938 Players: 1 in total
+11:36:57.939 Average server FPS: 582.00 (measured interval: 1 s)
+11:36:57.939 Used memory: 2776671 KB
+11:36:57.939 Players: 1 in total
+11:36:58.939 Average server FPS: 412.00 (measured interval: 1 s)
+11:36:58.939 Used memory: 2777645 KB
+11:36:58.939 Players: 1 in total
+11:36:59.474 [CE][LootRespawner] (PRIDummy) :: Item [50] causing search overtime: "Mag_MP5_15Rnd"
+11:36:59.679 [CE][LootRespawner] (PRIDummy) :: Item [51] causing search overtime: "Mp133Shotgun"
+11:36:59.775 [CE][LootRespawner] (PRIDummy) :: Item [52] causing search overtime: "Mag_CMAG_30Rnd"
+11:36:59.875 [CE][LootRespawner] (PRIDummy) :: Item [53] causing search overtime: "Mag_AKM_30Rnd"
+11:36:59.940 Average server FPS: 471.53 (measured interval: 1 s)
+11:36:59.940 Used memory: 2778252 KB
+11:36:59.940 Players: 1 in total
+11:36:59.973 [CE][LootRespawner] (PRIDummy) :: Item [54] causing search overtime: "NBCJacketGray"
+11:37:00.76 [CE][LootRespawner] (PRIDummy) :: Item [55] causing search overtime: "SV98"
+11:37:00.274 [CE][LootRespawner] (PRIDummy) :: Item [56] causing search overtime: "ExpansionHescoKit"
+11:37:00.373 [CE][LootRespawner] (PRIDummy) :: Item [57] causing search overtime: "ExpansionCamoTentKit"
+11:37:00.474 [CE][LootRespawner] (PRIDummy) :: Item [58] causing search overtime: "ExpansionCamoBoxKit"
+11:37:00.575 [CE][LootRespawner] (PRIDummy) :: Item [59] causing search overtime: "LandMineTrap"
+11:37:00.674 [CE][LootRespawner] (PRIDummy) :: Item [60] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:37:00.776 [CE][LootRespawner] (PRIDummy) :: Item [61] causing search overtime: "AK74"
+11:37:00.876 [CE][LootRespawner] (PRIDummy) :: Item [62] causing search overtime: "M18SmokeGrenade_Green"
+11:37:00.940 Average server FPS: 639.36 (measured interval: 1 s)
+11:37:00.940 Used memory: 2780537 KB
+11:37:00.940 Players: 1 in total
+11:37:00.974 [CE][LootRespawner] (PRIDummy) :: Item [63] causing search overtime: "FlashGrenade"
+11:37:01.74 [CE][LootRespawner] (PRIDummy) :: Item [64] causing search overtime: "Mag_MP5_30Rnd"
+11:37:01.174 [CE][LootRespawner] (PRIDummy) :: Item [65] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:37:01.274 [CE][LootRespawner] (PRIDummy) :: Item [66] causing search overtime: "Mag_SSG82_5rnd"
+11:37:01.376 [CE][LootRespawner] (PRIDummy) :: Item [67] causing search overtime: "SSG82"
+11:37:01.941 Average server FPS: 394.00 (measured interval: 1 s)
+11:37:01.941 Used memory: 2783677 KB
+11:37:01.941 Players: 1 in total
+11:37:02.941 Average server FPS: 611.00 (measured interval: 1 s)
+11:37:02.941 Used memory: 2784734 KB
+11:37:02.941 Players: 1 in total
+11:37:03.941 Average server FPS: 621.00 (measured interval: 1 s)
+11:37:03.941 Used memory: 2785150 KB
+11:37:03.941 Players: 1 in total
+11:37:04.940 Average server FPS: 816.00 (measured interval: 1 s)
+11:37:04.940 Used memory: 2785612 KB
+11:37:04.940 Players: 1 in total
+11:37:05.941 Average server FPS: 630.00 (measured interval: 1 s)
+11:37:05.941 Used memory: 2787104 KB
+11:37:05.941 Players: 1 in total
+11:37:06.989 Average server FPS: 467.56 (measured interval: 1 s)
+11:37:06.989 Used memory: 2787831 KB
+11:37:06.989 Players: 1 in total
+11:37:07.989 Average server FPS: 444.00 (measured interval: 1 s)
+11:37:07.989 Used memory: 2788078 KB
+11:37:07.989 Players: 1 in total
+11:37:08.989 Average server FPS: 783.00 (measured interval: 1 s)
+11:37:08.989 Used memory: 2788735 KB
+11:37:08.989 Players: 1 in total
+11:37:09.990 Average server FPS: 517.96 (measured interval: 1 s)
+11:37:09.990 Used memory: 2792084 KB
+11:37:09.990 Players: 1 in total
+11:37:10.991 Average server FPS: 493.00 (measured interval: 1 s)
+11:37:10.991 Used memory: 2793691 KB
+11:37:10.991 Players: 1 in total
+11:37:11.992 Average server FPS: 799.20 (measured interval: 1 s)
+11:37:11.992 Used memory: 2793918 KB
+11:37:11.992 Players: 1 in total
+11:37:13.03 Average server FPS: 724.04 (measured interval: 1 s)
+11:37:13.03 Used memory: 2796624 KB
+11:37:13.03 Players: 1 in total
+11:37:14.03 Average server FPS: 463.00 (measured interval: 1 s)
+11:37:14.03 Used memory: 2797203 KB
+11:37:14.03 Players: 1 in total
+11:37:15.06 Average server FPS: 305.08 (measured interval: 1 s)
+11:37:15.06 Used memory: 2799763 KB
+11:37:15.06 Players: 1 in total
+11:37:16.43 Average server FPS: 453.76 (measured interval: 1 s)
+11:37:16.43 Used memory: 2800034 KB
+11:37:16.43 Players: 1 in total
+11:37:17.44 Average server FPS: 753.00 (measured interval: 1 s)
+11:37:17.44 Used memory: 2800050 KB
+11:37:17.44 Players: 1 in total
+11:37:18.44 Average server FPS: 663.00 (measured interval: 1 s)
+11:37:18.44 Used memory: 2801558 KB
+11:37:18.44 Players: 1 in total
+11:37:19.55 Average server FPS: 510.39 (measured interval: 1 s)
+11:37:19.55 Used memory: 2801565 KB
+11:37:19.55 Players: 1 in total
+11:37:20.56 Average server FPS: 557.44 (measured interval: 1 s)
+11:37:20.56 Used memory: 2801905 KB
+11:37:20.56 Players: 1 in total
+11:37:21.57 Average server FPS: 505.49 (measured interval: 1 s)
+11:37:21.57 Used memory: 2806842 KB
+11:37:21.57 Players: 1 in total
+11:37:22.94 Average server FPS: 540.98 (measured interval: 1 s)
+11:37:22.94 Used memory: 2810008 KB
+11:37:22.94 Players: 1 in total
+11:37:23.96 Average server FPS: 280.44 (measured interval: 1 s)
+11:37:23.96 Used memory: 2812557 KB
+11:37:23.96 Players: 1 in total
+11:37:24.97 Average server FPS: 403.60 (measured interval: 1 s)
+11:37:24.97 Used memory: 2814005 KB
+11:37:24.97 Players: 1 in total
+11:37:25.96 Average server FPS: 487.00 (measured interval: 1 s)
+11:37:25.96 Used memory: 2814191 KB
+11:37:25.96 Players: 1 in total
+11:37:26.97 Average server FPS: 552.00 (measured interval: 1 s)
+11:37:26.97 Used memory: 2815280 KB
+11:37:26.97 Players: 1 in total
+11:37:26.621 [CE][LootRespawner] (PRIDummy) :: Item [68] causing search overtime: "SSG82"
+11:37:26.722 [CE][LootRespawner] (PRIDummy) :: Item [69] causing search overtime: "Fal_OeBttstck"
+11:37:26.824 [CE][LootRespawner] (PRIDummy) :: Item [70] causing search overtime: "M18SmokeGrenade_Purple"
+11:37:26.927 [CE][LootRespawner] (PRIDummy) :: Item [71] causing search overtime: "AK_Bayonet"
+11:37:27.97 Average server FPS: 650.00 (measured interval: 1 s)
+11:37:27.97 Used memory: 2815361 KB
+11:37:27.97 Players: 1 in total
+11:37:27.126 [CE][LootRespawner] (PRIDummy) :: Item [72] causing search overtime: "ExpansionHescoKit"
+11:37:27.228 [CE][LootRespawner] (PRIDummy) :: Item [73] causing search overtime: "ExpansionCamoTentKit"
+11:37:27.331 [CE][LootRespawner] (PRIDummy) :: Item [74] causing search overtime: "ExpansionCamoBoxKit"
+11:37:27.431 [CE][LootRespawner] (PRIDummy) :: Item [75] causing search overtime: "LandMineTrap"
+11:37:27.532 [CE][LootRespawner] (PRIDummy) :: Item [76] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:37:27.633 [CE][LootRespawner] (PRIDummy) :: Item [77] causing search overtime: "Expansion_M1A"
+11:37:27.735 [CE][LootRespawner] (PRIDummy) :: Item [78] causing search overtime: "AK74"
+11:37:27.840 [CE][LootRespawner] (PRIDummy) :: Item [79] causing search overtime: "FlashGrenade"
+11:37:27.937 [CE][LootRespawner] (PRIDummy) :: Item [80] causing search overtime: "Mag_MP5_30Rnd"
+11:37:28.36 [CE][LootRespawner] (PRIDummy) :: Item [81] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:37:28.96 Average server FPS: 917.00 (measured interval: 1 s)
+11:37:28.96 Used memory: 2817574 KB
+11:37:28.97 Players: 1 in total
+11:37:28.136 [CE][LootRespawner] (PRIDummy) :: Item [82] causing search overtime: "M18SmokeGrenade_Green"
+11:37:28.238 [CE][LootRespawner] (PRIDummy) :: Item [83] causing search overtime: "Mag_SSG82_5rnd"
+11:37:28.337 [CE][LootRespawner] (PRIDummy) :: Item [84] causing search overtime: "Mag_MP5_15Rnd"
+11:37:28.437 [CE][LootRespawner] (PRIDummy) :: Item [85] causing search overtime: "Mag_CMAG_30Rnd"
+11:37:28.538 [CE][LootRespawner] (PRIDummy) :: Item [86] causing search overtime: "AKM"
+11:37:29.97 Average server FPS: 615.00 (measured interval: 1 s)
+11:37:29.97 Used memory: 2819379 KB
+11:37:29.97 Players: 1 in total
+11:37:29.338 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+11:37:30.99 Average server FPS: 567.86 (measured interval: 1 s)
+11:37:30.99 Used memory: 2821785 KB
+11:37:30.99 Players: 1 in total
+11:37:31.99 Average server FPS: 619.00 (measured interval: 1 s)
+11:37:31.99 Used memory: 2821907 KB
+11:37:31.99 Players: 1 in total
+11:37:32.100 Average server FPS: 410.59 (measured interval: 1 s)
+11:37:32.100 Used memory: 2824931 KB
+11:37:32.100 Players: 1 in total
+11:37:33.100 Average server FPS: 252.00 (measured interval: 1 s)
+11:37:33.100 Used memory: 2825215 KB
+11:37:33.100 Players: 1 in total
+11:37:34.100 Average server FPS: 389.00 (measured interval: 1 s)
+11:37:34.100 Used memory: 2825409 KB
+11:37:34.100 Players: 1 in total
+11:37:35.99 Average server FPS: 457.00 (measured interval: 1 s)
+11:37:35.99 Used memory: 2826089 KB
+11:37:35.99 Players: 1 in total
+11:37:36.100 Average server FPS: 834.00 (measured interval: 1 s)
+11:37:36.100 Used memory: 2826418 KB
+11:37:36.100 Players: 1 in total
+11:37:37.99 Average server FPS: 927.00 (measured interval: 1 s)
+11:37:37.100 Used memory: 2826577 KB
+11:37:37.100 Players: 1 in total
+11:37:38.100 Average server FPS: 553.00 (measured interval: 1 s)
+11:37:38.100 Used memory: 2828161 KB
+11:37:38.100 Players: 1 in total
+11:37:39.100 Average server FPS: 891.00 (measured interval: 1 s)
+11:37:39.100 Used memory: 2828345 KB
+11:37:39.100 Players: 1 in total
+11:37:40.100 Average server FPS: 770.00 (measured interval: 1 s)
+11:37:40.100 Used memory: 2828353 KB
+11:37:40.100 Players: 1 in total
+11:37:41.106 Average server FPS: 465.21 (measured interval: 1 s)
+11:37:41.106 Used memory: 2828799 KB
+11:37:41.106 Players: 1 in total
+11:37:42.106 Average server FPS: 362.00 (measured interval: 1 s)
+11:37:42.106 Used memory: 2830833 KB
+11:37:42.106 Players: 1 in total
+11:37:43.107 Average server FPS: 440.56 (measured interval: 1 s)
+11:37:43.107 Used memory: 2832195 KB
+11:37:43.107 Players: 1 in total
+11:37:44.107 Average server FPS: 628.00 (measured interval: 1 s)
+11:37:44.107 Used memory: 2832282 KB
+11:37:44.107 Players: 1 in total
+11:37:45.107 Average server FPS: 561.00 (measured interval: 1 s)
+11:37:45.107 Used memory: 2836167 KB
+11:37:45.107 Players: 1 in total
+11:37:46.108 Average server FPS: 442.56 (measured interval: 1 s)
+11:37:46.108 Used memory: 2838711 KB
+11:37:46.108 Players: 1 in total
+11:37:47.114 Average server FPS: 381.71 (measured interval: 1 s)
+11:37:47.114 Used memory: 2842084 KB
+11:37:47.114 Players: 1 in total
+11:37:48.114 Average server FPS: 375.00 (measured interval: 1 s)
+11:37:48.114 Used memory: 2844928 KB
+11:37:48.114 Players: 1 in total
+11:37:49.113 Average server FPS: 336.00 (measured interval: 1 s)
+11:37:49.113 Used memory: 2847441 KB
+11:37:49.113 Players: 1 in total
+11:37:50.144 Average server FPS: 604.27 (measured interval: 1 s)
+11:37:50.144 Used memory: 2847697 KB
+11:37:50.144 Players: 1 in total
+11:37:51.145 Average server FPS: 770.00 (measured interval: 1 s)
+11:37:51.145 Used memory: 2847709 KB
+11:37:51.145 Players: 1 in total
+11:37:52.144 Average server FPS: 738.00 (measured interval: 1 s)
+11:37:52.145 Used memory: 2847783 KB
+11:37:52.145 Players: 1 in total
+11:37:53.145 Average server FPS: 814.00 (measured interval: 1 s)
+11:37:53.145 Used memory: 2847783 KB
+11:37:53.145 Players: 1 in total
+11:37:53.813 [CE][LootRespawner] (PRIDummy) :: Item [87] causing search overtime: "AKM"
+11:37:53.913 [CE][LootRespawner] (PRIDummy) :: Item [88] causing search overtime: "Mp133Shotgun"
+11:37:54.13 [CE][LootRespawner] (PRIDummy) :: Item [89] causing search overtime: "Mag_AKM_30Rnd"
+11:37:54.112 [CE][LootRespawner] (PRIDummy) :: Item [90] causing search overtime: "NBCJacketGray"
+11:37:54.145 Average server FPS: 842.00 (measured interval: 1 s)
+11:37:54.145 Used memory: 2847913 KB
+11:37:54.145 Players: 1 in total
+11:37:54.212 [CE][LootRespawner] (PRIDummy) :: Item [91] causing search overtime: "SV98"
+11:37:54.514 [CE][LootRespawner] (PRIDummy) :: Item [92] causing search overtime: "ExpansionHescoKit"
+11:37:54.614 [CE][LootRespawner] (PRIDummy) :: Item [93] causing search overtime: "ExpansionCamoTentKit"
+11:37:54.714 [CE][LootRespawner] (PRIDummy) :: Item [94] causing search overtime: "ExpansionCamoBoxKit"
+11:37:54.813 [CE][LootRespawner] (PRIDummy) :: Item [95] causing search overtime: "LandMineTrap"
+11:37:54.915 [CE][LootRespawner] (PRIDummy) :: Item [96] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:37:55.14 [CE][LootRespawner] (PRIDummy) :: Item [97] causing search overtime: "Expansion_M1A"
+11:37:55.113 [CE][LootRespawner] (PRIDummy) :: Item [98] causing search overtime: "AK74"
+11:37:55.145 Average server FPS: 912.00 (measured interval: 1 s)
+11:37:55.145 Used memory: 2847922 KB
+11:37:55.145 Players: 1 in total
+11:37:55.216 [CE][LootRespawner] (PRIDummy) :: Item [99] causing search overtime: "FlashGrenade"
+11:37:55.314 [CE][LootRespawner] (PRIDummy) :: Item [100] causing search overtime: "Mag_MP5_30Rnd"
+11:37:55.415 [CE][LootRespawner] (PRIDummy) :: Item [101] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:37:55.514 [CE][LootRespawner] (PRIDummy) :: Item [102] causing search overtime: "M18SmokeGrenade_Green"
+11:37:55.613 [CE][LootRespawner] (PRIDummy) :: Item [103] causing search overtime: "Mag_SSG82_5rnd"
+11:37:56.145 Average server FPS: 893.00 (measured interval: 1 s)
+11:37:56.145 Used memory: 2848671 KB
+11:37:56.145 Players: 1 in total
+11:37:57.145 Average server FPS: 824.00 (measured interval: 1 s)
+11:37:57.145 Used memory: 2848736 KB
+11:37:57.145 Players: 1 in total
+11:37:58.146 Average server FPS: 584.42 (measured interval: 1 s)
+11:37:58.146 Used memory: 2854554 KB
+11:37:58.146 Players: 1 in total
+11:37:58.249 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 2
+11:37:59.156 Average server FPS: 354.46 (measured interval: 1 s)
+11:37:59.156 Used memory: 2855125 KB
+11:37:59.156 Players: 1 in total
+11:38:00.156 Average server FPS: 355.00 (measured interval: 1 s)
+11:38:00.156 Used memory: 2858017 KB
+11:38:00.156 Players: 1 in total
+11:38:01.158 Average server FPS: 248.50 (measured interval: 1 s)
+11:38:01.158 Used memory: 2861377 KB
+11:38:01.158 Players: 1 in total
+11:38:02.211 Average server FPS: 262.11 (measured interval: 1 s)
+11:38:02.211 Used memory: 2863809 KB
+11:38:02.211 Players: 1 in total
+11:38:03.211 Average server FPS: 343.00 (measured interval: 1 s)
+11:38:03.211 Used memory: 2866209 KB
+11:38:03.211 Players: 1 in total
+11:38:04.211 Average server FPS: 506.00 (measured interval: 1 s)
+11:38:04.211 Used memory: 2866740 KB
+11:38:04.211 Players: 1 in total
+11:38:05.211 Average server FPS: 655.00 (measured interval: 1 s)
+11:38:05.211 Used memory: 2867759 KB
+11:38:05.211 Players: 1 in total
+11:38:06.211 Average server FPS: 557.00 (measured interval: 1 s)
+11:38:06.211 Used memory: 2868922 KB
+11:38:06.211 Players: 1 in total
+11:38:07.212 Average server FPS: 621.38 (measured interval: 1 s)
+11:38:07.212 Used memory: 2869531 KB
+11:38:07.212 Players: 1 in total
+11:38:08.241 Average server FPS: 400.39 (measured interval: 1 s)
+11:38:08.241 Used memory: 2871476 KB
+11:38:08.241 Players: 1 in total
+11:38:09.240 Average server FPS: 479.00 (measured interval: 1 s)
+11:38:09.240 Used memory: 2871906 KB
+11:38:09.240 Players: 1 in total
+11:38:10.240 Average server FPS: 623.00 (measured interval: 1 s)
+11:38:10.240 Used memory: 2872268 KB
+11:38:10.240 Players: 1 in total
+11:38:11.248 Average server FPS: 693.15 (measured interval: 1 s)
+11:38:11.248 Used memory: 2872532 KB
+11:38:11.248 Players: 1 in total
+11:38:12.248 Average server FPS: 526.00 (measured interval: 1 s)
+11:38:12.248 Used memory: 2873744 KB
+11:38:12.248 Players: 1 in total
+11:38:13.249 Average server FPS: 562.87 (measured interval: 1 s)
+11:38:13.249 Used memory: 2876244 KB
+11:38:13.249 Players: 1 in total
+11:38:14.267 Average server FPS: 310.41 (measured interval: 1 s)
+11:38:14.268 Used memory: 2877307 KB
+11:38:14.268 Players: 1 in total
+11:38:15.268 Average server FPS: 559.00 (measured interval: 1 s)
+11:38:15.268 Used memory: 2878435 KB
+11:38:15.268 Players: 1 in total
+11:38:16.268 Average server FPS: 492.00 (measured interval: 1 s)
+11:38:16.268 Used memory: 2879471 KB
+11:38:16.268 Players: 1 in total
+11:38:17.283 Average server FPS: 609.85 (measured interval: 1 s)
+11:38:17.283 Used memory: 2879604 KB
+11:38:17.283 Players: 1 in total
+11:38:18.282 Average server FPS: 761.00 (measured interval: 1 s)
+11:38:18.282 Used memory: 2879613 KB
+11:38:18.282 Players: 1 in total
+11:38:19.282 Average server FPS: 537.00 (measured interval: 1 s)
+11:38:19.282 Used memory: 2881523 KB
+11:38:19.282 Players: 1 in total
+11:38:20.284 Average server FPS: 466.53 (measured interval: 1 s)
+11:38:20.284 Used memory: 2882190 KB
+11:38:20.284 Players: 1 in total
+11:38:20.872 [CE][LootRespawner] (PRIDummy) :: Item [104] causing search overtime: "Mag_SSG82_5rnd"
+11:38:20.972 [CE][LootRespawner] (PRIDummy) :: Item [105] causing search overtime: "SSG82"
+11:38:21.71 [CE][LootRespawner] (PRIDummy) :: Item [106] causing search overtime: "Fal_OeBttstck"
+11:38:21.176 [CE][LootRespawner] (PRIDummy) :: Item [107] causing search overtime: "M18SmokeGrenade_Purple"
+11:38:21.273 [CE][LootRespawner] (PRIDummy) :: Item [108] causing search overtime: "Mag_MP5_15Rnd"
+11:38:21.284 Average server FPS: 469.00 (measured interval: 1 s)
+11:38:21.284 Used memory: 2884414 KB
+11:38:21.284 Players: 1 in total
+11:38:21.373 [CE][LootRespawner] (PRIDummy) :: Item [109] causing search overtime: "Mag_CMAG_30Rnd"
+11:38:21.474 [CE][LootRespawner] (PRIDummy) :: Item [110] causing search overtime: "AK_Bayonet"
+11:38:21.674 [CE][LootRespawner] (PRIDummy) :: Item [111] causing search overtime: "ExpansionHescoKit"
+11:38:21.772 [CE][LootRespawner] (PRIDummy) :: Item [112] causing search overtime: "ExpansionCamoTentKit"
+11:38:21.872 [CE][LootRespawner] (PRIDummy) :: Item [113] causing search overtime: "ExpansionCamoBoxKit"
+11:38:21.972 [CE][LootRespawner] (PRIDummy) :: Item [114] causing search overtime: "LandMineTrap"
+11:38:22.73 [CE][LootRespawner] (PRIDummy) :: Item [115] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:38:22.172 [CE][LootRespawner] (PRIDummy) :: Item [116] causing search overtime: "Expansion_M1A"
+11:38:22.272 [CE][LootRespawner] (PRIDummy) :: Item [117] causing search overtime: "AK74"
+11:38:22.284 Average server FPS: 698.00 (measured interval: 1 s)
+11:38:22.284 Used memory: 2884393 KB
+11:38:22.284 Players: 1 in total
+11:38:22.373 [CE][LootRespawner] (PRIDummy) :: Item [118] causing search overtime: "Mag_MP5_30Rnd"
+11:38:22.474 [CE][LootRespawner] (PRIDummy) :: Item [119] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:38:22.573 [CE][LootRespawner] (PRIDummy) :: Item [120] causing search overtime: "M18SmokeGrenade_Green"
+11:38:22.674 [CE][LootRespawner] (PRIDummy) :: Item [121] causing search overtime: "FlashGrenade"
+11:38:22.776 [CE][LootRespawner] (PRIDummy) :: Item [122] causing search overtime: "AKM"
+11:38:23.285 Average server FPS: 748.50 (measured interval: 1 s)
+11:38:23.285 Used memory: 2885087 KB
+11:38:23.285 Players: 1 in total
+11:38:24.286 Average server FPS: 861.14 (measured interval: 1 s)
+11:38:24.286 Used memory: 2885135 KB
+11:38:24.286 Players: 1 in total
+11:38:25.291 Average server FPS: 496.02 (measured interval: 1 s)
+11:38:25.291 Used memory: 2885779 KB
+11:38:25.291 Players: 1 in total
+11:38:26.293 Average server FPS: 404.79 (measured interval: 1 s)
+11:38:26.293 Used memory: 2889465 KB
+11:38:26.293 Players: 1 in total
+11:38:27.293 Average server FPS: 387.00 (measured interval: 1 s)
+11:38:27.293 Used memory: 2889650 KB
+11:38:27.293 Players: 1 in total
+11:38:28.294 Average server FPS: 340.00 (measured interval: 1 s)
+11:38:28.294 Used memory: 2890109 KB
+11:38:28.294 Players: 1 in total
+11:38:29.306 Average server FPS: 472.33 (measured interval: 1 s)
+11:38:29.306 Used memory: 2890337 KB
+11:38:29.306 Players: 1 in total
+11:38:30.306 Average server FPS: 447.00 (measured interval: 1 s)
+11:38:30.306 Used memory: 2890669 KB
+11:38:30.306 Players: 1 in total
+11:38:31.306 Average server FPS: 569.43 (measured interval: 1 s)
+11:38:31.306 Used memory: 2892193 KB
+11:38:31.306 Players: 1 in total
+11:38:32.306 Average server FPS: 565.00 (measured interval: 1 s)
+11:38:32.306 Used memory: 2892456 KB
+11:38:32.306 Players: 1 in total
+11:38:33.307 Average server FPS: 531.47 (measured interval: 1 s)
+11:38:33.307 Used memory: 2894143 KB
+11:38:33.307 Players: 1 in total
+11:38:34.307 Average server FPS: 633.00 (measured interval: 1 s)
+11:38:34.307 Used memory: 2894599 KB
+11:38:34.307 Players: 1 in total
+11:38:35.307 Average server FPS: 448.00 (measured interval: 1 s)
+11:38:35.307 Used memory: 2895283 KB
+11:38:35.307 Players: 1 in total
+11:38:36.308 Average server FPS: 340.66 (measured interval: 1 s)
+11:38:36.308 Used memory: 2897091 KB
+11:38:36.308 Players: 1 in total
+11:38:37.308 Average server FPS: 458.00 (measured interval: 1 s)
+11:38:37.308 Used memory: 2897429 KB
+11:38:37.308 Players: 1 in total
+11:38:38.308 Average server FPS: 558.00 (measured interval: 1 s)
+11:38:38.309 Used memory: 2897823 KB
+11:38:38.309 Players: 1 in total
+11:38:39.309 Average server FPS: 396.00 (measured interval: 1 s)
+11:38:39.309 Used memory: 2899798 KB
+11:38:39.309 Players: 1 in total
+11:38:40.309 Average server FPS: 444.56 (measured interval: 1 s)
+11:38:40.309 Used memory: 2900220 KB
+11:38:40.309 Players: 1 in total
+11:38:41.310 Average server FPS: 565.00 (measured interval: 1 s)
+11:38:41.310 Used memory: 2901777 KB
+11:38:41.310 Players: 1 in total
+11:38:42.309 Average server FPS: 563.00 (measured interval: 1 s)
+11:38:42.309 Used memory: 2901778 KB
+11:38:42.309 Players: 1 in total
+11:38:43.309 Average server FPS: 708.00 (measured interval: 1 s)
+11:38:43.309 Used memory: 2901786 KB
+11:38:43.309 Players: 1 in total
+11:38:44.309 Average server FPS: 781.00 (measured interval: 1 s)
+11:38:44.309 Used memory: 2901792 KB
+11:38:44.309 Players: 1 in total
+11:38:45.309 Average server FPS: 647.00 (measured interval: 1 s)
+11:38:45.309 Used memory: 2902039 KB
+11:38:45.309 Players: 1 in total
+11:38:46.310 Average server FPS: 544.46 (measured interval: 1 s)
+11:38:46.310 Used memory: 2902395 KB
+11:38:46.310 Players: 1 in total
+11:38:47.327 Average server FPS: 535.43 (measured interval: 1 s)
+11:38:47.327 Used memory: 2904250 KB
+11:38:47.327 Players: 1 in total
+11:38:47.997 [CE][LootRespawner] (PRIDummy) :: Item [123] causing search overtime: "AKM"
+11:38:48.99 [CE][LootRespawner] (PRIDummy) :: Item [124] causing search overtime: "Mp133Shotgun"
+11:38:48.199 [CE][LootRespawner] (PRIDummy) :: Item [125] causing search overtime: "Mag_AKM_30Rnd"
+11:38:48.298 [CE][LootRespawner] (PRIDummy) :: Item [126] causing search overtime: "NBCJacketGray"
+11:38:48.327 Average server FPS: 446.55 (measured interval: 1 s)
+11:38:48.327 Used memory: 2906759 KB
+11:38:48.327 Players: 1 in total
+11:38:48.398 [CE][LootRespawner] (PRIDummy) :: Item [127] causing search overtime: "SV98"
+11:38:48.601 [CE][LootRespawner] (PRIDummy) :: Item [128] causing search overtime: "ExpansionHescoKit"
+11:38:48.700 [CE][LootRespawner] (PRIDummy) :: Item [129] causing search overtime: "ExpansionCamoTentKit"
+11:38:48.801 [CE][LootRespawner] (PRIDummy) :: Item [130] causing search overtime: "ExpansionCamoBoxKit"
+11:38:48.900 [CE][LootRespawner] (PRIDummy) :: Item [131] causing search overtime: "LandMineTrap"
+11:38:49.01 [CE][LootRespawner] (PRIDummy) :: Item [132] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:38:49.107 [CE][LootRespawner] (PRIDummy) :: Item [133] causing search overtime: "Expansion_M1A"
+11:38:49.207 [CE][LootRespawner] (PRIDummy) :: Item [134] causing search overtime: "AK74"
+11:38:49.306 [CE][LootRespawner] (PRIDummy) :: Item [135] causing search overtime: "Mag_MP5_30Rnd"
+11:38:49.330 Average server FPS: 594.22 (measured interval: 1 s)
+11:38:49.330 Used memory: 2907803 KB
+11:38:49.330 Players: 1 in total
+11:38:49.407 [CE][LootRespawner] (PRIDummy) :: Item [136] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:38:49.508 [CE][LootRespawner] (PRIDummy) :: Item [137] causing search overtime: "M18SmokeGrenade_Green"
+11:38:49.625 [CE][LootRespawner] (PRIDummy) :: Item [138] causing search overtime: "FlashGrenade"
+11:38:49.707 [CE][LootRespawner] (PRIDummy) :: Item [139] causing search overtime: "Mag_SSG82_5rnd"
+11:38:49.809 [CE][LootRespawner] (PRIDummy) :: Item [140] causing search overtime: "SSG82"
+11:38:49.910 [CE][LootRespawner] (PRIDummy) :: Item [141] causing search overtime: "Fal_OeBttstck"
+11:38:50.333 Average server FPS: 408.77 (measured interval: 1 s)
+11:38:50.333 Used memory: 2911610 KB
+11:38:50.333 Players: 1 in total
+11:38:51.334 Average server FPS: 419.58 (measured interval: 1 s)
+11:38:51.334 Used memory: 2914562 KB
+11:38:51.334 Players: 1 in total
+11:38:52.334 Average server FPS: 576.00 (measured interval: 1 s)
+11:38:52.334 Used memory: 2917514 KB
+11:38:52.334 Players: 1 in total
+11:38:53.383 Average server FPS: 366.41 (measured interval: 1 s)
+11:38:53.383 Used memory: 2918989 KB
+11:38:53.383 Players: 1 in total
+11:38:54.384 Average server FPS: 294.41 (measured interval: 1 s)
+11:38:54.384 Used memory: 2920963 KB
+11:38:54.384 Players: 1 in total
+11:38:55.387 Average server FPS: 301.10 (measured interval: 1 s)
+11:38:55.387 Used memory: 2923438 KB
+11:38:55.387 Players: 1 in total
+11:38:56.387 Average server FPS: 261.00 (measured interval: 1 s)
+11:38:56.388 Used memory: 2927525 KB
+11:38:56.388 Players: 1 in total
+11:38:57.387 Average server FPS: 362.00 (measured interval: 1 s)
+11:38:57.387 Used memory: 2931371 KB
+11:38:57.387 Players: 1 in total
+11:38:58.387 Average server FPS: 411.00 (measured interval: 1 s)
+11:38:58.387 Used memory: 2930935 KB
+11:38:58.387 Players: 1 in total
+11:38:59.390 Average server FPS: 731.54 (measured interval: 1 s)
+11:38:59.390 Used memory: 2929912 KB
+11:38:59.390 Players: 1 in total
+11:39:00.389 Average server FPS: 330.00 (measured interval: 1 s)
+11:39:00.389 Used memory: 2930126 KB
+11:39:00.389 Players: 1 in total
+11:39:01.389 Average server FPS: 600.00 (measured interval: 1 s)
+11:39:01.389 Used memory: 2930867 KB
+11:39:01.389 Players: 1 in total
+11:39:02.391 Average server FPS: 579.42 (measured interval: 1 s)
+11:39:02.391 Used memory: 2932317 KB
+11:39:02.391 Players: 1 in total
+11:39:03.395 Average server FPS: 584.66 (measured interval: 1 s)
+11:39:03.395 Used memory: 2932390 KB
+11:39:03.395 Players: 1 in total
+11:39:04.395 Average server FPS: 498.50 (measured interval: 1 s)
+11:39:04.395 Used memory: 2933495 KB
+11:39:04.395 Players: 1 in total
+11:39:05.397 Average server FPS: 509.98 (measured interval: 1 s)
+11:39:05.397 Used memory: 2934324 KB
+11:39:05.397 Players: 1 in total
+11:39:06.397 Average server FPS: 546.00 (measured interval: 1 s)
+11:39:06.397 Used memory: 2936087 KB
+11:39:06.397 Players: 1 in total
+11:39:07.397 Average server FPS: 384.00 (measured interval: 1 s)
+11:39:07.397 Used memory: 2937170 KB
+11:39:07.397 Players: 1 in total
+11:39:08.398 Average server FPS: 429.00 (measured interval: 1 s)
+11:39:08.398 Used memory: 2938903 KB
+11:39:08.398 Players: 1 in total
+11:39:09.415 Average server FPS: 686.33 (measured interval: 1 s)
+11:39:09.415 Used memory: 2939253 KB
+11:39:09.415 Players: 1 in total
+11:39:10.414 Average server FPS: 864.00 (measured interval: 1 s)
+11:39:10.414 Used memory: 2939351 KB
+11:39:10.414 Players: 1 in total
+11:39:11.439 Average server FPS: 621.09 (measured interval: 1 s)
+11:39:11.439 Used memory: 2944472 KB
+11:39:11.439 Players: 1 in total
+11:39:12.447 Average server FPS: 230.16 (measured interval: 1 s)
+11:39:12.447 Used memory: 2946302 KB
+11:39:12.447 Players: 1 in total
+11:39:13.448 Average server FPS: 454.09 (measured interval: 1 s)
+11:39:13.448 Used memory: 2947530 KB
+11:39:13.448 Players: 1 in total
+11:39:14.448 Average server FPS: 432.00 (measured interval: 1 s)
+11:39:14.448 Used memory: 2949144 KB
+11:39:14.448 Players: 1 in total
+11:39:15.447 [CE][LootRespawner] (PRIDummy) :: Item [142] causing search overtime: "Fal_OeBttstck"
+11:39:15.449 Average server FPS: 408.00 (measured interval: 1 s)
+11:39:15.449 Used memory: 2952329 KB
+11:39:15.449 Players: 1 in total
+11:39:15.548 [CE][LootRespawner] (PRIDummy) :: Item [143] causing search overtime: "Mag_MP5_15Rnd"
+11:39:15.651 [CE][LootRespawner] (PRIDummy) :: Item [144] causing search overtime: "Mag_CMAG_30Rnd"
+11:39:15.750 [CE][LootRespawner] (PRIDummy) :: Item [145] causing search overtime: "AK_Bayonet"
+11:39:15.850 [CE][LootRespawner] (PRIDummy) :: Item [146] causing search overtime: "M18SmokeGrenade_Purple"
+11:39:16.50 [CE][LootRespawner] (PRIDummy) :: Item [147] causing search overtime: "ExpansionHescoKit"
+11:39:16.150 [CE][LootRespawner] (PRIDummy) :: Item [148] causing search overtime: "ExpansionCamoTentKit"
+11:39:16.252 [CE][LootRespawner] (PRIDummy) :: Item [149] causing search overtime: "ExpansionCamoBoxKit"
+11:39:16.351 [CE][LootRespawner] (PRIDummy) :: Item [150] causing search overtime: "LandMineTrap"
+11:39:16.449 Average server FPS: 522.00 (measured interval: 1 s)
+11:39:16.449 Used memory: 2952445 KB
+11:39:16.449 Players: 1 in total
+11:39:16.451 [CE][LootRespawner] (PRIDummy) :: Item [151] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:39:16.551 [CE][LootRespawner] (PRIDummy) :: Item [152] causing search overtime: "Expansion_M1A"
+11:39:16.653 [CE][LootRespawner] (PRIDummy) :: Item [153] causing search overtime: "AK74"
+11:39:16.753 [CE][LootRespawner] (PRIDummy) :: Item [154] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:39:16.854 [CE][LootRespawner] (PRIDummy) :: Item [155] causing search overtime: "M18SmokeGrenade_Green"
+11:39:16.954 [CE][LootRespawner] (PRIDummy) :: Item [156] causing search overtime: "FlashGrenade"
+11:39:17.56 [CE][LootRespawner] (PRIDummy) :: Item [157] causing search overtime: "Mag_SSG82_5rnd"
+11:39:17.154 [CE][LootRespawner] (PRIDummy) :: Item [158] causing search overtime: "Mag_MP5_30Rnd"
+11:39:17.253 [CE][LootRespawner] (PRIDummy) :: Item [159] causing search overtime: "SSG82"
+11:39:17.353 [CE][LootRespawner] (PRIDummy) :: Item [160] causing search overtime: "AKM"
+11:39:17.449 Average server FPS: 510.00 (measured interval: 1 s)
+11:39:17.449 Used memory: 2955303 KB
+11:39:17.449 Players: 1 in total
+11:39:18.448 Average server FPS: 678.00 (measured interval: 1 s)
+11:39:18.448 Used memory: 2956146 KB
+11:39:18.448 Players: 1 in total
+11:39:19.378 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+11:39:19.450 Average server FPS: 429.57 (measured interval: 1 s)
+11:39:19.450 Used memory: 2961043 KB
+11:39:19.450 Players: 1 in total
+11:39:20.449 Average server FPS: 450.00 (measured interval: 1 s)
+11:39:20.449 Used memory: 2963080 KB
+11:39:20.449 Players: 1 in total
+11:39:21.463 Average server FPS: 461.99 (measured interval: 1 s)
+11:39:21.463 Used memory: 2965320 KB
+11:39:21.463 Players: 1 in total
+11:39:22.465 Average server FPS: 222.33 (measured interval: 1 s)
+11:39:22.465 Used memory: 2968849 KB
+11:39:22.465 Players: 1 in total
+11:39:23.465 Average server FPS: 351.00 (measured interval: 1 s)
+11:39:23.465 Used memory: 2970793 KB
+11:39:23.465 Players: 1 in total
+11:39:24.472 Average server FPS: 345.58 (measured interval: 1 s)
+11:39:24.472 Used memory: 2973600 KB
+11:39:24.472 Players: 1 in total
+11:39:25.478 Average server FPS: 769.38 (measured interval: 1 s)
+11:39:25.478 Used memory: 2973788 KB
+11:39:25.478 Players: 1 in total
+11:39:26.478 Average server FPS: 1220.00 (measured interval: 1 s)
+11:39:26.478 Used memory: 2973779 KB
+11:39:26.478 Players: 1 in total
+11:39:27.543 Average server FPS: 955.83 (measured interval: 1 s)
+11:39:27.543 Used memory: 2973458 KB
+11:39:27.543 Players: 1 in total
+11:39:28.544 Average server FPS: 1050.95 (measured interval: 1 s)
+11:39:28.544 Used memory: 2973456 KB
+11:39:28.544 Players: 1 in total
+11:39:29.546 Average server FPS: 1084.83 (measured interval: 1 s)
+11:39:29.546 Used memory: 2973460 KB
+11:39:29.546 Players: 1 in total
+11:39:30.545 Average server FPS: 1049.00 (measured interval: 1 s)
+11:39:30.545 Used memory: 2973456 KB
+11:39:30.545 Players: 1 in total
+11:39:31.545 Average server FPS: 1029.00 (measured interval: 1 s)
+11:39:31.545 Used memory: 2973460 KB
+11:39:31.545 Players: 1 in total
+11:39:32.546 Average server FPS: 974.03 (measured interval: 1 s)
+11:39:32.546 Used memory: 2973457 KB
+11:39:32.546 Players: 1 in total
+11:39:33.547 Average server FPS: 1099.90 (measured interval: 1 s)
+11:39:33.547 Used memory: 2973460 KB
+11:39:33.547 Players: 1 in total
+11:39:34.547 Average server FPS: 1092.00 (measured interval: 1 s)
+11:39:34.547 Used memory: 2973462 KB
+11:39:34.547 Players: 1 in total
+11:39:35.547 Average server FPS: 1035.00 (measured interval: 1 s)
+11:39:35.547 Used memory: 2973463 KB
+11:39:35.547 Players: 1 in total
+11:39:36.547 Average server FPS: 1046.00 (measured interval: 1 s)
+11:39:36.547 Used memory: 2973463 KB
+11:39:36.547 Players: 1 in total
+11:39:37.547 Average server FPS: 1126.00 (measured interval: 1 s)
+11:39:37.547 Used memory: 2973463 KB
+11:39:37.547 Players: 1 in total
+11:39:38.547 Average server FPS: 1011.00 (measured interval: 1 s)
+11:39:38.547 Used memory: 2973463 KB
+11:39:38.547 Players: 1 in total
+11:39:39.547 Average server FPS: 1080.00 (measured interval: 1 s)
+11:39:39.547 Used memory: 2973463 KB
+11:39:39.547 Players: 1 in total
+11:39:40.547 Average server FPS: 1119.00 (measured interval: 1 s)
+11:39:40.547 Used memory: 2973463 KB
+11:39:40.547 Players: 1 in total
+11:39:41.548 Average server FPS: 988.00 (measured interval: 1 s)
+11:39:41.548 Used memory: 2974824 KB
+11:39:41.548 Players: 1 in total
+11:39:42.547 Average server FPS: 1084.00 (measured interval: 1 s)
+11:39:42.547 Used memory: 2974823 KB
+11:39:42.547 Players: 1 in total
+11:39:42.674 [CE][LootRespawner] (PRIDummy) :: Item [161] causing search overtime: "Glock19"
+11:39:42.758 [CE][LootRespawner] (PRIDummy) :: Item [162] causing search overtime: "AmmoBox_9x19_25rnd"
+11:39:42.856 [CE][LootRespawner] (PRIDummy) :: Item [163] causing search overtime: "Ammo_Expansion_M203_Smoke_Red"
+11:39:42.957 [CE][LootRespawner] (PRIDummy) :: Item [164] causing search overtime: "Ammo_Expansion_M203_Sticky_Smoke_Yellow"
+11:39:43.59 [CE][LootRespawner] (PRIDummy) :: Item [165] causing search overtime: "AKM"
+11:39:43.156 [CE][LootRespawner] (PRIDummy) :: Item [166] causing search overtime: "Mp133Shotgun"
+11:39:43.257 [CE][LootRespawner] (PRIDummy) :: Item [167] causing search overtime: "Mag_AKM_30Rnd"
+11:39:43.357 [CE][LootRespawner] (PRIDummy) :: Item [168] causing search overtime: "NBCJacketGray"
+11:39:43.458 [CE][LootRespawner] (PRIDummy) :: Item [169] causing search overtime: "SV98"
+11:39:43.547 Average server FPS: 1103.00 (measured interval: 1 s)
+11:39:43.547 Used memory: 2975512 KB
+11:39:43.547 Players: 1 in total
+11:39:43.657 [CE][LootRespawner] (PRIDummy) :: Item [170] causing search overtime: "ExpansionHescoKit"
+11:39:43.758 [CE][LootRespawner] (PRIDummy) :: Item [171] causing search overtime: "ExpansionCamoTentKit"
+11:39:43.857 [CE][LootRespawner] (PRIDummy) :: Item [172] causing search overtime: "ExpansionCamoBoxKit"
+11:39:43.957 [CE][LootRespawner] (PRIDummy) :: Item [173] causing search overtime: "LandMineTrap"
+11:39:44.57 [CE][LootRespawner] (PRIDummy) :: Item [174] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:39:44.158 [CE][LootRespawner] (PRIDummy) :: Item [175] causing search overtime: "Expansion_M1A"
+11:39:44.259 [CE][LootRespawner] (PRIDummy) :: Item [176] causing search overtime: "AK74"
+11:39:44.357 [CE][LootRespawner] (PRIDummy) :: Item [177] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:39:44.458 [CE][LootRespawner] (PRIDummy) :: Item [178] causing search overtime: "SSG82"
+11:39:44.547 Average server FPS: 1077.00 (measured interval: 1 s)
+11:39:44.547 Used memory: 2975512 KB
+11:39:44.547 Players: 1 in total
+11:39:44.558 [CE][LootRespawner] (PRIDummy) :: Item [179] causing search overtime: "M18SmokeGrenade_Green"
+11:39:45.547 Average server FPS: 1232.00 (measured interval: 1 s)
+11:39:45.547 Used memory: 2975512 KB
+11:39:45.547 Players: 1 in total
+11:39:46.547 Average server FPS: 1248.00 (measured interval: 1 s)
+11:39:46.547 Used memory: 2975518 KB
+11:39:46.547 Players: 1 in total
+11:39:47.547 Average server FPS: 1244.00 (measured interval: 1 s)
+11:39:47.547 Used memory: 2975519 KB
+11:39:47.547 Players: 1 in total
+11:39:48.547 Average server FPS: 979.00 (measured interval: 1 s)
+11:39:48.547 Used memory: 2975519 KB
+11:39:48.547 Players: 1 in total
+11:39:49.551 Average server FPS: 906.37 (measured interval: 1 s)
+11:39:49.551 Used memory: 2975523 KB
+11:39:49.551 Players: 1 in total
+11:39:50.552 Average server FPS: 883.12 (measured interval: 1 s)
+11:39:50.552 Used memory: 2975520 KB
+11:39:50.552 Players: 1 in total
+11:39:51.552 Average server FPS: 1073.00 (measured interval: 1 s)
+11:39:51.552 Used memory: 2975512 KB
+11:39:51.552 Players: 1 in total
+11:39:52.552 Average server FPS: 1153.00 (measured interval: 1 s)
+11:39:52.552 Used memory: 2975497 KB
+11:39:52.552 Players: 1 in total
+11:39:53.552 Average server FPS: 1244.00 (measured interval: 1 s)
+11:39:53.552 Used memory: 2975414 KB
+11:39:53.552 Players: 1 in total
+11:39:54.552 Average server FPS: 1241.00 (measured interval: 1 s)
+11:39:54.552 Used memory: 2974916 KB
+11:39:54.552 Players: 1 in total
+11:39:55.553 Average server FPS: 1222.00 (measured interval: 1 s)
+11:39:55.553 Used memory: 2974916 KB
+11:39:55.553 Players: 1 in total
+11:39:56.552 Average server FPS: 1078.00 (measured interval: 1 s)
+11:39:56.552 Used memory: 2974916 KB
+11:39:56.552 Players: 1 in total
+11:39:57.552 Average server FPS: 1042.00 (measured interval: 1 s)
+11:39:57.552 Used memory: 2974919 KB
+11:39:57.552 Players: 1 in total
+11:39:58.552 Average server FPS: 1034.00 (measured interval: 1 s)
+11:39:58.552 Used memory: 2974921 KB
+11:39:58.552 Players: 1 in total
+11:39:59.552 Average server FPS: 993.00 (measured interval: 1 s)
+11:39:59.552 Used memory: 2974919 KB
+11:39:59.552 Players: 1 in total
+11:40:00.552 Average server FPS: 1086.00 (measured interval: 1 s)
+11:40:00.552 Used memory: 2974920 KB
+11:40:00.552 Players: 1 in total
+11:40:01.552 Average server FPS: 1091.00 (measured interval: 1 s)
+11:40:01.552 Used memory: 2974920 KB
+11:40:01.552 Players: 1 in total
+11:40:02.552 Average server FPS: 1100.00 (measured interval: 1 s)
+11:40:02.552 Used memory: 2974921 KB
+11:40:02.552 Players: 1 in total
+11:40:03.552 Average server FPS: 1070.00 (measured interval: 1 s)
+11:40:03.552 Used memory: 2974920 KB
+11:40:03.552 Players: 1 in total
+11:40:04.554 Average server FPS: 1014.98 (measured interval: 1 s)
+11:40:04.554 Used memory: 2974928 KB
+11:40:04.554 Players: 1 in total
+11:40:05.553 Average server FPS: 1078.00 (measured interval: 1 s)
+11:40:05.553 Used memory: 2974925 KB
+11:40:05.553 Players: 1 in total
+11:40:06.553 Average server FPS: 909.00 (measured interval: 1 s)
+11:40:06.553 Used memory: 2974928 KB
+11:40:06.553 Players: 1 in total
+11:40:07.555 Average server FPS: 1009.99 (measured interval: 1 s)
+11:40:07.555 Used memory: 2974928 KB
+11:40:07.555 Players: 1 in total
+11:40:08.554 Average server FPS: 1133.00 (measured interval: 1 s)
+11:40:08.554 Used memory: 2975079 KB
+11:40:08.554 Players: 1 in total
+11:40:09.554 Average server FPS: 1223.00 (measured interval: 1 s)
+11:40:09.554 Used memory: 2975085 KB
+11:40:09.554 Players: 1 in total
+11:40:09.617 [CE][LootRespawner] (PRIDummy) :: Item [180] causing search overtime: "M18SmokeGrenade_Green"
+11:40:09.712 [CE][LootRespawner] (PRIDummy) :: Item [181] causing search overtime: "FlashGrenade"
+11:40:09.812 [CE][LootRespawner] (PRIDummy) :: Item [182] causing search overtime: "Mag_SSG82_5rnd"
+11:40:09.912 [CE][LootRespawner] (PRIDummy) :: Item [183] causing search overtime: "Mag_MP5_30Rnd"
+11:40:10.11 [CE][LootRespawner] (PRIDummy) :: Item [184] causing search overtime: "Fal_OeBttstck"
+11:40:10.112 [CE][LootRespawner] (PRIDummy) :: Item [185] causing search overtime: "Mag_MP5_15Rnd"
+11:40:10.212 [CE][LootRespawner] (PRIDummy) :: Item [186] causing search overtime: "Mag_CMAG_30Rnd"
+11:40:10.311 [CE][LootRespawner] (PRIDummy) :: Item [187] causing search overtime: "AK_Bayonet"
+11:40:10.411 [CE][LootRespawner] (PRIDummy) :: Item [188] causing search overtime: "M18SmokeGrenade_Purple"
+11:40:10.554 Average server FPS: 1242.00 (measured interval: 1 s)
+11:40:10.554 Used memory: 2975153 KB
+11:40:10.554 Players: 1 in total
+11:40:10.717 [CE][LootRespawner] (PRIDummy) :: Item [189] causing search overtime: "Glock19"
+11:40:10.811 [CE][LootRespawner] (PRIDummy) :: Item [190] causing search overtime: "ExpansionHescoKit"
+11:40:10.911 [CE][LootRespawner] (PRIDummy) :: Item [191] causing search overtime: "ExpansionCamoTentKit"
+11:40:11.10 [CE][LootRespawner] (PRIDummy) :: Item [192] causing search overtime: "ExpansionCamoBoxKit"
+11:40:11.111 [CE][LootRespawner] (PRIDummy) :: Item [193] causing search overtime: "LandMineTrap"
+11:40:11.212 [CE][LootRespawner] (PRIDummy) :: Item [194] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:40:11.312 [CE][LootRespawner] (PRIDummy) :: Item [195] causing search overtime: "Expansion_M1A"
+11:40:11.411 [CE][LootRespawner] (PRIDummy) :: Item [196] causing search overtime: "AK74"
+11:40:11.510 [CE][LootRespawner] (PRIDummy) :: Item [197] causing search overtime: "AmmoBox_9x19_25rnd"
+11:40:11.554 Average server FPS: 1156.00 (measured interval: 1 s)
+11:40:11.554 Used memory: 2975263 KB
+11:40:11.554 Players: 1 in total
+11:40:12.13 [CE][Links] found 0 total links between groups, of 4
+11:40:12.13 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+11:40:12.13 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.13 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+11:40:12.21 [CE][Links] found 0 total links between groups, of 5
+11:40:12.21 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+11:40:12.21 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.21 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+11:40:12.26 [CE][Links] found 0 total links between groups, of 6
+11:40:12.26 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+11:40:12.26 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.26 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+11:40:12.36 [CE][Links] found 2 total links between groups, of 7
+11:40:12.36 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 6, deloot: 2, containermaxsum: 4
+11:40:12.36 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.36 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (6 > 4)
+11:40:12.44 [CE][Links] found 2 total links between groups, of 8
+11:40:12.44 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+11:40:12.44 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.49 [CE][Links] found 2 total links between groups, of 9
+11:40:12.49 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+11:40:12.49 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.49 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox1_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+11:40:12.52 [CE][Links] found 2 total links between groups, of 10
+11:40:12.52 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE, lootmin: 4, lootmax: 8, wanted: 7, deloot: 2, containermaxsum: 4
+11:40:12.52 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.52 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox2_DE :: !!! Wanting to spawn more loot than possible (7 > 4)
+11:40:12.55 [CE][Links] found 4 total links between groups, of 11
+11:40:12.55 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 4, deloot: 2, containermaxsum: 4
+11:40:12.55 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.56 [CE][Links] found 10 total links between groups, of 12
+11:40:12.56 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE, lootmin: 4, lootmax: 8, wanted: 5, deloot: 2, containermaxsum: 4
+11:40:12.56 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Sum of container LootMax is lower than event child LootMax (4 < 8)
+11:40:12.56 [CE][SpawnRandomLoot] (StaticAirplaneCrate) :: Type: StaticObj_Misc_SupplyBox3_DE :: !!! Wanting to spawn more loot than possible (5 > 4)
+11:40:12.320 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+11:40:12.555 Average server FPS: 988.00 (measured interval: 1 s)
+11:40:12.555 Used memory: 2976313 KB
+11:40:12.555 Players: 1 in total
+11:40:12.919 [CE][Links] found 10 total links between groups, of 13
+11:40:12.919 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.921 [CE][Links] found 10 total links between groups, of 14
+11:40:12.921 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.924 [CE][Links] found 10 total links between groups, of 15
+11:40:12.924 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.927 [CE][Links] found 10 total links between groups, of 16
+11:40:12.927 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.928 [CE][Links] found 10 total links between groups, of 17
+11:40:12.928 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.937 [CE][Links] found 10 total links between groups, of 18
+11:40:12.937 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.941 [CE][Links] found 10 total links between groups, of 19
+11:40:12.941 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban2_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.947 [CE][Links] found 10 total links between groups, of 20
+11:40:12.947 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_wreck_truck01_aban1_green_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.948 [CE][Links] found 12 total links between groups, of 21
+11:40:12.948 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_hb01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:12.950 [CE][Links] found 12 total links between groups, of 22
+11:40:12.950 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.955 [CE][Links] found 12 total links between groups, of 23
+11:40:12.955 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.961 [CE][Links] found 12 total links between groups, of 24
+11:40:12.961 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Ural_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.963 [CE][Links] found 12 total links between groups, of 25
+11:40:12.963 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_offroad02_aban1_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.964 [CE][Links] found 12 total links between groups, of 26
+11:40:12.964 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.975 [CE][Links] found 12 total links between groups, of 27
+11:40:12.975 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BRDM_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:12.988 [CE][Links] found 12 total links between groups, of 28
+11:40:12.988 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP2_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:13.03 [CE][Links] found 12 total links between groups, of 29
+11:40:13.03 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: Land_Wreck_V3S_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:13.06 [CE][Links] found 12 total links between groups, of 30
+11:40:13.06 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_Uaz_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:13.10 [CE][Links] found 12 total links between groups, of 31
+11:40:13.10 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_T72_Chassis_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:40:13.17 [CE][Links] found 14 total links between groups, of 32
+11:40:13.17 [CE][SpawnRandomLoot] (StaticMilitaryConvoy) :: Type: StaticObj_Wreck_BMP1_NoPlacement_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:13.236 [CE][Links] found 14 total links between groups, of 33
+11:40:13.236 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban1_white_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.246 [CE][Links] found 16 total links between groups, of 34
+11:40:13.246 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban1_grey_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.252 [CE][Links] found 16 total links between groups, of 35
+11:40:13.252 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:40:13.260 [CE][Links] found 16 total links between groups, of 36
+11:40:13.260 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.266 [CE][Links] found 16 total links between groups, of 37
+11:40:13.266 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:40:13.273 [CE][Links] found 16 total links between groups, of 38
+11:40:13.273 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:40:13.282 [CE][Links] found 16 total links between groups, of 39
+11:40:13.282 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_black_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.295 [CE][Links] found 16 total links between groups, of 40
+11:40:13.295 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_truck01_aban1_orange_DE, lootmin: 2, lootmax: 3, wanted: 2, deloot: 1, containermaxsum: 3
+11:40:13.305 [CE][Links] found 18 total links between groups, of 41
+11:40:13.305 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.312 [CE][Links] found 18 total links between groups, of 42
+11:40:13.312 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:40:13.323 [CE][Links] found 20 total links between groups, of 43
+11:40:13.323 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_wreck_truck01_aban1_firetruck_DE, lootmin: 3, lootmax: 5, wanted: 4, deloot: 0, containermaxsum: 2
+11:40:13.323 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Sum of container LootMax is lower than event child LootMax (2 < 5)
+11:40:13.323 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_wreck_truck01_aban1_firetruck_DE :: !!! Wanting to spawn more loot than possible (4 > 2)
+11:40:13.327 [CE][Links] found 20 total links between groups, of 44
+11:40:13.327 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb01_aban2_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.331 [CE][Links] found 20 total links between groups, of 45
+11:40:13.331 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban1_police_DE, lootmin: 2, lootmax: 4, wanted: 3, deloot: 1, containermaxsum: 4
+11:40:13.348 [CE][Links] found 20 total links between groups, of 46
+11:40:13.348 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed01_aban2_police_DE, lootmin: 2, lootmax: 4, wanted: 2, deloot: 1, containermaxsum: 4
+11:40:13.351 [CE][Links] found 20 total links between groups, of 47
+11:40:13.351 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_sed02_aban1_grey_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.356 [CE][Links] found 20 total links between groups, of 48
+11:40:13.356 [CE][SpawnRandomLoot] (StaticPoliceSituation) :: Type: Land_Wreck_hb02_aban1_blue_DE, lootmin: 2, lootmax: 2, wanted: 2, deloot: 1, containermaxsum: 2
+11:40:13.554 Average server FPS: 555.00 (measured interval: 1 s)
+11:40:13.554 Used memory: 2982635 KB
+11:40:13.554 Players: 1 in total
+11:40:14.555 Average server FPS: 707.00 (measured interval: 1 s)
+11:40:14.555 Used memory: 2982919 KB
+11:40:14.555 Players: 1 in total
+11:40:15.554 Average server FPS: 663.00 (measured interval: 1 s)
+11:40:15.554 Used memory: 2983619 KB
+11:40:15.554 Players: 1 in total
+11:40:16.561 Average server FPS: 583.91 (measured interval: 1 s)
+11:40:16.561 Used memory: 2983722 KB
+11:40:16.561 Players: 1 in total
+11:40:17.563 Average server FPS: 440.12 (measured interval: 1 s)
+11:40:17.563 Used memory: 2984590 KB
+11:40:17.563 Players: 1 in total
+11:40:18.565 Average server FPS: 578.42 (measured interval: 1 s)
+11:40:18.565 Used memory: 2984582 KB
+11:40:18.565 Players: 1 in total
+11:40:19.564 Average server FPS: 1167.00 (measured interval: 1 s)
+11:40:19.564 Used memory: 2984554 KB
+11:40:19.564 Players: 1 in total
+11:40:20.564 Average server FPS: 1156.00 (measured interval: 1 s)
+11:40:20.564 Used memory: 2984539 KB
+11:40:20.564 Players: 1 in total
+11:40:21.564 Average server FPS: 1204.00 (measured interval: 1 s)
+11:40:21.564 Used memory: 2984530 KB
+11:40:21.564 Players: 1 in total
+11:40:22.564 Average server FPS: 1219.00 (measured interval: 1 s)
+11:40:22.564 Used memory: 2984531 KB
+11:40:22.564 Players: 1 in total
+11:40:23.564 Average server FPS: 999.00 (measured interval: 1 s)
+11:40:23.564 Used memory: 2984531 KB
+11:40:23.564 Players: 1 in total
+11:40:24.564 Average server FPS: 950.00 (measured interval: 1 s)
+11:40:24.564 Used memory: 2985571 KB
+11:40:24.564 Players: 1 in total
+11:40:25.592 Average server FPS: 793.57 (measured interval: 1 s)
+11:40:25.592 Used memory: 2985574 KB
+11:40:25.592 Players: 1 in total
+11:40:26.594 Average server FPS: 973.05 (measured interval: 1 s)
+11:40:26.594 Used memory: 2985576 KB
+11:40:26.594 Players: 1 in total
+11:40:27.593 Average server FPS: 1115.00 (measured interval: 1 s)
+11:40:27.593 Used memory: 2985577 KB
+11:40:27.593 Players: 1 in total
+11:40:28.595 Average server FPS: 1001.00 (measured interval: 1 s)
+11:40:28.595 Used memory: 2985578 KB
+11:40:28.595 Players: 1 in total
+11:40:29.597 Average server FPS: 1053.89 (measured interval: 1 s)
+11:40:29.597 Used memory: 2985580 KB
+11:40:29.597 Players: 1 in total
+11:40:30.597 Average server FPS: 1097.00 (measured interval: 1 s)
+11:40:30.597 Used memory: 2985581 KB
+11:40:30.597 Players: 1 in total
+11:40:31.605 Average server FPS: 1062.50 (measured interval: 1 s)
+11:40:31.605 Used memory: 2985581 KB
+11:40:31.605 Players: 1 in total
+11:40:32.608 Average server FPS: 1079.84 (measured interval: 1 s)
+11:40:32.608 Used memory: 2985583 KB
+11:40:32.608 Players: 1 in total
+11:40:33.607 Average server FPS: 952.00 (measured interval: 1 s)
+11:40:33.607 Used memory: 2985582 KB
+11:40:33.607 Players: 1 in total
+11:40:34.608 Average server FPS: 1050.00 (measured interval: 1 s)
+11:40:34.608 Used memory: 2985585 KB
+11:40:34.608 Players: 1 in total
+11:40:35.607 Average server FPS: 1113.00 (measured interval: 1 s)
+11:40:35.607 Used memory: 2985582 KB
+11:40:35.607 Players: 1 in total
+11:40:36.607 Average server FPS: 1053.00 (measured interval: 1 s)
+11:40:36.607 Used memory: 2985583 KB
+11:40:36.607 Players: 1 in total
+11:40:36.684 [CE][LootRespawner] (PRIDummy) :: Item [198] causing search overtime: "AmmoBox_9x19_25rnd"
+11:40:36.780 [CE][LootRespawner] (PRIDummy) :: Item [199] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:40:36.881 [CE][LootRespawner] (PRIDummy) :: Item [200] causing search overtime: "SSG82"
+11:40:36.982 [CE][LootRespawner] (PRIDummy) :: Item [201] causing search overtime: "Ammo_Expansion_M203_Smoke_Red"
+11:40:37.80 [CE][LootRespawner] (PRIDummy) :: Item [202] causing search overtime: "Mag_Glock_15Rnd"
+11:40:37.182 [CE][LootRespawner] (PRIDummy) :: Item [203] causing search overtime: "Ammo_Expansion_M203_Sticky_Smoke_Yellow"
+11:40:37.280 [CE][LootRespawner] (PRIDummy) :: Item [204] causing search overtime: "AKM"
+11:40:37.381 [CE][LootRespawner] (PRIDummy) :: Item [205] causing search overtime: "Mp133Shotgun"
+11:40:37.484 [CE][LootRespawner] (PRIDummy) :: Item [206] causing search overtime: "M4_Suppressor"
+11:40:37.583 [CE][LootRespawner] (PRIDummy) :: Item [207] causing search overtime: "NBCJacketGray"
+11:40:37.608 Average server FPS: 1180.82 (measured interval: 1 s)
+11:40:37.608 Used memory: 2985601 KB
+11:40:37.608 Players: 1 in total
+11:40:37.682 [CE][LootRespawner] (PRIDummy) :: Item [208] causing search overtime: "SV98"
+11:40:37.781 [CE][LootRespawner] (PRIDummy) :: Item [209] causing search overtime: "Mag_AKM_30Rnd"
+11:40:37.984 [CE][LootRespawner] (PRIDummy) :: Item [210] causing search overtime: "Glock19"
+11:40:38.83 [CE][LootRespawner] (PRIDummy) :: Item [211] causing search overtime: "ExpansionHescoKit"
+11:40:38.185 [CE][LootRespawner] (PRIDummy) :: Item [212] causing search overtime: "ExpansionCamoTentKit"
+11:40:38.282 [CE][LootRespawner] (PRIDummy) :: Item [213] causing search overtime: "ExpansionCamoBoxKit"
+11:40:38.383 [CE][LootRespawner] (PRIDummy) :: Item [214] causing search overtime: "LandMineTrap"
+11:40:38.483 [CE][LootRespawner] (PRIDummy) :: Item [215] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:40:38.584 [CE][LootRespawner] (PRIDummy) :: Item [216] causing search overtime: "Expansion_M1A"
+11:40:38.608 Average server FPS: 1152.00 (measured interval: 1 s)
+11:40:38.608 Used memory: 2985602 KB
+11:40:38.608 Players: 1 in total
+11:40:39.608 Average server FPS: 1179.00 (measured interval: 1 s)
+11:40:39.608 Used memory: 2985602 KB
+11:40:39.608 Players: 1 in total
+11:40:40.608 Average server FPS: 1337.00 (measured interval: 1 s)
+11:40:40.608 Used memory: 2985616 KB
+11:40:40.608 Players: 1 in total
+11:40:41.609 Average server FPS: 1245.75 (measured interval: 1 s)
+11:40:41.609 Used memory: 2985616 KB
+11:40:41.609 Players: 1 in total
+11:40:42.649 Average server FPS: 947.06 (measured interval: 1 s)
+11:40:42.649 Used memory: 2985620 KB
+11:40:42.649 Players: 1 in total
+11:40:43.649 Average server FPS: 929.00 (measured interval: 1 s)
+11:40:43.649 Used memory: 2985620 KB
+11:40:43.649 Players: 1 in total
+11:40:44.648 Average server FPS: 798.00 (measured interval: 1 s)
+11:40:44.648 Used memory: 2985621 KB
+11:40:44.648 Players: 1 in total
+11:40:45.648 Average server FPS: 1023.00 (measured interval: 1 s)
+11:40:45.648 Used memory: 2985626 KB
+11:40:45.648 Players: 1 in total
+11:40:46.648 Average server FPS: 1272.00 (measured interval: 1 s)
+11:40:46.649 Used memory: 2985606 KB
+11:40:46.649 Players: 1 in total
+11:40:47.648 Average server FPS: 1230.00 (measured interval: 1 s)
+11:40:47.648 Used memory: 2985598 KB
+11:40:47.648 Players: 1 in total
+11:40:48.648 Average server FPS: 1218.00 (measured interval: 1 s)
+11:40:48.648 Used memory: 2985559 KB
+11:40:48.648 Players: 1 in total
+11:40:49.649 Average server FPS: 1310.00 (measured interval: 1 s)
+11:40:49.649 Used memory: 2985559 KB
+11:40:49.649 Players: 1 in total
+11:40:50.648 Average server FPS: 1591.00 (measured interval: 1 s)
+11:40:50.648 Used memory: 2985559 KB
+11:40:50.648 Players: 1 in total
+11:40:51.648 Average server FPS: 900.00 (measured interval: 1 s)
+11:40:51.648 Used memory: 2985560 KB
+11:40:51.648 Players: 1 in total
+11:40:52.653 Average server FPS: 973.13 (measured interval: 1 s)
+11:40:52.653 Used memory: 2985710 KB
+11:40:52.653 Players: 1 in total
+11:40:53.653 Average server FPS: 1100.00 (measured interval: 1 s)
+11:40:53.653 Used memory: 2985705 KB
+11:40:53.653 Players: 1 in total
+11:40:54.653 Average server FPS: 1148.00 (measured interval: 1 s)
+11:40:54.653 Used memory: 2985706 KB
+11:40:54.653 Players: 1 in total
+11:40:55.655 Average server FPS: 1142.86 (measured interval: 1 s)
+11:40:55.655 Used memory: 2985715 KB
+11:40:55.655 Players: 1 in total
+11:40:56.654 Average server FPS: 1068.00 (measured interval: 1 s)
+11:40:56.654 Used memory: 2985713 KB
+11:40:56.655 Players: 1 in total
+11:40:57.655 Average server FPS: 1151.85 (measured interval: 1 s)
+11:40:57.655 Used memory: 2985714 KB
+11:40:57.655 Players: 1 in total
+11:40:58.661 Average server FPS: 1038.77 (measured interval: 1 s)
+11:40:58.661 Used memory: 2985718 KB
+11:40:58.661 Players: 1 in total
+11:40:59.661 Average server FPS: 1029.00 (measured interval: 1 s)
+11:40:59.661 Used memory: 2985720 KB
+11:40:59.661 Players: 1 in total
+11:41:00.661 Average server FPS: 1033.00 (measured interval: 1 s)
+11:41:00.661 Used memory: 2986769 KB
+11:41:00.661 Players: 1 in total
+11:41:01.662 Average server FPS: 1073.00 (measured interval: 1 s)
+11:41:01.662 Used memory: 2986770 KB
+11:41:01.662 Players: 1 in total
+11:41:02.661 Average server FPS: 1149.00 (measured interval: 1 s)
+11:41:02.661 Used memory: 2986771 KB
+11:41:02.661 Players: 1 in total
+11:41:03.661 Average server FPS: 1052.00 (measured interval: 1 s)
+11:41:03.661 Used memory: 2986772 KB
+11:41:03.661 Players: 1 in total
+11:41:03.827 [CE][LootRespawner] (PRIDummy) :: Item [217] causing search overtime: "AK74"
+11:41:03.928 [CE][LootRespawner] (PRIDummy) :: Item [218] causing search overtime: "FlashGrenade"
+11:41:04.27 [CE][LootRespawner] (PRIDummy) :: Item [219] causing search overtime: "Mag_MP5_30Rnd"
+11:41:04.127 [CE][LootRespawner] (PRIDummy) :: Item [220] causing search overtime: "Fal_OeBttstck"
+11:41:04.227 [CE][LootRespawner] (PRIDummy) :: Item [221] causing search overtime: "Mag_MP5_15Rnd"
+11:41:04.328 [CE][LootRespawner] (PRIDummy) :: Item [222] causing search overtime: "Mag_SSG82_5rnd"
+11:41:04.430 [CE][LootRespawner] (PRIDummy) :: Item [223] causing search overtime: "Mag_CMAG_30Rnd"
+11:41:04.527 [CE][LootRespawner] (PRIDummy) :: Item [224] causing search overtime: "AK_Bayonet"
+11:41:04.627 [CE][LootRespawner] (PRIDummy) :: Item [225] causing search overtime: "M18SmokeGrenade_Green"
+11:41:04.661 Average server FPS: 1322.00 (measured interval: 1 s)
+11:41:04.661 Used memory: 2986863 KB
+11:41:04.661 Players: 1 in total
+11:41:04.728 [CE][LootRespawner] (PRIDummy) :: Item [226] causing search overtime: "M18SmokeGrenade_Purple"
+11:41:05.28 [CE][LootRespawner] (PRIDummy) :: Item [227] causing search overtime: "Ammo_45ACP"
+11:41:05.129 [CE][LootRespawner] (PRIDummy) :: Item [228] causing search overtime: "Glock19"
+11:41:05.228 [CE][LootRespawner] (PRIDummy) :: Item [229] causing search overtime: "ExpansionHescoKit"
+11:41:05.330 [CE][LootRespawner] (PRIDummy) :: Item [230] causing search overtime: "ExpansionCamoTentKit"
+11:41:05.429 [CE][LootRespawner] (PRIDummy) :: Item [231] causing search overtime: "ExpansionCamoBoxKit"
+11:41:05.528 [CE][LootRespawner] (PRIDummy) :: Item [232] causing search overtime: "LandMineTrap"
+11:41:05.630 [CE][LootRespawner] (PRIDummy) :: Item [233] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:41:05.661 Average server FPS: 1192.00 (measured interval: 1 s)
+11:41:05.661 Used memory: 2986889 KB
+11:41:05.661 Players: 1 in total
+11:41:06.661 Average server FPS: 1186.00 (measured interval: 1 s)
+11:41:06.661 Used memory: 2986889 KB
+11:41:06.661 Players: 1 in total
+11:41:07.661 Average server FPS: 1263.00 (measured interval: 1 s)
+11:41:07.661 Used memory: 2986957 KB
+11:41:07.661 Players: 1 in total
+11:41:08.661 Average server FPS: 1205.00 (measured interval: 1 s)
+11:41:08.661 Used memory: 2986963 KB
+11:41:08.661 Players: 1 in total
+11:41:09.684 Average server FPS: 943.25 (measured interval: 1 s)
+11:41:09.684 Used memory: 2986971 KB
+11:41:09.684 Players: 1 in total
+11:41:10.683 Average server FPS: 945.00 (measured interval: 1 s)
+11:41:10.683 Used memory: 2987084 KB
+11:41:10.683 Players: 1 in total
+11:41:11.683 Average server FPS: 870.00 (measured interval: 1 s)
+11:41:11.683 Used memory: 2987089 KB
+11:41:11.683 Players: 1 in total
+11:41:12.683 Average server FPS: 1033.00 (measured interval: 1 s)
+11:41:12.683 Used memory: 2987105 KB
+11:41:12.683 Players: 1 in total
+11:41:13.683 Average server FPS: 1196.00 (measured interval: 1 s)
+11:41:13.683 Used memory: 2987077 KB
+11:41:13.683 Players: 1 in total
+11:41:14.683 Average server FPS: 1240.00 (measured interval: 1 s)
+11:41:14.683 Used memory: 2987057 KB
+11:41:14.683 Players: 1 in total
+11:41:15.683 Average server FPS: 1194.00 (measured interval: 1 s)
+11:41:15.683 Used memory: 2987015 KB
+11:41:15.683 Players: 1 in total
+11:41:16.682 Average server FPS: 1285.00 (measured interval: 1 s)
+11:41:16.682 Used memory: 2987021 KB
+11:41:16.682 Players: 1 in total
+11:41:17.684 Average server FPS: 1021.98 (measured interval: 1 s)
+11:41:17.684 Used memory: 2987028 KB
+11:41:17.684 Players: 1 in total
+11:41:18.697 Average server FPS: 834.16 (measured interval: 1 s)
+11:41:18.697 Used memory: 2987041 KB
+11:41:18.697 Players: 1 in total
+11:41:19.696 Average server FPS: 955.00 (measured interval: 1 s)
+11:41:19.696 Used memory: 2987038 KB
+11:41:19.696 Players: 1 in total
+11:41:20.697 Average server FPS: 1028.00 (measured interval: 1 s)
+11:41:20.697 Used memory: 2987039 KB
+11:41:20.697 Players: 1 in total
+11:41:21.699 Average server FPS: 1068.86 (measured interval: 1 s)
+11:41:21.699 Used memory: 2987039 KB
+11:41:21.699 Players: 1 in total
+11:41:22.700 Average server FPS: 1157.84 (measured interval: 1 s)
+11:41:22.700 Used memory: 2987041 KB
+11:41:22.700 Players: 1 in total
+11:41:23.701 Average server FPS: 1077.92 (measured interval: 1 s)
+11:41:23.701 Used memory: 2987045 KB
+11:41:23.701 Players: 1 in total
+11:41:24.703 Average server FPS: 1125.75 (measured interval: 1 s)
+11:41:24.703 Used memory: 2987045 KB
+11:41:24.703 Players: 1 in total
+11:41:25.702 Average server FPS: 996.00 (measured interval: 1 s)
+11:41:25.702 Used memory: 2987046 KB
+11:41:25.703 Players: 1 in total
+11:41:26.702 Average server FPS: 1120.00 (measured interval: 1 s)
+11:41:26.702 Used memory: 2987046 KB
+11:41:26.702 Players: 1 in total
+11:41:27.711 Average server FPS: 1044.64 (measured interval: 1 s)
+11:41:27.711 Used memory: 2987046 KB
+11:41:27.711 Players: 1 in total
+11:41:28.711 Average server FPS: 1110.00 (measured interval: 1 s)
+11:41:28.711 Used memory: 2987103 KB
+11:41:28.711 Players: 1 in total
+11:41:29.711 Average server FPS: 1194.00 (measured interval: 1 s)
+11:41:29.711 Used memory: 2987102 KB
+11:41:29.711 Players: 1 in total
+11:41:30.711 Average server FPS: 1115.00 (measured interval: 1 s)
+11:41:30.711 Used memory: 2987205 KB
+11:41:30.711 Players: 1 in total
+11:41:30.781 [CE][LootRespawner] (PRIDummy) :: Item [234] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:41:30.881 [CE][LootRespawner] (PRIDummy) :: Item [235] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:41:30.982 [CE][LootRespawner] (PRIDummy) :: Item [236] causing search overtime: "SSG82"
+11:41:31.85 [CE][LootRespawner] (PRIDummy) :: Item [237] causing search overtime: "Ammo_Expansion_M203_Smoke_Red"
+11:41:31.181 [CE][LootRespawner] (PRIDummy) :: Item [238] causing search overtime: "Mag_Glock_15Rnd"
+11:41:31.281 [CE][LootRespawner] (PRIDummy) :: Item [239] causing search overtime: "AmmoBox_9x19_25rnd"
+11:41:31.382 [CE][LootRespawner] (PRIDummy) :: Item [240] causing search overtime: "Ammo_Expansion_M203_Sticky_Smoke_Yellow"
+11:41:31.481 [CE][LootRespawner] (PRIDummy) :: Item [241] causing search overtime: "AKM"
+11:41:31.582 [CE][LootRespawner] (PRIDummy) :: Item [242] causing search overtime: "Mp133Shotgun"
+11:41:31.682 [CE][LootRespawner] (PRIDummy) :: Item [243] causing search overtime: "M4_Suppressor"
+11:41:31.710 Average server FPS: 1242.00 (measured interval: 1 s)
+11:41:31.711 Used memory: 2987300 KB
+11:41:31.711 Players: 1 in total
+11:41:31.783 [CE][LootRespawner] (PRIDummy) :: Item [244] causing search overtime: "NBCJacketGray"
+11:41:31.882 [CE][LootRespawner] (PRIDummy) :: Item [245] causing search overtime: "SV98"
+11:41:31.983 [CE][LootRespawner] (PRIDummy) :: Item [246] causing search overtime: "Mag_AKM_30Rnd"
+11:41:32.184 [CE][LootRespawner] (PRIDummy) :: Item [247] causing search overtime: "Ammo_45ACP"
+11:41:32.283 [CE][LootRespawner] (PRIDummy) :: Item [248] causing search overtime: "Glock19"
+11:41:32.382 [CE][LootRespawner] (PRIDummy) :: Item [249] causing search overtime: "ExpansionHescoKit"
+11:41:32.482 [CE][LootRespawner] (PRIDummy) :: Item [250] causing search overtime: "ExpansionCamoTentKit"
+11:41:32.582 [CE][LootRespawner] (PRIDummy) :: Item [251] causing search overtime: "ExpansionCamoBoxKit"
+11:41:32.711 Average server FPS: 1254.00 (measured interval: 1 s)
+11:41:32.711 Used memory: 2987302 KB
+11:41:32.711 Players: 1 in total
+11:41:32.781 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+11:41:33.710 Average server FPS: 1189.00 (measured interval: 1 s)
+11:41:33.710 Used memory: 2987302 KB
+11:41:33.710 Players: 1 in total
+11:41:34.711 Average server FPS: 1317.00 (measured interval: 1 s)
+11:41:34.711 Used memory: 2987391 KB
+11:41:34.711 Players: 1 in total
+11:41:35.711 Average server FPS: 1280.00 (measured interval: 1 s)
+11:41:35.711 Used memory: 2987390 KB
+11:41:35.711 Players: 1 in total
+11:41:36.710 Average server FPS: 866.00 (measured interval: 1 s)
+11:41:36.710 Used memory: 2987546 KB
+11:41:36.710 Players: 1 in total
+11:41:37.711 Average server FPS: 937.00 (measured interval: 1 s)
+11:41:37.711 Used memory: 2987545 KB
+11:41:37.711 Players: 1 in total
+11:41:38.735 Average server FPS: 850.59 (measured interval: 1 s)
+11:41:38.735 Used memory: 2987549 KB
+11:41:38.735 Players: 1 in total
+11:41:39.737 Average server FPS: 1118.76 (measured interval: 1 s)
+11:41:39.737 Used memory: 2987639 KB
+11:41:39.737 Players: 1 in total
+11:41:40.738 Average server FPS: 1263.74 (measured interval: 1 s)
+11:41:40.738 Used memory: 2987604 KB
+11:41:40.738 Players: 1 in total
+11:41:41.738 Average server FPS: 1242.00 (measured interval: 1 s)
+11:41:41.738 Used memory: 2987603 KB
+11:41:41.738 Players: 1 in total
+11:41:42.738 Average server FPS: 1340.00 (measured interval: 1 s)
+11:41:42.738 Used memory: 2987517 KB
+11:41:42.738 Players: 1 in total
+11:41:43.738 Average server FPS: 1178.00 (measured interval: 1 s)
+11:41:43.738 Used memory: 2987521 KB
+11:41:43.738 Players: 1 in total
+11:41:44.745 Average server FPS: 921.55 (measured interval: 1 s)
+11:41:44.745 Used memory: 2987521 KB
+11:41:44.745 Players: 1 in total
+11:41:45.744 Average server FPS: 928.00 (measured interval: 1 s)
+11:41:45.744 Used memory: 2988561 KB
+11:41:45.744 Players: 1 in total
+11:41:46.746 Average server FPS: 999.00 (measured interval: 1 s)
+11:41:46.746 Used memory: 2988565 KB
+11:41:46.746 Players: 1 in total
+11:41:47.750 Average server FPS: 1029.88 (measured interval: 1 s)
+11:41:47.750 Used memory: 2988565 KB
+11:41:47.750 Players: 1 in total
+11:41:48.749 Average server FPS: 1082.00 (measured interval: 1 s)
+11:41:48.749 Used memory: 2988566 KB
+11:41:48.749 Players: 1 in total
+11:41:49.750 Average server FPS: 1157.00 (measured interval: 1 s)
+11:41:49.750 Used memory: 2988566 KB
+11:41:49.750 Players: 1 in total
+11:41:50.758 Average server FPS: 1050.60 (measured interval: 1 s)
+11:41:50.758 Used memory: 2988569 KB
+11:41:50.758 Players: 1 in total
+11:41:51.758 Average server FPS: 1104.00 (measured interval: 1 s)
+11:41:51.758 Used memory: 2988566 KB
+11:41:51.758 Players: 1 in total
+11:41:52.757 Average server FPS: 1073.00 (measured interval: 1 s)
+11:41:52.757 Used memory: 2988571 KB
+11:41:52.757 Players: 1 in total
+11:41:53.760 Average server FPS: 1036.93 (measured interval: 1 s)
+11:41:53.760 Used memory: 2988568 KB
+11:41:53.760 Players: 1 in total
+11:41:54.760 Average server FPS: 1072.00 (measured interval: 1 s)
+11:41:54.760 Used memory: 2988567 KB
+11:41:54.760 Players: 1 in total
+11:41:55.760 Average server FPS: 1063.00 (measured interval: 1 s)
+11:41:55.760 Used memory: 2988568 KB
+11:41:55.760 Players: 1 in total
+11:41:56.760 Average server FPS: 1154.00 (measured interval: 1 s)
+11:41:56.760 Used memory: 2988568 KB
+11:41:56.760 Players: 1 in total
+11:41:57.623 [CE][LootRespawner] (PRIDummy) :: Item [0] is hard to place, performance drops: "PoliceVest"
+11:41:57.760 Average server FPS: 1211.00 (measured interval: 1 s)
+11:41:57.760 Used memory: 2988809 KB
+11:41:57.760 Players: 1 in total
+11:41:57.814 [CE][LootRespawner] (PRIDummy) :: Item [252] causing search overtime: "ExpansionCamoBoxKit"
+11:41:57.916 [CE][LootRespawner] (PRIDummy) :: Item [253] causing search overtime: "LandMineTrap"
+11:41:58.18 [CE][LootRespawner] (PRIDummy) :: Item [254] causing search overtime: "AK74"
+11:41:58.115 [CE][LootRespawner] (PRIDummy) :: Item [255] causing search overtime: "FlashGrenade"
+11:41:58.215 [CE][LootRespawner] (PRIDummy) :: Item [256] causing search overtime: "Mag_MP5_30Rnd"
+11:41:58.314 [CE][LootRespawner] (PRIDummy) :: Item [257] causing search overtime: "Fal_OeBttstck"
+11:41:58.415 [CE][LootRespawner] (PRIDummy) :: Item [258] causing search overtime: "Mag_MP5_15Rnd"
+11:41:58.515 [CE][LootRespawner] (PRIDummy) :: Item [259] causing search overtime: "Mag_SSG82_5rnd"
+11:41:58.614 [CE][LootRespawner] (PRIDummy) :: Item [260] causing search overtime: "Mag_CMAG_30Rnd"
+11:41:58.714 [CE][LootRespawner] (PRIDummy) :: Item [261] causing search overtime: "AK_Bayonet"
+11:41:58.760 Average server FPS: 1340.00 (measured interval: 1 s)
+11:41:58.760 Used memory: 2988902 KB
+11:41:58.760 Players: 1 in total
+11:41:58.813 [CE][LootRespawner] (PRIDummy) :: Item [262] causing search overtime: "M18SmokeGrenade_Green"
+11:41:58.915 [CE][LootRespawner] (PRIDummy) :: Item [263] causing search overtime: "M18SmokeGrenade_Purple"
+11:41:59.114 [CE][LootRespawner] (PRIDummy) :: Item [264] causing search overtime: "Ammo_45ACP"
+11:41:59.214 [CE][LootRespawner] (PRIDummy) :: Item [265] causing search overtime: "Glock19"
+11:41:59.314 [CE][LootRespawner] (PRIDummy) :: Item [266] causing search overtime: "ExpansionHescoKit"
+11:41:59.415 [CE][LootRespawner] (PRIDummy) :: Item [267] causing search overtime: "ExpansionCamoTentKit"
+11:41:59.515 [CE][LootRespawner] (PRIDummy) :: Item [268] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:41:59.761 Average server FPS: 1201.80 (measured interval: 1 s)
+11:41:59.761 Used memory: 2988904 KB
+11:41:59.761 Players: 1 in total
+11:42:00.762 Average server FPS: 1216.78 (measured interval: 1 s)
+11:42:00.762 Used memory: 2988919 KB
+11:42:00.762 Players: 1 in total
+11:42:01.513 [CE][VehicleRespawner] (PRIContaminatedArea) :: Initial random enabled for "StaticContaminatedArea" - Chosen nominal: 1
+11:42:01.762 Average server FPS: 1363.00 (measured interval: 1 s)
+11:42:01.762 Used memory: 2988921 KB
+11:42:01.762 Players: 1 in total
+11:42:02.762 Average server FPS: 1218.00 (measured interval: 1 s)
+11:42:02.762 Used memory: 2989000 KB
+11:42:02.762 Players: 1 in total
+11:42:03.762 Average server FPS: 925.00 (measured interval: 1 s)
+11:42:03.762 Used memory: 2989003 KB
+11:42:03.762 Players: 1 in total
+11:42:04.769 Average server FPS: 1019.86 (measured interval: 1 s)
+11:42:04.769 Used memory: 2989006 KB
+11:42:04.769 Players: 1 in total
+11:42:05.771 Average server FPS: 885.23 (measured interval: 1 s)
+11:42:05.771 Used memory: 2989014 KB
+11:42:05.771 Players: 1 in total
+11:42:06.770 Average server FPS: 1103.00 (measured interval: 1 s)
+11:42:06.770 Used memory: 2989000 KB
+11:42:06.770 Players: 1 in total
+11:42:07.771 Average server FPS: 1278.00 (measured interval: 1 s)
+11:42:07.771 Used memory: 2988997 KB
+11:42:07.771 Players: 1 in total
+11:42:08.771 Average server FPS: 1226.00 (measured interval: 1 s)
+11:42:08.771 Used memory: 2988965 KB
+11:42:08.771 Players: 1 in total
+11:42:09.775 Average server FPS: 1308.77 (measured interval: 1 s)
+11:42:09.775 Used memory: 2988814 KB
+11:42:09.775 Players: 1 in total
+11:42:10.775 Average server FPS: 1264.00 (measured interval: 1 s)
+11:42:10.775 Used memory: 2988831 KB
+11:42:10.775 Players: 1 in total
+11:42:11.775 Average server FPS: 1148.00 (measured interval: 1 s)
+11:42:11.775 Used memory: 2988942 KB
+11:42:11.775 Players: 1 in total
+11:42:12.775 Average server FPS: 1004.00 (measured interval: 1 s)
+11:42:12.775 Used memory: 2988943 KB
+11:42:12.775 Players: 1 in total
+11:42:13.775 Average server FPS: 1031.00 (measured interval: 1 s)
+11:42:13.775 Used memory: 2988979 KB
+11:42:13.775 Players: 1 in total
+11:42:14.774 Average server FPS: 1155.00 (measured interval: 1 s)
+11:42:14.774 Used memory: 2988982 KB
+11:42:14.774 Players: 1 in total
+11:42:15.775 Average server FPS: 1190.00 (measured interval: 1 s)
+11:42:15.775 Used memory: 2988983 KB
+11:42:15.775 Players: 1 in total
+11:42:16.776 Average server FPS: 1049.95 (measured interval: 1 s)
+11:42:16.776 Used memory: 2989036 KB
+11:42:16.776 Players: 1 in total
+11:42:17.777 Average server FPS: 1012.97 (measured interval: 1 s)
+11:42:17.778 Used memory: 2989032 KB
+11:42:17.778 Players: 1 in total
+11:42:18.778 Average server FPS: 1059.00 (measured interval: 1 s)
+11:42:18.778 Used memory: 2989053 KB
+11:42:18.778 Players: 1 in total
+11:42:19.781 Average server FPS: 873.38 (measured interval: 1 s)
+11:42:19.781 Used memory: 2989056 KB
+11:42:19.781 Players: 1 in total
+11:42:20.781 Average server FPS: 918.00 (measured interval: 1 s)
+11:42:20.781 Used memory: 2990095 KB
+11:42:20.781 Players: 1 in total
+11:42:21.781 Average server FPS: 964.00 (measured interval: 1 s)
+11:42:21.781 Used memory: 2990095 KB
+11:42:21.781 Players: 1 in total
+11:42:22.780 Average server FPS: 1081.00 (measured interval: 1 s)
+11:42:22.780 Used memory: 2990096 KB
+11:42:22.780 Players: 1 in total
+11:42:23.781 Average server FPS: 1168.00 (measured interval: 1 s)
+11:42:23.781 Used memory: 2990096 KB
+11:42:23.781 Players: 1 in total
+11:42:24.556 [CE][LootRespawner] (PRIDummy) :: Item [269] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:42:24.657 [CE][LootRespawner] (PRIDummy) :: Item [270] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:42:24.761 [CE][LootRespawner] (PRIDummy) :: Item [271] causing search overtime: "SSG82"
+11:42:24.787 Average server FPS: 1137.18 (measured interval: 1 s)
+11:42:24.787 Used memory: 2990131 KB
+11:42:24.787 Players: 1 in total
+11:42:24.859 [CE][LootRespawner] (PRIDummy) :: Item [272] causing search overtime: "Mag_Glock_15Rnd"
+11:42:24.957 [CE][LootRespawner] (PRIDummy) :: Item [273] causing search overtime: "AmmoBox_9x19_25rnd"
+11:42:25.57 [CE][LootRespawner] (PRIDummy) :: Item [274] causing search overtime: "Mp133Shotgun"
+11:42:25.156 [CE][LootRespawner] (PRIDummy) :: Item [275] causing search overtime: "Ammo_Expansion_M203_Sticky_Smoke_Yellow"
+11:42:25.256 [CE][LootRespawner] (PRIDummy) :: Item [276] causing search overtime: "AKM"
+11:42:25.357 [CE][LootRespawner] (PRIDummy) :: Item [277] causing search overtime: "Ammo_Expansion_M203_Smoke_Red"
+11:42:25.456 [CE][LootRespawner] (PRIDummy) :: Item [278] causing search overtime: "M4_Suppressor"
+11:42:25.656 [CE][LootRespawner] (PRIDummy) :: Item [279] causing search overtime: "NBCJacketGray"
+11:42:25.756 [CE][LootRespawner] (PRIDummy) :: Item [280] causing search overtime: "SV98"
+11:42:25.787 Average server FPS: 1100.00 (measured interval: 1 s)
+11:42:25.787 Used memory: 2990163 KB
+11:42:25.787 Players: 1 in total
+11:42:25.856 [CE][LootRespawner] (PRIDummy) :: Item [281] causing search overtime: "Mag_AKM_30Rnd"
+11:42:26.57 [CE][LootRespawner] (PRIDummy) :: Item [282] causing search overtime: "Ammo_45ACP"
+11:42:26.158 [CE][LootRespawner] (PRIDummy) :: Item [283] causing search overtime: "Glock19"
+11:42:26.256 [CE][LootRespawner] (PRIDummy) :: Item [284] causing search overtime: "ExpansionHescoKit"
+11:42:26.356 [CE][LootRespawner] (PRIDummy) :: Item [285] causing search overtime: "ExpansionCamoTentKit"
+11:42:26.457 [CE][LootRespawner] (PRIDummy) :: Item [286] causing search overtime: "ExpansionCamoBoxKit"
+11:42:26.787 Average server FPS: 1217.00 (measured interval: 1 s)
+11:42:26.787 Used memory: 2990162 KB
+11:42:26.787 Players: 1 in total
+11:42:27.786 Average server FPS: 1324.00 (measured interval: 1 s)
+11:42:27.787 Used memory: 2990197 KB
+11:42:27.787 Players: 1 in total
+11:42:28.786 Average server FPS: 1394.00 (measured interval: 1 s)
+11:42:28.786 Used memory: 2990209 KB
+11:42:28.786 Players: 1 in total
+11:42:29.787 Average server FPS: 1287.00 (measured interval: 1 s)
+11:42:29.787 Used memory: 2990282 KB
+11:42:29.787 Players: 1 in total
+11:42:30.818 Average server FPS: 889.53 (measured interval: 1 s)
+11:42:30.818 Used memory: 2990286 KB
+11:42:30.818 Players: 1 in total
+11:42:31.818 Average server FPS: 888.00 (measured interval: 1 s)
+11:42:31.818 Used memory: 2990287 KB
+11:42:31.818 Players: 1 in total
+11:42:32.818 Average server FPS: 889.00 (measured interval: 1 s)
+11:42:32.818 Used memory: 2990288 KB
+11:42:32.818 Players: 1 in total
+11:42:33.819 Average server FPS: 1199.00 (measured interval: 1 s)
+11:42:33.819 Used memory: 2990275 KB
+11:42:33.819 Players: 1 in total
+11:42:34.819 Average server FPS: 1295.00 (measured interval: 1 s)
+11:42:34.819 Used memory: 2990237 KB
+11:42:34.819 Players: 1 in total
+11:42:35.819 Average server FPS: 1294.00 (measured interval: 1 s)
+11:42:35.819 Used memory: 2990133 KB
+11:42:35.819 Players: 1 in total
+11:42:36.819 Average server FPS: 1177.00 (measured interval: 1 s)
+11:42:36.819 Used memory: 2990111 KB
+11:42:36.819 Players: 1 in total
+11:42:37.819 Average server FPS: 1210.00 (measured interval: 1 s)
+11:42:37.819 Used memory: 2990113 KB
+11:42:37.819 Players: 1 in total
+11:42:38.819 Average server FPS: 1078.00 (measured interval: 1 s)
+11:42:38.819 Used memory: 2990113 KB
+11:42:38.819 Players: 1 in total
+11:42:39.822 Average server FPS: 1079.76 (measured interval: 1 s)
+11:42:39.822 Used memory: 2990121 KB
+11:42:39.822 Players: 1 in total
+11:42:40.821 Average server FPS: 1060.00 (measured interval: 1 s)
+11:42:40.822 Used memory: 2990114 KB
+11:42:40.822 Players: 1 in total
+11:42:41.822 Average server FPS: 1195.00 (measured interval: 1 s)
+11:42:41.822 Used memory: 2990114 KB
+11:42:41.822 Players: 1 in total
+11:42:42.822 Average server FPS: 1118.00 (measured interval: 1 s)
+11:42:42.822 Used memory: 2990114 KB
+11:42:42.822 Players: 1 in total
+11:42:43.822 Average server FPS: 1159.00 (measured interval: 1 s)
+11:42:43.822 Used memory: 2990117 KB
+11:42:43.822 Players: 1 in total
+11:42:44.822 Average server FPS: 1072.00 (measured interval: 1 s)
+11:42:44.822 Used memory: 2990116 KB
+11:42:44.822 Players: 1 in total
+11:42:45.822 Average server FPS: 1047.00 (measured interval: 1 s)
+11:42:45.822 Used memory: 2990118 KB
+11:42:45.822 Players: 1 in total
+11:42:46.822 Average server FPS: 1103.00 (measured interval: 1 s)
+11:42:46.822 Used memory: 2990119 KB
+11:42:46.822 Players: 1 in total
+11:42:47.821 Average server FPS: 1088.00 (measured interval: 1 s)
+11:42:47.821 Used memory: 2990121 KB
+11:42:47.821 Players: 1 in total
+11:42:48.823 Average server FPS: 1082.92 (measured interval: 1 s)
+11:42:48.823 Used memory: 2990121 KB
+11:42:48.823 Players: 1 in total
+11:42:49.823 Average server FPS: 1157.00 (measured interval: 1 s)
+11:42:49.823 Used memory: 2990121 KB
+11:42:49.823 Players: 1 in total
+11:42:50.574 [Disconnect]: Start script disconnect 45411314 (dbCharacterId 2 dbPlayerId 2) logoutTime 15
+11:42:50.825 Average server FPS: 1207.58 (measured interval: 1 s)
+11:42:50.825 Used memory: 2990124 KB
+11:42:50.825 Players: 1 in total
+11:42:51.489 [CE][LootRespawner] (PRIDummy) :: Item [287] causing search overtime: "ExpansionCamoBoxKit"
+11:42:51.590 [CE][LootRespawner] (PRIDummy) :: Item [288] causing search overtime: "LandMineTrap"
+11:42:51.691 [CE][LootRespawner] (PRIDummy) :: Item [289] causing search overtime: "FlashGrenade"
+11:42:51.789 [CE][LootRespawner] (PRIDummy) :: Item [290] causing search overtime: "Mag_MP5_30Rnd"
+11:42:51.825 Average server FPS: 1273.00 (measured interval: 1 s)
+11:42:51.825 Used memory: 2990132 KB
+11:42:51.825 Players: 1 in total
+11:42:51.889 [CE][LootRespawner] (PRIDummy) :: Item [291] causing search overtime: "AK74"
+11:42:51.989 [CE][LootRespawner] (PRIDummy) :: Item [292] causing search overtime: "Fal_OeBttstck"
+11:42:52.90 [CE][LootRespawner] (PRIDummy) :: Item [293] causing search overtime: "Mag_MP5_15Rnd"
+11:42:52.188 [CE][LootRespawner] (PRIDummy) :: Item [294] causing search overtime: "Mag_SSG82_5rnd"
+11:42:52.288 [CE][LootRespawner] (PRIDummy) :: Item [295] causing search overtime: "Mag_CMAG_30Rnd"
+11:42:52.389 [CE][LootRespawner] (PRIDummy) :: Item [296] causing search overtime: "AK_Bayonet"
+11:42:52.489 [CE][LootRespawner] (PRIDummy) :: Item [297] causing search overtime: "M18SmokeGrenade_Green"
+11:42:52.588 [CE][LootRespawner] (PRIDummy) :: Item [298] causing search overtime: "M18SmokeGrenade_Purple"
+11:42:52.789 [CE][LootRespawner] (PRIDummy) :: Item [299] causing search overtime: "Ammo_45ACP"
+11:42:52.825 Average server FPS: 1289.00 (measured interval: 1 s)
+11:42:52.825 Used memory: 2990132 KB
+11:42:52.825 Players: 1 in total
+11:42:52.889 [CE][LootRespawner] (PRIDummy) :: Item [300] causing search overtime: "Glock19"
+11:42:52.989 [CE][LootRespawner] (PRIDummy) :: Item [301] causing search overtime: "ExpansionHescoKit"
+11:42:53.90 [CE][LootRespawner] (PRIDummy) :: Item [302] causing search overtime: "ExpansionCamoTentKit"
+11:42:53.189 [CE][LootRespawner] (PRIDummy) :: Item [303] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:42:53.290 [CE][LootRespawner] (PRIDummy) :: Item [304] causing search overtime: "AmmoBox_Expansion_46x30_25rnd"
+11:42:53.390 [CE][LootRespawner] (PRIDummy) :: Item [305] causing search overtime: "SSG82"
+11:42:53.825 Average server FPS: 1258.00 (measured interval: 1 s)
+11:42:53.825 Used memory: 2990254 KB
+11:42:53.825 Players: 1 in total
+11:42:54.824 Average server FPS: 1263.00 (measured interval: 1 s)
+11:42:54.825 Used memory: 2990257 KB
+11:42:54.825 Players: 1 in total
+11:42:55.825 Average server FPS: 1361.00 (measured interval: 1 s)
+11:42:55.825 Used memory: 2990261 KB
+11:42:55.825 Players: 1 in total
+11:42:56.847 Average server FPS: 1232.65 (measured interval: 1 s)
+11:42:56.848 Used memory: 2990270 KB
+11:42:56.848 Players: 1 in total
+11:42:57.848 Average server FPS: 884.00 (measured interval: 1 s)
+11:42:57.848 Used memory: 2990265 KB
+11:42:57.848 Players: 1 in total
+11:42:58.848 Average server FPS: 997.00 (measured interval: 1 s)
+11:42:58.848 Used memory: 2990268 KB
+11:42:58.848 Players: 1 in total
+11:42:59.859 Average server FPS: 868.45 (measured interval: 1 s)
+11:42:59.859 Used memory: 2990274 KB
+11:42:59.859 Players: 1 in total
+11:43:00.859 Average server FPS: 1160.84 (measured interval: 1 s)
+11:43:00.859 Used memory: 2990244 KB
+11:43:00.859 Players: 1 in total
+11:43:01.859 Average server FPS: 1236.00 (measured interval: 1 s)
+11:43:01.859 Used memory: 2990244 KB
+11:43:01.860 Players: 1 in total
+11:43:02.859 Average server FPS: 1275.00 (measured interval: 1 s)
+11:43:02.860 Used memory: 2990161 KB
+11:43:02.860 Players: 1 in total
+11:43:03.860 Average server FPS: 1361.00 (measured interval: 1 s)
+11:43:03.860 Used memory: 2990163 KB
+11:43:03.860 Players: 1 in total
+11:43:04.861 Average server FPS: 1298.70 (measured interval: 1 s)
+11:43:04.861 Used memory: 2990164 KB
+11:43:04.861 Players: 1 in total
+11:43:05.615 [Disconnect]: Finish script disconnect 45411314 (ST2qRofmtq6LOOmW_NOk225FczNEnMr20O-DDdlTN8c=)
+11:43:05.615 [Disconnect]: DisconnectPlayerFinish 45411314
+11:43:05.865 Average server FPS: 1228.09 (measured interval: 1 s)
+11:43:05.865 Used memory: 2989393 KB
+11:43:05.865 Players: 1 in total
+11:43:05.865 [Disconnect]: Remove player info 45411314
+11:43:05.882 [Disconnect]: Player destroy 45411314 
+11:43:06.869 Average server FPS: 1628.86 (measured interval: 1 s)
+11:43:06.869 Used memory: 2989055 KB
+11:43:06.869 Players: 0 in total
+11:43:07.872 Average server FPS: 1761.48 (measured interval: 1 s)
+11:43:07.872 Used memory: 2989056 KB
+11:43:07.872 Players: 0 in total
+11:43:08.877 Average server FPS: 1858.71 (measured interval: 1 s)
+11:43:08.877 Used memory: 2989058 KB
+11:43:08.877 Players: 0 in total
+11:43:09.877 Average server FPS: 2004.00 (measured interval: 1 s)
+11:43:09.877 Used memory: 2989060 KB
+11:43:09.877 Players: 0 in total
+11:43:10.877 Average server FPS: 1934.00 (measured interval: 1 s)
+11:43:10.877 Used memory: 2989073 KB
+11:43:10.877 Players: 0 in total
+11:43:11.883 Average server FPS: 1737.57 (measured interval: 1 s)
+11:43:11.883 Used memory: 2989073 KB
+11:43:11.883 Players: 0 in total
+11:43:12.883 Average server FPS: 1855.00 (measured interval: 1 s)
+11:43:12.883 Used memory: 2989073 KB
+11:43:12.883 Players: 0 in total
+11:43:13.883 Average server FPS: 1847.15 (measured interval: 1 s)
+11:43:13.883 Used memory: 2989073 KB
+11:43:13.883 Players: 0 in total
+11:43:14.891 Average server FPS: 1686.20 (measured interval: 1 s)
+11:43:14.891 Used memory: 2989074 KB
+11:43:14.891 Players: 0 in total
+11:43:15.892 Average server FPS: 1844.31 (measured interval: 1 s)
+11:43:15.892 Used memory: 2989073 KB
+11:43:15.892 Players: 0 in total
+11:43:16.893 Average server FPS: 1883.00 (measured interval: 1 s)
+11:43:16.893 Used memory: 2989258 KB
+11:43:16.893 Players: 0 in total
+11:43:17.893 Average server FPS: 1985.00 (measured interval: 1 s)
+11:43:17.893 Used memory: 2989261 KB
+11:43:17.893 Players: 0 in total
+11:43:18.457 [CE][LootRespawner] (PRIDummy) :: Item [306] causing search overtime: "SSG82"
+11:43:18.552 [CE][LootRespawner] (PRIDummy) :: Item [307] causing search overtime: "Mag_Glock_15Rnd"
+11:43:18.652 [CE][LootRespawner] (PRIDummy) :: Item [308] causing search overtime: "AmmoBox_9x19_25rnd"
+11:43:18.753 [CE][LootRespawner] (PRIDummy) :: Item [309] causing search overtime: "Mp133Shotgun"
+11:43:18.852 [CE][LootRespawner] (PRIDummy) :: Item [310] causing search overtime: "Ammo_Expansion_M203_Sticky_Smoke_Yellow"
+11:43:18.893 Average server FPS: 1877.12 (measured interval: 1 s)
+11:43:18.893 Used memory: 2989503 KB
+11:43:18.893 Players: 0 in total
+11:43:18.952 [CE][LootRespawner] (PRIDummy) :: Item [311] causing search overtime: "AKM"
+11:43:19.51 [CE][LootRespawner] (PRIDummy) :: Item [312] causing search overtime: "Ammo_Expansion_M203_Smoke_Red"
+11:43:19.152 [CE][LootRespawner] (PRIDummy) :: Item [313] causing search overtime: "M4_Suppressor"
+11:43:19.252 [CE][LootRespawner] (PRIDummy) :: Item [314] causing search overtime: "NBCJacketGray"
+11:43:19.351 [CE][LootRespawner] (PRIDummy) :: Item [315] causing search overtime: "SV98"
+11:43:19.451 [CE][LootRespawner] (PRIDummy) :: Item [316] causing search overtime: "Mag_AKM_30Rnd"
+11:43:19.652 [CE][LootRespawner] (PRIDummy) :: Item [317] causing search overtime: "Ammo_45ACP"
+11:43:19.752 [CE][LootRespawner] (PRIDummy) :: Item [318] causing search overtime: "Expansion_Taser_Yellow"
+11:43:19.852 [CE][LootRespawner] (PRIDummy) :: Item [319] causing search overtime: "Glock19"
+11:43:19.894 Average server FPS: 1935.00 (measured interval: 1 s)
+11:43:19.894 Used memory: 2989509 KB
+11:43:19.894 Players: 0 in total
+11:43:19.951 [CE][LootRespawner] (PRIDummy) :: Item [320] causing search overtime: "ExpansionHescoKit"
+11:43:20.51 [CE][LootRespawner] (PRIDummy) :: Item [321] causing search overtime: "ExpansionCamoTentKit"
+11:43:20.152 [CE][LootRespawner] (PRIDummy) :: Item [322] causing search overtime: "ExpansionCamoBoxKit"
+11:43:20.251 [CE][LootRespawner] (PRIDummy) :: Item [323] causing search overtime: "LandMineTrap"
+11:43:20.352 [CE][LootRespawner] (PRIDummy) :: Item [324] causing search overtime: "AmmoBox_Expansion_338_15rnd"
+11:43:20.894 Average server FPS: 1882.00 (measured interval: 1 s)
+11:43:20.894 Used memory: 2989511 KB
+11:43:20.894 Players: 0 in total
+11:43:21.752 !!! [CE][VehicleRespawner] (PRIZodiacBoat) :: Respawning: "VehicleZodiacBoat" - Failed to spawn the requested amount (0 < 3) within 9 attempts.
+11:43:21.893 Average server FPS: 1986.00 (measured interval: 1 s)
+11:43:21.894 Used memory: 2989511 KB

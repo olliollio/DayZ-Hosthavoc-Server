@@ -1,0 +1,172 @@
+---------------------------------------------
+Log C:\TCAFiles\Users\mark17\199943\HostHavocDayZServer\script_2025-04-29_10-14-21.log started at 29.04. 10:14:22
+
+SCRIPT       : Registered 406 temporary action enum(s), UAN==406
+SCRIPT       : Registering faction type eAIFactionShamans ID -1484989417
+SCRIPT       : Registering faction type eAIFactionObservers ID -563736721
+SCRIPT       : Registering faction type eAIFactionInvincibleObservers ID -1227299746
+SCRIPT       : Registering faction type eAIFactionRaiders ID 1535276022
+SCRIPT       : Registering faction type eAIFactionYeetBrigade ID 1408543989
+SCRIPT       : Registering faction type eAIFactionWest ID 113880155
+SCRIPT       : Registering faction type eAIFactionInvincibleYeetBrigade ID -1118767876
+SCRIPT       : Registering faction type eAIFactionEast ID 90522109
+SCRIPT       : Registering faction type eAIFactionGuards ID 963933710
+SCRIPT       : Registering faction type eAIFactionMercenaries ID 1629891834
+SCRIPT       : Registering faction type eAIFactionBrawlers ID 1955753718
+SCRIPT       : Registering faction type eAIFactionCivilian ID 1096178351
+SCRIPT       : Registering faction type eAIFactionPassive ID -1159399789
+SCRIPT       : Registering faction type eAIFactionInvincibleGuards ID 782746017
+SCRIPT       : ... Backlit Effects Enabled
+SCRIPT       : 10:14:26.001 [EXPANSION LOG]: DayZGame<8077a920> Start time (local time) 2025-04-29 10:14:15
+SCRIPT       : 10:14:26.001 [EXPANSION LOG]: DayZGame<8077a920> Start time (UTC) 2025-04-29 09:14:15
+SCRIPT       : 10:14:26.001 [EXPANSION LOG]: DayZGame<8077a920> Runtime since start (seconds) 11.432
+SCRIPT    (W): @"snow_weather\scripts\4_world/classes\worlds\chernarusplus.c,631": FIX-ME: Overriding function 'LogWeatherData' but not marked as 'override'
+SCRIPT       : Registering faction type eAIFactionLunatics ID 1167351711
+SCRIPT       : Registering faction type eAIFactionInfected ID 1371958374
+SCRIPT       : [TERJE CORE](INFO): Server address is 104.234.251.156:2302
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Immunity' with 22 perks. Perk points delta is -8
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Medicine' with 14 perks. Perk points delta is -9
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Athletic' with 9 perks. Perk points delta is -8
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Strength' with 11 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Metabolism' with 11 perks. Perk points delta is -10
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Stealth' with 11 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Survival' with 12 perks. Perk points delta is -13
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Hunting' with 9 perks. Perk points delta is -6
+SCRIPT       : [TERJE CORE](INFO): Registered skill 'CfgTerjeSkills Fishing' with 10 perks. Perk points delta is -14
+SCRIPT       : [TERJE CORE](INFO): Loaded 11 settings from the Core.cfg
+SCRIPT       : [TERJE CORE](INFO): Loaded 261 settings from the Medicine.cfg
+SCRIPT       : [TERJE CORE](INFO): Loaded 32 settings from the Radiation.cfg
+SCRIPT       : [TERJE CORE](INFO): Loaded 185 settings from the Skills.cfg
+SCRIPT       : 10:15:07.906 [EXPANSION DEBUG]: [ExpansionDebugSettings] Load existing setting file:$profile:ExpansionMod\Settings\DebugSettings.json
+SCRIPT       : 10:15:07.906 [EXPANSION DEBUG]: [ExpansionLogSettings] Load existing setting file:$profile:ExpansionMod\Settings\LogsSettings.json
+SCRIPT       : 10:15:07.908 [EXPANSION DEBUG]: [ExpansionNotificationSettings] Load existing setting file:$profile:ExpansionMod\Settings\NotificationSettings.json
+SCRIPT       : 10:15:07.909 [EXPANSION DEBUG]: [ExpansionMonitoringSettings] Load existing setting file:$profile:ExpansionMod\Settings\MonitoringSettings.json
+SCRIPT       : 10:15:07.909 [EXPANSION DEBUG]: [ExpansionDamageSystemSettings] Load existing setting file:$profile:ExpansionMod\Settings\DamageSystemSettings.json
+SCRIPT       : 10:15:07.910 [EXPANSION DEBUG]: [ExpansionPartySettings] Load existing setting file:$profile:ExpansionMod\Settings\PartySettings.json
+SCRIPT       : 10:15:07.910 [EXPANSION DEBUG]: [ExpansionHardlineSettings] Load existing setting file:$mission:expansion\settings\HardlineSettings.json
+SCRIPT       : 10:15:07.927 [EXPANSION DEBUG]: [ExpansionMarketSettings] Load existing setting file:$mission:expansion\settings\MarketSettings.json
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 1 (Ammo)
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): 
+File $profile:ExpansionMod\Market\Ammo_Boxes.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): JSON ERROR $CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT    (E): 
+File $profile:ExpansionMod\Market\Armbands.json:
+JSON ERROR:
+Missing a comma or '}' after an object member.
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\tools\expansionjsonfileparser.c:39
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:64
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 2 (Assault_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 3 (Backpacks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 4 (Bandanas)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 5 (Batteries)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 6 (Bayonets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 7 (Belts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 8 (Blouses_And_Suits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 9 (Boats)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 10 (Boots_And_Shoes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 11 (Buttstocks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 12 (Caps)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 13 (Cars)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 14 (Coats_And_Jackets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 15 (Containers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 16 (Crossbows)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 17 (Drinks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 18 (Electronics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 19 (Event)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 20 (Exchange)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 21 (Explosives_And_Grenades)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 22 (Eyewear)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 23 (Fish)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 24 (Fishing)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 25 (Flags)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 26 (Food)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 27 (Fruit_And_Vegetables)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 28 (Furnishings)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 29 (Gardening)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 30 (Ghillies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 31 (Gloves)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 32 (Handguards)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 33 (Hats_And_Hoods)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 34 (Helicopters)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 35 (Helmets)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 36 (Holsters_And_Pouches)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 37 (Kits)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 38 (Knifes)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 39 (Launchers)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 40 (Lights)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 41 (Liquids)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 42 (Locks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 43 (Magazines)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 44 (Masks)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 45 (Meat)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 46 (Medical)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 47 (Melee_Weapons)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 48 (Muzzles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 49 (Navigation)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 50 (Optics)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 51 (Pants_And_Shorts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 52 (Pistols)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 53 (Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 54 (Shirts_And_TShirts)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 55 (Shotguns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 56 (Skirts_And_Dresses)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 57 (Sniper_Rifles)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 58 (Spraycans)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 59 (Submachine_Guns)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 60 (Supplies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 61 (Sweaters_And_Hoodies)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 62 (Tents)
+SCRIPT    (E): 
+Item terjepillsadepress has already been added to category Medical (ID 46)
+Class:      'ExpansionMarketCategory'
+Function: 'Error'
+Stack trace:
+scripts/1_Core/proto\endebug.c:92
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:224
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketcategory.c:123
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:163
+DayZExpansion/Market/Scripts/3_Game/dayzexpansion_market\settings\expansionmarketsettings.c:1117
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettingbase.c:53
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:62
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:40
+DayZExpansion/AI/Scripts/3_Game/dayzexpansion_ai\settings\expansionsettings.c:22
+DayZExpansion/Core/Scripts/3_Game/dayzexpansion_core\settings\expansionsettings.c:314
+DayZExpansion/AI/Scripts/4_World/dayzexpansion_ai\classes\expansionworld.c:24
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\dayzexpansion.c:117
+DayZExpansion/Core/Scripts/5_Mission/dayzexpansion_core\mission\missionbase.c:11
+$CurrentDir:mpmissions\Expansion.chernarusplus\init.c:97
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 63 (Terje equipment)
+SCRIPT       : ExpansionMarketSettings::LoadCategories - Adding category ID 64 (Tools)
